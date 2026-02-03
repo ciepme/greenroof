@@ -1,0 +1,3111 @@
+# Title: February 2024 - January 2025 Contiguous U.S. County Heating Degree Days
+# Units: Fahrenheit Degree-Days
+# Note: Period of Record: 130 Years
+ID,Name,State,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+AL-001,Autauga County,Alabama,2113,25,-342,2455
+AL-003,Baldwin County,Alabama,1452,19,-313,1765
+AL-005,Barbour County,Alabama,1971,33,-253,2224
+AL-007,Bibb County,Alabama,2305,14,-448,2753
+AL-009,Blount County,Alabama,2658,8,-573,3231
+AL-011,Bullock County,Alabama,2060,30,-308,2368
+AL-013,Butler County,Alabama,1939,26,-329,2268
+AL-015,Calhoun County,Alabama,2569,11,-553,3122
+AL-017,Chambers County,Alabama,2422,11,-487,2909
+AL-019,Cherokee County,Alabama,2765,18,-486,3251
+AL-021,Chilton County,Alabama,2297,19,-417,2714
+AL-023,Choctaw County,Alabama,1992,23,-332,2324
+AL-025,Clarke County,Alabama,1882,25,-334,2216
+AL-027,Clay County,Alabama,2628,14,-451,3079
+AL-029,Cleburne County,Alabama,2658,8,-643,3301
+AL-031,Coffee County,Alabama,1878,35,-211,2089
+AL-033,Colbert County,Alabama,2735,2,-737,3472
+AL-035,Conecuh County,Alabama,1815,30,-290,2105
+AL-037,Coosa County,Alabama,2409,24,-358,2767
+AL-039,Covington County,Alabama,1819,32,-247,2066
+AL-041,Crenshaw County,Alabama,1998,29,-293,2291
+AL-043,Cullman County,Alabama,2722,8,-585,3307
+AL-045,Dale County,Alabama,1844,39,-185,2029
+AL-047,Dallas County,Alabama,2030,26,-336,2366
+AL-049,DeKalb County,Alabama,3072,20,-445,3517
+AL-051,Elmore County,Alabama,2173,29,-299,2472
+AL-053,Escambia County,Alabama,1704,31,-260,1964
+AL-055,Etowah County,Alabama,2675,13,-504,3179
+AL-057,Fayette County,Alabama,2495,10,-490,2985
+AL-059,Franklin County,Alabama,2790,5,-652,3442
+AL-061,Geneva County,Alabama,1796,38,-154,1950
+AL-063,Greene County,Alabama,2194,17,-376,2570
+AL-065,Hale County,Alabama,2177,17,-392,2569
+AL-067,Henry County,Alabama,1836,39,-200,2036
+AL-069,Houston County,Alabama,1723,41,-157,1880
+AL-071,Jackson County,Alabama,2994,14,-516,3510
+AL-073,Jefferson County,Alabama,2406,7,-569,2975
+AL-075,Lamar County,Alabama,2484,9,-493,2977
+AL-077,Lauderdale County,Alabama,2815,2,-754,3569
+AL-079,Lawrence County,Alabama,2819,5,-585,3404
+AL-081,Lee County,Alabama,2208,16,-389,2597
+AL-083,Limestone County,Alabama,2837,5,-636,3473
+AL-085,Lowndes County,Alabama,1994,28,-319,2313
+AL-087,Macon County,Alabama,2087,26,-320,2407
+AL-089,Madison County,Alabama,2831,5,-609,3440
+AL-091,Marengo County,Alabama,2038,20,-358,2396
+AL-093,Marion County,Alabama,2705,7,-549,3254
+AL-095,Marshall County,Alabama,2721,7,-581,3302
+AL-097,Mobile County,Alabama,1443,13,-390,1833
+AL-099,Monroe County,Alabama,1818,27,-334,2152
+AL-101,Montgomery County,Alabama,2053,32,-283,2336
+AL-103,Morgan County,Alabama,2753,5,-610,3363
+AL-105,Perry County,Alabama,2169,18,-378,2547
+AL-107,Pickens County,Alabama,2305,11,-451,2756
+AL-109,Pike County,Alabama,1979,32,-269,2248
+AL-111,Randolph County,Alabama,2555,7,-599,3154
+AL-113,Russell County,Alabama,2034,24,-331,2365
+AL-115,St. Clair County,Alabama,2592,12,-499,3091
+AL-117,Shelby County,Alabama,2395,11,-487,2882
+AL-119,Sumter County,Alabama,2096,16,-399,2495
+AL-121,Talladega County,Alabama,2507,19,-409,2916
+AL-123,Tallapoosa County,Alabama,2419,22,-364,2783
+AL-125,Tuscaloosa County,Alabama,2299,13,-448,2747
+AL-127,Walker County,Alabama,2523,8,-517,3040
+AL-129,Washington County,Alabama,1820,28,-286,2106
+AL-131,Wilcox County,Alabama,1935,25,-335,2270
+AL-133,Winston County,Alabama,2784,6,-549,3333
+AZ-001,Apache County,Arizona,5491,17,-476,5967
+AZ-003,Cochise County,Arizona,2712,22,-361,3073
+AZ-005,Coconino County,Arizona,4789,9,-667,5456
+AZ-007,Gila County,Arizona,3169,22,-466,3635
+AZ-009,Graham County,Arizona,2859,23,-368,3227
+AZ-011,Greenlee County,Arizona,3792,18,-412,4204
+AZ-012,La Paz County,Arizona,1321,17,-290,1611
+AZ-013,Maricopa County,Arizona,1443,26,-261,1704
+AZ-015,Mohave County,Arizona,2786,18,-432,3218
+AZ-017,Navajo County,Arizona,5005,8,-635,5640
+AZ-019,Pima County,Arizona,1726,25,-271,1997
+AZ-021,Pinal County,Arizona,1706,30,-218,1924
+AZ-023,Santa Cruz County,Arizona,2724,26,-347,3071
+AZ-025,Yavapai County,Arizona,3231,19,-489,3720
+AZ-027,Yuma County,Arizona,1151,23,-258,1409
+AR-001,Arkansas County,Arkansas,2351,2,-707,3058
+AR-003,Ashley County,Arkansas,2046,2,-670,2716
+AR-005,Baxter County,Arkansas,3304,1,-920,4224
+AR-007,Benton County,Arkansas,3247,1,-943,4190
+AR-009,Boone County,Arkansas,3370,1,-918,4288
+AR-011,Bradley County,Arkansas,2098,2,-748,2846
+AR-013,Calhoun County,Arkansas,2191,2,-656,2847
+AR-015,Carroll County,Arkansas,3381,1,-885,4266
+AR-017,Chicot County,Arkansas,2070,3,-605,2675
+AR-019,Clark County,Arkansas,2426,3,-587,3013
+AR-021,Clay County,Arkansas,3015,1,-916,3931
+AR-023,Cleburne County,Arkansas,2891,1,-869,3760
+AR-025,Cleveland County,Arkansas,2295,2,-661,2956
+AR-027,Columbia County,Arkansas,2112,2,-576,2688
+AR-029,Conway County,Arkansas,2740,1,-751,3491
+AR-031,Craighead County,Arkansas,2892,1,-846,3738
+AR-033,Crawford County,Arkansas,2864,2,-827,3691
+AR-035,Crittenden County,Arkansas,2567,2,-759,3326
+AR-037,Cross County,Arkansas,2744,7,-686,3430
+AR-039,Dallas County,Arkansas,2408,3,-562,2970
+AR-041,Desha County,Arkansas,2236,2,-657,2893
+AR-043,Drew County,Arkansas,2134,2,-712,2846
+AR-045,Faulkner County,Arkansas,2779,5,-629,3408
+AR-047,Franklin County,Arkansas,2871,1,-827,3698
+AR-049,Fulton County,Arkansas,3309,1,-1049,4358
+AR-051,Garland County,Arkansas,2566,1,-737,3303
+AR-053,Grant County,Arkansas,2470,6,-560,3030
+AR-055,Greene County,Arkansas,2963,1,-889,3852
+AR-057,Hempstead County,Arkansas,2239,2,-658,2897
+AR-059,Hot Spring County,Arkansas,2479,2,-612,3091
+AR-061,Howard County,Arkansas,2475,2,-679,3154
+AR-063,Independence County,Arkansas,2973,1,-860,3833
+AR-065,Izard County,Arkansas,3205,1,-924,4129
+AR-067,Jackson County,Arkansas,2903,4,-775,3678
+AR-069,Jefferson County,Arkansas,2391,2,-638,3029
+AR-071,Johnson County,Arkansas,2952,1,-869,3821
+AR-073,Lafayette County,Arkansas,1996,2,-684,2680
+AR-075,Lawrence County,Arkansas,3019,1,-877,3896
+AR-077,Lee County,Arkansas,2462,1,-747,3209
+AR-079,Lincoln County,Arkansas,2235,1,-720,2955
+AR-081,Little River County,Arkansas,2085,2,-784,2869
+AR-083,Logan County,Arkansas,2698,1,-808,3506
+AR-085,Lonoke County,Arkansas,2545,3,-639,3184
+AR-087,Madison County,Arkansas,3330,1,-982,4312
+AR-089,Marion County,Arkansas,3338,1,-894,4232
+AR-091,Miller County,Arkansas,1895,1,-773,2668
+AR-093,Mississippi County,Arkansas,2833,3,-759,3592
+AR-095,Monroe County,Arkansas,2441,1,-751,3192
+AR-097,Montgomery County,Arkansas,2646,1,-783,3429
+AR-099,Nevada County,Arkansas,2290,3,-574,2864
+AR-101,Newton County,Arkansas,3443,2,-874,4317
+AR-103,Ouachita County,Arkansas,2277,5,-517,2794
+AR-105,Perry County,Arkansas,2636,2,-717,3353
+AR-107,Phillips County,Arkansas,2370,1,-743,3113
+AR-109,Pike County,Arkansas,2529,2,-662,3191
+AR-111,Poinsett County,Arkansas,2843,4,-753,3596
+AR-113,Polk County,Arkansas,2790,2,-780,3570
+AR-115,Pope County,Arkansas,2897,1,-826,3723
+AR-117,Prairie County,Arkansas,2470,1,-735,3205
+AR-119,Pulaski County,Arkansas,2592,5,-605,3197
+AR-121,Randolph County,Arkansas,3100,1,-956,4056
+AR-123,St. Francis County,Arkansas,2565,2,-733,3298
+AR-125,Saline County,Arkansas,2578,2,-641,3219
+AR-127,Scott County,Arkansas,2708,1,-839,3547
+AR-129,Searcy County,Arkansas,3409,3,-784,4193
+AR-131,Sebastian County,Arkansas,2619,1,-858,3477
+AR-133,Sevier County,Arkansas,2335,2,-737,3072
+AR-135,Sharp County,Arkansas,3226,2,-925,4151
+AR-137,Stone County,Arkansas,3153,1,-897,4050
+AR-139,Union County,Arkansas,2039,2,-669,2708
+AR-141,Van Buren County,Arkansas,3121,2,-784,3905
+AR-143,Washington County,Arkansas,3148,1,-981,4129
+AR-145,White County,Arkansas,2686,1,-765,3451
+AR-147,Woodruff County,Arkansas,2682,4,-719,3401
+AR-149,Yell County,Arkansas,2648,2,-766,3414
+CA-001,Alameda County,California,2385,5,-672,3057
+CA-003,Alpine County,California,7305,12,-662,7967
+CA-005,Amador County,California,3270,11,-427,3697
+CA-007,Butte County,California,2770,5,-608,3378
+CA-009,Calaveras County,California,3223,13,-401,3624
+CA-011,Colusa County,California,2425,5,-571,2996
+CA-013,Contra Costa County,California,2317,7,-586,2903
+CA-015,Del Norte County,California,4603,13,-645,5248
+CA-017,El Dorado County,California,4305,11,-465,4770
+CA-019,Fresno County,California,3790,7,-698,4488
+CA-021,Glenn County,California,2757,5,-545,3302
+CA-023,Humboldt County,California,3908,11,-623,4531
+CA-025,Imperial County,California,865,12,-341,1206
+CA-027,Inyo County,California,3148,20,-429,3577
+CA-029,Kern County,California,2609,13,-509,3118
+CA-031,Kings County,California,2090,5,-556,2646
+CA-033,Lake County,California,3337,8,-524,3861
+CA-035,Lassen County,California,6294,8,-775,7069
+CA-037,Los Angeles County,California,2369,18,-469,2838
+CA-039,Madera County,California,3634,8,-670,4304
+CA-041,Marin County,California,2826,5,-918,3744
+CA-043,Mariposa County,California,3864,8,-604,4468
+CA-045,Mendocino County,California,3499,8,-487,3986
+CA-047,Merced County,California,2305,14,-467,2772
+CA-049,Modoc County,California,6325,8,-930,7255
+CA-051,Mono County,California,7186,10,-798,7984
+CA-053,Monterey County,California,2654,12,-566,3220
+CA-055,Napa County,California,2629,9,-547,3176
+CA-057,Nevada County,California,4743,11,-471,5214
+CA-059,Orange County,California,1527,30,-310,1837
+CA-061,Placer County,California,4377,12,-455,4832
+CA-063,Plumas County,California,6098,7,-683,6781
+CA-065,Riverside County,California,1555,18,-327,1882
+CA-067,Sacramento County,California,2197,9,-450,2647
+CA-069,San Benito County,California,2839,13,-585,3424
+CA-071,San Bernardino County,California,2120,23,-322,2442
+CA-073,San Diego County,California,2024,18,-436,2460
+CA-075,San Francisco County,California,2670,8,-751,3421
+CA-077,San Joaquin County,California,2148,8,-563,2711
+CA-079,San Luis Obispo County,California,2567,13,-563,3130
+CA-081,San Mateo County,California,2770,8,-791,3561
+CA-083,Santa Barbara County,California,2653,15,-699,3352
+CA-085,Santa Clara County,California,2637,7,-734,3371
+CA-087,Santa Cruz County,California,2620,7,-884,3504
+CA-089,Shasta County,California,4056,12,-511,4567
+CA-091,Sierra County,California,6235,10,-656,6891
+CA-093,Siskiyou County,California,5726,11,-735,6461
+CA-095,Solano County,California,2205,7,-561,2766
+CA-097,Sonoma County,California,2812,7,-625,3437
+CA-099,Stanislaus County,California,2399,15,-462,2861
+CA-101,Sutter County,California,2076,5,-548,2624
+CA-103,Tehama County,California,3189,9,-477,3666
+CA-105,Trinity County,California,4597,4,-666,5263
+CA-107,Tulare County,California,4121,7,-721,4842
+CA-109,Tuolumne County,California,5276,9,-598,5874
+CA-111,Ventura County,California,2925,12,-751,3676
+CA-113,Yolo County,California,2243,7,-506,2749
+CA-115,Yuba County,California,2640,8,-449,3089
+CO-001,Adams County,Colorado,5588,3,-982,6570
+CO-003,Alamosa County,Colorado,7512,5,-978,8490
+CO-005,Arapahoe County,Colorado,5649,3,-961,6610
+CO-007,Archuleta County,Colorado,7411,10,-792,8203
+CO-009,Baca County,Colorado,4662,5,-655,5317
+CO-011,Bent County,Colorado,4807,9,-705,5512
+CO-013,Boulder County,Colorado,7154,12,-662,7816
+CO-014,Broomfield County,Colorado,5384,6,-764,6148
+CO-015,Chaffee County,Colorado,9663,33,-371,10034
+CO-017,Cheyenne County,Colorado,5115,1,-985,6100
+CO-019,Clear Creek County,Colorado,9836,21,-559,10395
+CO-021,Conejos County,Colorado,8662,13,-681,9343
+CO-023,Costilla County,Colorado,8258,25,-511,8769
+CO-025,Crowley County,Colorado,5154,5,-780,5934
+CO-027,Custer County,Colorado,8113,9,-763,8876
+CO-029,Delta County,Colorado,6644,13,-845,7489
+CO-031,Denver County,Colorado,5334,4,-846,6180
+CO-033,Dolores County,Colorado,7684,14,-803,8487
+CO-035,Douglas County,Colorado,6233,5,-767,7000
+CO-037,Eagle County,Colorado,9175,29,-480,9655
+CO-039,Elbert County,Colorado,5901,2,-1100,7001
+CO-041,El Paso County,Colorado,5910,4,-923,6833
+CO-043,Fremont County,Colorado,6849,12,-561,7410
+CO-045,Garfield County,Colorado,7583,9,-841,8424
+CO-047,Gilpin County,Colorado,8994,17,-620,9614
+CO-049,Grand County,Colorado,9935,27,-512,10447
+CO-051,Gunnison County,Colorado,9652,32,-501,10153
+CO-053,Hinsdale County,Colorado,10509,25,-655,11164
+CO-055,Huerfano County,Colorado,6393,9,-672,7065
+CO-057,Jackson County,Colorado,10200,29,-497,10697
+CO-059,Jefferson County,Colorado,6524,6,-708,7232
+CO-061,Kiowa County,Colorado,4962,2,-855,5817
+CO-063,Kit Carson County,Colorado,5155,1,-1078,6233
+CO-065,Lake County,Colorado,11011,34,-349,11360
+CO-067,La Plata County,Colorado,7024,8,-882,7906
+CO-069,Larimer County,Colorado,7808,6,-1000,8808
+CO-071,Las Animas County,Colorado,5396,21,-480,5876
+CO-073,Lincoln County,Colorado,5480,3,-978,6458
+CO-075,Logan County,Colorado,5566,3,-987,6553
+CO-077,Mesa County,Colorado,6262,4,-1089,7351
+CO-079,Mineral County,Colorado,10215,23,-583,10798
+CO-081,Moffat County,Colorado,7404,8,-983,8387
+CO-083,Montezuma County,Colorado,5921,7,-814,6735
+CO-085,Montrose County,Colorado,6313,10,-977,7290
+CO-087,Morgan County,Colorado,5588,2,-1234,6822
+CO-089,Otero County,Colorado,4884,11,-626,5510
+CO-091,Ouray County,Colorado,8093,9,-1140,9233
+CO-093,Park County,Colorado,9598,35,-337,9935
+CO-095,Phillips County,Colorado,5367,1,-1211,6578
+CO-097,Pitkin County,Colorado,9852,34,-390,10242
+CO-099,Prowers County,Colorado,4625,1,-838,5463
+CO-101,Pueblo County,Colorado,4987,8,-680,5667
+CO-103,Rio Blanco County,Colorado,7288,7,-969,8257
+CO-105,Rio Grande County,Colorado,8668,8,-996,9664
+CO-107,Routt County,Colorado,9032,23,-625,9657
+CO-109,Saguache County,Colorado,8993,13,-662,9655
+CO-111,San Juan County,Colorado,10954,35,-591,11545
+CO-113,San Miguel County,Colorado,7194,14,-856,8050
+CO-115,Sedgwick County,Colorado,5390,1,-1175,6565
+CO-117,Summit County,Colorado,10647,32,-370,11017
+CO-119,Teller County,Colorado,8510,8,-724,9234
+CO-121,Washington County,Colorado,5569,4,-1016,6585
+CO-123,Weld County,Colorado,5802,2,-1059,6861
+CO-125,Yuma County,Colorado,5176,1,-1164,6340
+CT-001,Fairfield County,Connecticut,5070,4,-1138,6208
+CT-003,Hartford County,Connecticut,5462,4,-1044,6506
+CT-005,Litchfield County,Connecticut,6033,5,-1142,7175
+CT-007,Middlesex County,Connecticut,5339,8,-958,6297
+CT-009,New Haven County,Connecticut,5333,7,-969,6302
+CT-011,New London County,Connecticut,5316,7,-1011,6327
+CT-013,Tolland County,Connecticut,5706,6,-1035,6741
+CT-015,Windham County,Connecticut,5688,6,-998,6686
+DE-001,Kent County,Delaware,4192,16,-711,4903
+DE-003,New Castle County,Delaware,4392,13,-751,5143
+DE-005,Sussex County,Delaware,4018,18,-654,4672
+FL-001,Alachua County,Florida,1233,64,-57,1290
+FL-003,Baker County,Florida,1392,43,-160,1552
+FL-005,Bay County,Florida,1389,32,-238,1627
+FL-007,Bradford County,Florida,1263,56,-109,1372
+FL-009,Brevard County,Florida,604,46,-107,711
+FL-011,Broward County,Florida,227,35,-101,328
+FL-013,Calhoun County,Florida,1502,33,-243,1745
+FL-015,Charlotte County,Florida,525,67,-28,553
+FL-017,Citrus County,Florida,963,49,-114,1077
+FL-019,Clay County,Florida,1114,31,-218,1332
+FL-021,Collier County,Florida,316,50,-67,383
+FL-023,Columbia County,Florida,1458,61,-73,1531
+FL-027,DeSoto County,Florida,618,72,-19,637
+FL-029,Dixie County,Florida,1354,56,-84,1438
+FL-031,Duval County,Florida,1157,25,-274,1431
+FL-033,Escambia County,Florida,1477,29,-248,1725
+FL-035,Flagler County,Florida,888,30,-209,1097
+FL-037,Franklin County,Florida,1312,34,-207,1519
+FL-039,Gadsden County,Florida,1498,32,-255,1753
+FL-041,Gilchrist County,Florida,1344,60,-70,1414
+FL-043,Glades County,Florida,488,51,-73,561
+FL-045,Gulf County,Florida,1336,30,-248,1584
+FL-047,Hamilton County,Florida,1565,58,-92,1657
+FL-049,Hardee County,Florida,669,65,-40,709
+FL-051,Hendry County,Florida,404,51,-71,475
+FL-053,Hernando County,Florida,842,38,-154,996
+FL-055,Highlands County,Florida,609,65,-47,656
+FL-057,Hillsborough County,Florida,678,46,-123,801
+FL-059,Holmes County,Florida,1700,38,-164,1864
+FL-061,Indian River County,Florida,516,37,-117,633
+FL-063,Jackson County,Florida,1604,39,-177,1781
+FL-065,Jefferson County,Florida,1478,36,-211,1689
+FL-067,Lafayette County,Florida,1507,63,-32,1539
+FL-069,Lake County,Florida,797,36,-161,958
+FL-071,Lee County,Florida,416,58,-57,473
+FL-073,Leon County,Florida,1434,28,-263,1697
+FL-075,Levy County,Florida,1159,51,-119,1278
+FL-077,Liberty County,Florida,1431,31,-255,1686
+FL-079,Madison County,Florida,1571,49,-119,1690
+FL-081,Manatee County,Florida,647,59,-58,705
+FL-083,Marion County,Florida,1007,51,-125,1132
+FL-085,Martin County,Florida,355,32,-116,471
+FL-086,Miami-Dade County,Florida,178,29,-108,286
+FL-087,Monroe County,Florida,176,33,-90,266
+FL-089,Nassau County,Florida,1283,25,-289,1572
+FL-091,Okaloosa County,Florida,1540,28,-260,1800
+FL-093,Okeechobee County,Florida,511,42,-97,608
+FL-095,Orange County,Florida,678,41,-140,818
+FL-097,Osceola County,Florida,623,48,-99,722
+FL-099,Palm Beach County,Florida,303,38,-102,405
+FL-101,Pasco County,Florida,769,35,-159,928
+FL-103,Pinellas County,Florida,650,45,-111,761
+FL-105,Polk County,Florida,687,55,-78,765
+FL-107,Putnam County,Florida,988,34,-196,1184
+FL-109,St. Johns County,Florida,971,24,-259,1230
+FL-111,St. Lucie County,Florida,427,33,-114,541
+FL-113,Santa Rosa County,Florida,1540,34,-202,1742
+FL-115,Sarasota County,Florida,622,74,-3,625
+FL-117,Seminole County,Florida,715,44,-131,846
+FL-119,Sumter County,Florida,871,42,-134,1005
+FL-121,Suwannee County,Florida,1509,61,-52,1561
+FL-123,Taylor County,Florida,1455,50,-109,1564
+FL-125,Union County,Florida,1368,64,-68,1436
+FL-127,Volusia County,Florida,805,41,-152,957
+FL-129,Wakulla County,Florida,1370,31,-236,1606
+FL-131,Walton County,Florida,1554,29,-261,1815
+FL-133,Washington County,Florida,1567,37,-189,1756
+GA-001,Appling County,Georgia,1793,48,-169,1962
+GA-003,Atkinson County,Georgia,1747,42,-182,1929
+GA-005,Bacon County,Georgia,1724,38,-214,1938
+GA-007,Baker County,Georgia,1767,42,-190,1957
+GA-009,Baldwin County,Georgia,2165,20,-443,2608
+GA-011,Banks County,Georgia,2613,5,-615,3228
+GA-013,Barrow County,Georgia,2552,4,-641,3193
+GA-015,Bartow County,Georgia,2826,11,-527,3353
+GA-017,Ben Hill County,Georgia,1879,35,-261,2140
+GA-019,Berrien County,Georgia,1843,50,-127,1970
+GA-021,Bibb County,Georgia,2127,21,-423,2550
+GA-023,Bleckley County,Georgia,1997,29,-336,2333
+GA-025,Brantley County,Georgia,1584,32,-250,1834
+GA-027,Brooks County,Georgia,1717,49,-123,1840
+GA-029,Bryan County,Georgia,1804,50,-136,1940
+GA-031,Bulloch County,Georgia,1907,38,-245,2152
+GA-033,Burke County,Georgia,2090,22,-405,2495
+GA-035,Butts County,Georgia,2319,11,-578,2897
+GA-037,Calhoun County,Georgia,1822,36,-230,2052
+GA-039,Camden County,Georgia,1370,27,-278,1648
+GA-043,Candler County,Georgia,1917,36,-254,2171
+GA-045,Carroll County,Georgia,2599,6,-711,3310
+GA-047,Catoosa County,Georgia,2917,6,-657,3574
+GA-049,Charlton County,Georgia,1428,29,-262,1690
+GA-051,Chatham County,Georgia,1707,41,-212,1919
+GA-053,Chattahoochee County,Georgia,2029,21,-364,2393
+GA-055,Chattooga County,Georgia,3022,28,-406,3428
+GA-057,Cherokee County,Georgia,2871,5,-603,3474
+GA-059,Clarke County,Georgia,2528,11,-576,3104
+GA-061,Clay County,Georgia,1867,36,-235,2102
+GA-063,Clayton County,Georgia,2407,8,-667,3074
+GA-065,Clinch County,Georgia,1601,43,-176,1777
+GA-067,Cobb County,Georgia,2666,5,-664,3330
+GA-069,Coffee County,Georgia,1798,40,-220,2018
+GA-071,Colquitt County,Georgia,1840,50,-119,1959
+GA-073,Columbia County,Georgia,2267,24,-429,2696
+GA-075,Cook County,Georgia,1836,52,-102,1938
+GA-077,Coweta County,Georgia,2381,6,-682,3063
+GA-079,Crawford County,Georgia,2137,15,-439,2576
+GA-081,Crisp County,Georgia,1876,23,-398,2274
+GA-083,Dade County,Georgia,3155,15,-546,3701
+GA-085,Dawson County,Georgia,3045,4,-633,3678
+GA-087,Decatur County,Georgia,1605,37,-217,1822
+GA-089,DeKalb County,Georgia,2514,5,-692,3206
+GA-091,Dodge County,Georgia,1927,32,-305,2232
+GA-093,Dooly County,Georgia,1931,20,-420,2351
+GA-095,Dougherty County,Georgia,1796,38,-245,2041
+GA-097,Douglas County,Georgia,2568,5,-718,3286
+GA-099,Early County,Georgia,1772,40,-192,1964
+GA-101,Echols County,Georgia,1602,51,-129,1731
+GA-103,Effingham County,Georgia,1868,37,-246,2114
+GA-105,Elbert County,Georgia,2490,4,-661,3151
+GA-107,Emanuel County,Georgia,1949,27,-340,2289
+GA-109,Evans County,Georgia,1864,46,-160,2024
+GA-111,Fannin County,Georgia,3621,12,-570,4191
+GA-113,Fayette County,Georgia,2364,7,-670,3034
+GA-115,Floyd County,Georgia,2829,15,-481,3310
+GA-117,Forsyth County,Georgia,2832,4,-647,3479
+GA-119,Franklin County,Georgia,2632,4,-575,3207
+GA-121,Fulton County,Georgia,2547,4,-715,3262
+GA-123,Gilmer County,Georgia,3372,7,-601,3973
+GA-125,Glascock County,Georgia,2234,20,-409,2643
+GA-127,Glynn County,Georgia,1489,41,-198,1687
+GA-129,Gordon County,Georgia,2904,14,-499,3403
+GA-131,Grady County,Georgia,1621,37,-208,1829
+GA-133,Greene County,Georgia,2374,11,-533,2907
+GA-135,Gwinnett County,Georgia,2620,4,-676,3296
+GA-137,Habersham County,Georgia,2971,6,-593,3564
+GA-139,Hall County,Georgia,2743,4,-649,3392
+GA-141,Hancock County,Georgia,2254,17,-456,2710
+GA-143,Haralson County,Georgia,2751,6,-687,3438
+GA-145,Harris County,Georgia,2259,15,-442,2701
+GA-147,Hart County,Georgia,2617,4,-621,3238
+GA-149,Heard County,Georgia,2447,6,-644,3091
+GA-151,Henry County,Georgia,2380,8,-604,2984
+GA-153,Houston County,Georgia,2023,26,-381,2404
+GA-155,Irwin County,Georgia,1902,43,-204,2106
+GA-157,Jackson County,Georgia,2544,5,-639,3183
+GA-159,Jasper County,Georgia,2337,11,-574,2911
+GA-161,Jeff Davis County,Georgia,1834,39,-231,2065
+GA-163,Jefferson County,Georgia,2134,21,-403,2537
+GA-165,Jenkins County,Georgia,1993,24,-416,2409
+GA-167,Johnson County,Georgia,1992,23,-369,2361
+GA-169,Jones County,Georgia,2202,17,-482,2684
+GA-171,Lamar County,Georgia,2246,11,-566,2812
+GA-173,Lanier County,Georgia,1739,48,-134,1873
+GA-175,Laurens County,Georgia,1953,31,-325,2278
+GA-177,Lee County,Georgia,1820,26,-343,2163
+GA-179,Liberty County,Georgia,1797,57,-70,1867
+GA-181,Lincoln County,Georgia,2368,12,-520,2888
+GA-183,Long County,Georgia,1800,60,-60,1860
+GA-185,Lowndes County,Georgia,1716,53,-109,1825
+GA-187,Lumpkin County,Georgia,3198,4,-643,3841
+GA-189,McDuffie County,Georgia,2324,20,-450,2774
+GA-191,McIntosh County,Georgia,1640,53,-112,1752
+GA-193,Macon County,Georgia,2012,20,-423,2435
+GA-195,Madison County,Georgia,2554,4,-633,3187
+GA-197,Marion County,Georgia,2069,18,-401,2470
+GA-199,Meriwether County,Georgia,2317,7,-568,2885
+GA-201,Miller County,Georgia,1720,40,-188,1908
+GA-205,Mitchell County,Georgia,1765,45,-174,1939
+GA-207,Monroe County,Georgia,2223,12,-528,2751
+GA-209,Montgomery County,Georgia,1893,36,-257,2150
+GA-211,Morgan County,Georgia,2410,10,-563,2973
+GA-213,Murray County,Georgia,3023,7,-580,3603
+GA-215,Muscogee County,Georgia,2090,22,-368,2458
+GA-217,Newton County,Georgia,2439,8,-595,3034
+GA-219,Oconee County,Georgia,2486,11,-570,3056
+GA-221,Oglethorpe County,Georgia,2478,7,-607,3085
+GA-223,Paulding County,Georgia,2726,6,-639,3365
+GA-225,Peach County,Georgia,2098,24,-400,2498
+GA-227,Pickens County,Georgia,3058,5,-601,3659
+GA-229,Pierce County,Georgia,1652,38,-224,1876
+GA-231,Pike County,Georgia,2258,9,-582,2840
+GA-233,Polk County,Georgia,2710,7,-624,3334
+GA-235,Pulaski County,Georgia,1947,29,-355,2302
+GA-237,Putnam County,Georgia,2290,13,-524,2814
+GA-239,Quitman County,Georgia,1936,31,-277,2213
+GA-241,Rabun County,Georgia,3400,6,-633,4033
+GA-243,Randolph County,Georgia,1909,29,-290,2199
+GA-245,Richmond County,Georgia,2179,28,-376,2555
+GA-247,Rockdale County,Georgia,2461,7,-630,3091
+GA-249,Schley County,Georgia,1995,15,-431,2426
+GA-251,Screven County,Georgia,1993,27,-346,2339
+GA-253,Seminole County,Georgia,1627,38,-203,1830
+GA-255,Spalding County,Georgia,2291,9,-586,2877
+GA-257,Stephens County,Georgia,2741,10,-490,3231
+GA-259,Stewart County,Georgia,1990,23,-347,2337
+GA-261,Sumter County,Georgia,1887,17,-421,2308
+GA-263,Talbot County,Georgia,2213,14,-431,2644
+GA-265,Taliaferro County,Georgia,2361,11,-533,2894
+GA-267,Tattnall County,Georgia,1833,46,-156,1989
+GA-269,Taylor County,Georgia,2122,17,-419,2541
+GA-271,Telfair County,Georgia,1855,32,-277,2132
+GA-273,Terrell County,Georgia,1849,25,-330,2179
+GA-275,Thomas County,Georgia,1667,42,-176,1843
+GA-277,Tift County,Georgia,1921,49,-159,2080
+GA-279,Toombs County,Georgia,1875,41,-208,2083
+GA-281,Towns County,Georgia,3607,4,-701,4308
+GA-283,Treutlen County,Georgia,1921,30,-302,2223
+GA-285,Troup County,Georgia,2357,5,-553,2910
+GA-287,Turner County,Georgia,1916,34,-282,2198
+GA-289,Twiggs County,Georgia,2064,27,-367,2431
+GA-291,Union County,Georgia,3632,7,-636,4268
+GA-293,Upson County,Georgia,2196,10,-513,2709
+GA-295,Walker County,Georgia,3090,18,-523,3613
+GA-297,Walton County,Georgia,2517,8,-608,3125
+GA-299,Ware County,Georgia,1567,34,-235,1802
+GA-301,Warren County,Georgia,2321,17,-451,2772
+GA-303,Washington County,Georgia,2093,18,-394,2487
+GA-305,Wayne County,Georgia,1738,50,-128,1866
+GA-307,Webster County,Georgia,1953,20,-393,2346
+GA-309,Wheeler County,Georgia,1870,32,-281,2151
+GA-311,White County,Georgia,3136,5,-648,3784
+GA-313,Whitfield County,Georgia,2933,9,-606,3539
+GA-315,Wilcox County,Georgia,1898,28,-334,2232
+GA-317,Wilkes County,Georgia,2388,6,-603,2991
+GA-319,Wilkinson County,Georgia,2052,25,-378,2430
+GA-321,Worth County,Georgia,1870,40,-236,2106
+ID-001,Ada County,Idaho,5386,19,-426,5812
+ID-003,Adams County,Idaho,7591,10,-623,8214
+ID-005,Bannock County,Idaho,7172,8,-724,7896
+ID-007,Bear Lake County,Idaho,8708,15,-722,9430
+ID-009,Benewah County,Idaho,6686,4,-847,7533
+ID-011,Bingham County,Idaho,7334,7,-767,8101
+ID-013,Blaine County,Idaho,8022,9,-799,8821
+ID-015,Boise County,Idaho,7646,13,-642,8288
+ID-017,Bonner County,Idaho,7419,5,-834,8253
+ID-019,Bonneville County,Idaho,8012,6,-871,8883
+ID-021,Boundary County,Idaho,8023,3,-1061,9084
+ID-023,Butte County,Idaho,8264,6,-784,9048
+ID-025,Camas County,Idaho,8272,8,-852,9124
+ID-027,Canyon County,Idaho,5196,13,-508,5704
+ID-029,Caribou County,Idaho,8323,22,-565,8888
+ID-031,Cassia County,Idaho,6794,7,-738,7532
+ID-033,Clark County,Idaho,8626,4,-941,9567
+ID-035,Clearwater County,Idaho,7563,17,-552,8115
+ID-037,Custer County,Idaho,9193,6,-998,10191
+ID-039,Elmore County,Idaho,6518,8,-738,7256
+ID-041,Franklin County,Idaho,7357,8,-864,8221
+ID-043,Fremont County,Idaho,8752,4,-961,9713
+ID-045,Gem County,Idaho,6033,15,-497,6530
+ID-047,Gooding County,Idaho,6000,6,-871,6871
+ID-049,Idaho County,Idaho,8202,14,-631,8833
+ID-051,Jefferson County,Idaho,7572,5,-994,8566
+ID-053,Jerome County,Idaho,5876,4,-950,6826
+ID-055,Kootenai County,Idaho,6785,5,-812,7597
+ID-057,Latah County,Idaho,6482,4,-822,7304
+ID-059,Lemhi County,Idaho,8801,4,-980,9781
+ID-061,Lewis County,Idaho,6626,3,-866,7492
+ID-063,Lincoln County,Idaho,6598,6,-966,7564
+ID-065,Madison County,Idaho,7789,4,-927,8716
+ID-067,Minidoka County,Idaho,6660,4,-896,7556
+ID-069,Nez Perce County,Idaho,5708,3,-823,6531
+ID-071,Oneida County,Idaho,6769,5,-878,7647
+ID-073,Owyhee County,Idaho,6472,17,-516,6988
+ID-075,Payette County,Idaho,5305,6,-688,5993
+ID-077,Power County,Idaho,7077,11,-595,7672
+ID-079,Shoshone County,Idaho,7770,7,-754,8524
+ID-081,Teton County,Idaho,8924,12,-735,9659
+ID-083,Twin Falls County,Idaho,6384,10,-614,6998
+ID-085,Valley County,Idaho,9029,9,-740,9769
+ID-087,Washington County,Idaho,6347,11,-567,6914
+IL-001,Adams County,Illinois,4678,2,-1061,5739
+IL-003,Alexander County,Illinois,3487,2,-927,4414
+IL-005,Bond County,Illinois,4191,2,-1019,5210
+IL-007,Boone County,Illinois,5704,1,-1412,7116
+IL-009,Brown County,Illinois,4747,2,-1035,5782
+IL-011,Bureau County,Illinois,5311,1,-1344,6655
+IL-013,Calhoun County,Illinois,4334,2,-960,5294
+IL-015,Carroll County,Illinois,5681,1,-1419,7100
+IL-017,Cass County,Illinois,4776,5,-966,5742
+IL-019,Champaign County,Illinois,4942,3,-1114,6056
+IL-021,Christian County,Illinois,4601,2,-1030,5631
+IL-023,Clark County,Illinois,4408,1,-1122,5530
+IL-025,Clay County,Illinois,4185,1,-1017,5202
+IL-027,Clinton County,Illinois,4080,4,-972,5052
+IL-029,Coles County,Illinois,4624,2,-1061,5685
+IL-031,Cook County,Illinois,5159,1,-1445,6604
+IL-033,Crawford County,Illinois,4279,1,-1011,5290
+IL-035,Cumberland County,Illinois,4440,1,-1070,5510
+IL-037,DeKalb County,Illinois,5571,1,-1366,6937
+IL-039,De Witt County,Illinois,4991,3,-1095,6086
+IL-041,Douglas County,Illinois,4734,2,-1119,5853
+IL-043,DuPage County,Illinois,5286,1,-1435,6721
+IL-045,Edgar County,Illinois,4709,1,-1046,5755
+IL-047,Edwards County,Illinois,4033,5,-895,4928
+IL-049,Effingham County,Illinois,4377,1,-1049,5426
+IL-051,Fayette County,Illinois,4322,2,-1008,5330
+IL-053,Ford County,Illinois,5125,3,-1160,6285
+IL-055,Franklin County,Illinois,3849,1,-975,4824
+IL-057,Fulton County,Illinois,4837,1,-1170,6007
+IL-059,Gallatin County,Illinois,3828,6,-772,4600
+IL-061,Greene County,Illinois,4464,4,-903,5367
+IL-063,Grundy County,Illinois,5179,2,-1351,6530
+IL-065,Hamilton County,Illinois,3952,5,-890,4842
+IL-067,Hancock County,Illinois,4924,5,-1013,5937
+IL-069,Hardin County,Illinois,3741,6,-791,4532
+IL-071,Henderson County,Illinois,5105,2,-1110,6215
+IL-073,Henry County,Illinois,5262,1,-1349,6611
+IL-075,Iroquois County,Illinois,5205,4,-1095,6300
+IL-077,Jackson County,Illinois,3831,2,-937,4768
+IL-079,Jasper County,Illinois,4250,1,-1084,5334
+IL-081,Jefferson County,Illinois,3994,2,-960,4954
+IL-083,Jersey County,Illinois,4273,3,-955,5228
+IL-085,Jo Daviess County,Illinois,5918,1,-1329,7247
+IL-087,Johnson County,Illinois,3737,4,-862,4599
+IL-089,Kane County,Illinois,5496,1,-1381,6877
+IL-091,Kankakee County,Illinois,5231,2,-1196,6427
+IL-093,Kendall County,Illinois,5306,2,-1313,6619
+IL-095,Knox County,Illinois,5149,1,-1253,6402
+IL-097,Lake County,Illinois,5480,1,-1476,6956
+IL-099,LaSalle County,Illinois,5327,2,-1261,6588
+IL-101,Lawrence County,Illinois,4204,5,-878,5082
+IL-103,Lee County,Illinois,5476,1,-1416,6892
+IL-105,Livingston County,Illinois,5099,2,-1323,6422
+IL-107,Logan County,Illinois,4918,4,-987,5905
+IL-109,McDonough County,Illinois,5008,1,-1063,6071
+IL-111,McHenry County,Illinois,5778,1,-1361,7139
+IL-113,McLean County,Illinois,5025,3,-1287,6312
+IL-115,Macon County,Illinois,4877,6,-977,5854
+IL-117,Macoupin County,Illinois,4440,3,-993,5433
+IL-119,Madison County,Illinois,4152,5,-914,5066
+IL-121,Marion County,Illinois,4165,1,-985,5150
+IL-123,Marshall County,Illinois,5073,1,-1336,6409
+IL-125,Mason County,Illinois,4796,4,-1026,5822
+IL-127,Massac County,Illinois,3434,1,-974,4408
+IL-129,Menard County,Illinois,4883,6,-906,5789
+IL-131,Mercer County,Illinois,5195,1,-1253,6448
+IL-133,Monroe County,Illinois,3872,5,-950,4822
+IL-135,Montgomery County,Illinois,4413,3,-1045,5458
+IL-137,Morgan County,Illinois,4694,3,-995,5689
+IL-139,Moultrie County,Illinois,4770,4,-983,5753
+IL-141,Ogle County,Illinois,5633,1,-1404,7037
+IL-143,Peoria County,Illinois,4851,1,-1402,6253
+IL-145,Perry County,Illinois,3848,1,-1046,4894
+IL-147,Piatt County,Illinois,4900,3,-1103,6003
+IL-149,Pike County,Illinois,4564,3,-991,5555
+IL-151,Pope County,Illinois,3683,3,-862,4545
+IL-153,Pulaski County,Illinois,3480,2,-926,4406
+IL-155,Putnam County,Illinois,5197,2,-1224,6421
+IL-157,Randolph County,Illinois,3941,5,-912,4853
+IL-159,Richland County,Illinois,4179,3,-934,5113
+IL-161,Rock Island County,Illinois,5245,1,-1322,6567
+IL-163,St. Clair County,Illinois,4052,6,-857,4909
+IL-165,Saline County,Illinois,3899,6,-781,4680
+IL-167,Sangamon County,Illinois,4740,5,-967,5707
+IL-169,Schuyler County,Illinois,4834,2,-1026,5860
+IL-171,Scott County,Illinois,4619,5,-937,5556
+IL-173,Shelby County,Illinois,4628,3,-951,5579
+IL-175,Stark County,Illinois,5112,1,-1401,6513
+IL-177,Stephenson County,Illinois,5930,2,-1349,7279
+IL-179,Tazewell County,Illinois,4848,1,-1277,6125
+IL-181,Union County,Illinois,3782,4,-848,4630
+IL-183,Vermilion County,Illinois,5006,5,-982,5988
+IL-185,Wabash County,Illinois,4032,5,-887,4919
+IL-187,Warren County,Illinois,5189,1,-1158,6347
+IL-189,Washington County,Illinois,4023,4,-961,4984
+IL-191,Wayne County,Illinois,4072,4,-921,4993
+IL-193,White County,Illinois,3879,6,-874,4753
+IL-195,Whiteside County,Illinois,5359,1,-1442,6801
+IL-197,Will County,Illinois,5248,2,-1252,6500
+IL-199,Williamson County,Illinois,3875,4,-870,4745
+IL-201,Winnebago County,Illinois,5664,1,-1433,7097
+IL-203,Woodford County,Illinois,5026,1,-1374,6400
+IN-001,Adams County,Indiana,5146,2,-1209,6355
+IN-003,Allen County,Indiana,5198,1,-1243,6441
+IN-005,Bartholomew County,Indiana,4423,2,-997,5420
+IN-007,Benton County,Indiana,5243,2,-1090,6333
+IN-009,Blackford County,Indiana,5063,3,-1064,6127
+IN-011,Boone County,Indiana,5084,2,-1098,6182
+IN-013,Brown County,Indiana,4585,2,-1009,5594
+IN-015,Carroll County,Indiana,5135,2,-1074,6209
+IN-017,Cass County,Indiana,5245,3,-1070,6315
+IN-019,Clark County,Indiana,4087,3,-908,4995
+IN-021,Clay County,Indiana,4493,1,-1147,5640
+IN-023,Clinton County,Indiana,5173,3,-1041,6214
+IN-025,Crawford County,Indiana,4254,8,-712,4966
+IN-027,Daviess County,Indiana,4166,1,-1081,5247
+IN-029,Dearborn County,Indiana,4372,1,-1029,5401
+IN-031,Decatur County,Indiana,4579,1,-968,5547
+IN-033,DeKalb County,Indiana,5410,2,-1251,6661
+IN-035,Delaware County,Indiana,4960,2,-1095,6055
+IN-037,Dubois County,Indiana,4184,6,-867,5051
+IN-039,Elkhart County,Indiana,5377,1,-1381,6758
+IN-041,Fayette County,Indiana,4895,2,-974,5869
+IN-043,Floyd County,Indiana,3991,3,-959,4950
+IN-045,Fountain County,Indiana,5045,6,-968,6013
+IN-047,Franklin County,Indiana,4661,1,-984,5645
+IN-049,Fulton County,Indiana,5333,2,-1217,6550
+IN-051,Gibson County,Indiana,3921,2,-959,4880
+IN-053,Grant County,Indiana,5032,1,-1086,6118
+IN-055,Greene County,Indiana,4392,1,-1130,5522
+IN-057,Hamilton County,Indiana,5009,3,-997,6006
+IN-059,Hancock County,Indiana,4840,2,-1012,5852
+IN-061,Harrison County,Indiana,3983,3,-920,4903
+IN-063,Hendricks County,Indiana,4848,1,-1113,5961
+IN-065,Henry County,Indiana,5022,2,-1055,6077
+IN-067,Howard County,Indiana,5129,2,-1072,6201
+IN-069,Huntington County,Indiana,5209,1,-1078,6287
+IN-071,Jackson County,Indiana,4316,2,-979,5295
+IN-073,Jasper County,Indiana,5288,2,-1161,6449
+IN-075,Jay County,Indiana,5103,3,-1113,6216
+IN-077,Jefferson County,Indiana,4173,2,-1022,5195
+IN-079,Jennings County,Indiana,4316,1,-985,5301
+IN-081,Johnson County,Indiana,4610,1,-1103,5713
+IN-083,Knox County,Indiana,4149,2,-984,5133
+IN-085,Kosciusko County,Indiana,5388,2,-1216,6604
+IN-087,LaGrange County,Indiana,5436,1,-1350,6786
+IN-089,Lake County,Indiana,5252,1,-1271,6523
+IN-091,LaPorte County,Indiana,5324,1,-1292,6616
+IN-093,Lawrence County,Indiana,4446,3,-953,5399
+IN-095,Madison County,Indiana,5054,7,-930,5984
+IN-097,Marion County,Indiana,4725,1,-1085,5810
+IN-099,Marshall County,Indiana,5341,1,-1358,6699
+IN-101,Martin County,Indiana,4255,1,-1072,5327
+IN-103,Miami County,Indiana,5212,2,-1068,6280
+IN-105,Monroe County,Indiana,4613,1,-1023,5636
+IN-107,Montgomery County,Indiana,5061,2,-1072,6133
+IN-109,Morgan County,Indiana,4627,1,-1086,5713
+IN-111,Newton County,Indiana,5267,2,-1145,6412
+IN-113,Noble County,Indiana,5473,2,-1222,6695
+IN-115,Ohio County,Indiana,4176,1,-1062,5238
+IN-117,Orange County,Indiana,4353,6,-840,5193
+IN-119,Owen County,Indiana,4531,1,-1138,5669
+IN-121,Parke County,Indiana,4885,5,-929,5814
+IN-123,Perry County,Indiana,4140,11,-596,4736
+IN-125,Pike County,Indiana,4048,2,-1000,5048
+IN-127,Porter County,Indiana,5321,1,-1259,6580
+IN-129,Posey County,Indiana,3792,5,-845,4637
+IN-131,Pulaski County,Indiana,5325,2,-1184,6509
+IN-133,Putnam County,Indiana,4858,1,-1023,5881
+IN-135,Randolph County,Indiana,5103,3,-1110,6213
+IN-137,Ripley County,Indiana,4484,1,-1002,5486
+IN-139,Rush County,Indiana,4785,2,-1025,5810
+IN-141,St. Joseph County,Indiana,5316,1,-1415,6731
+IN-143,Scott County,Indiana,4173,2,-992,5165
+IN-145,Shelby County,Indiana,4539,1,-1090,5629
+IN-147,Spencer County,Indiana,3953,6,-716,4669
+IN-149,Starke County,Indiana,5304,1,-1294,6598
+IN-151,Steuben County,Indiana,5531,1,-1347,6878
+IN-153,Sullivan County,Indiana,4273,1,-1141,5414
+IN-155,Switzerland County,Indiana,4099,2,-1070,5169
+IN-157,Tippecanoe County,Indiana,5079,2,-1086,6165
+IN-159,Tipton County,Indiana,5096,3,-1063,6159
+IN-161,Union County,Indiana,4912,4,-950,5862
+IN-163,Vanderburgh County,Indiana,3740,4,-921,4661
+IN-165,Vermillion County,Indiana,4848,5,-926,5774
+IN-167,Vigo County,Indiana,4429,1,-1143,5572
+IN-169,Wabash County,Indiana,5228,3,-1042,6270
+IN-171,Warren County,Indiana,5117,3,-1006,6123
+IN-173,Warrick County,Indiana,3883,4,-901,4784
+IN-175,Washington County,Indiana,4311,2,-944,5255
+IN-177,Wayne County,Indiana,5124,5,-950,6074
+IN-179,Wells County,Indiana,5148,2,-1148,6296
+IN-181,White County,Indiana,5234,2,-1102,6336
+IN-183,Whitley County,Indiana,5397,1,-1108,6505
+IA-001,Adair County,Iowa,5681,2,-1192,6873
+IA-003,Adams County,Iowa,5514,3,-1194,6708
+IA-005,Allamakee County,Iowa,6453,2,-1303,7756
+IA-007,Appanoose County,Iowa,5220,2,-1110,6330
+IA-009,Audubon County,Iowa,5897,1,-1237,7134
+IA-011,Benton County,Iowa,5981,3,-1204,7185
+IA-013,Black Hawk County,Iowa,5951,1,-1462,7413
+IA-015,Boone County,Iowa,5723,1,-1370,7093
+IA-017,Bremer County,Iowa,6217,1,-1466,7683
+IA-019,Buchanan County,Iowa,6200,3,-1311,7511
+IA-021,Buena Vista County,Iowa,6233,1,-1419,7652
+IA-023,Butler County,Iowa,6156,1,-1439,7595
+IA-025,Calhoun County,Iowa,5979,1,-1379,7358
+IA-027,Carroll County,Iowa,5864,1,-1416,7280
+IA-029,Cass County,Iowa,5626,2,-1176,6802
+IA-031,Cedar County,Iowa,5762,4,-1109,6871
+IA-033,Cerro Gordo County,Iowa,6443,1,-1471,7914
+IA-035,Cherokee County,Iowa,6240,1,-1377,7617
+IA-037,Chickasaw County,Iowa,6540,3,-1380,7920
+IA-039,Clarke County,Iowa,5333,1,-1229,6562
+IA-041,Clay County,Iowa,6344,1,-1543,7887
+IA-043,Clayton County,Iowa,6302,3,-1267,7569
+IA-045,Clinton County,Iowa,5462,1,-1372,6834
+IA-047,Crawford County,Iowa,5808,1,-1452,7260
+IA-049,Dallas County,Iowa,5522,1,-1266,6788
+IA-051,Davis County,Iowa,5215,3,-1073,6288
+IA-053,Decatur County,Iowa,5200,1,-1218,6418
+IA-055,Delaware County,Iowa,6194,2,-1332,7526
+IA-057,Des Moines County,Iowa,5180,1,-1084,6264
+IA-059,Dickinson County,Iowa,6615,1,-1472,8087
+IA-061,Dubuque County,Iowa,6046,2,-1283,7329
+IA-063,Emmet County,Iowa,6546,1,-1536,8082
+IA-065,Fayette County,Iowa,6494,3,-1310,7804
+IA-067,Floyd County,Iowa,6436,2,-1369,7805
+IA-069,Franklin County,Iowa,6239,1,-1494,7733
+IA-071,Fremont County,Iowa,5048,2,-1167,6215
+IA-073,Greene County,Iowa,5823,1,-1292,7115
+IA-075,Grundy County,Iowa,5990,1,-1413,7403
+IA-077,Guthrie County,Iowa,5766,1,-1209,6975
+IA-079,Hamilton County,Iowa,6086,1,-1315,7401
+IA-081,Hancock County,Iowa,6479,1,-1401,7880
+IA-083,Hardin County,Iowa,6006,1,-1448,7454
+IA-085,Harrison County,Iowa,5523,1,-1303,6826
+IA-087,Henry County,Iowa,5353,4,-975,6328
+IA-089,Howard County,Iowa,6793,2,-1449,8242
+IA-091,Humboldt County,Iowa,6224,1,-1295,7519
+IA-093,Ida County,Iowa,6071,1,-1350,7421
+IA-095,Iowa County,Iowa,5668,1,-1249,6917
+IA-097,Jackson County,Iowa,5727,1,-1320,7047
+IA-099,Jasper County,Iowa,5530,1,-1302,6832
+IA-101,Jefferson County,Iowa,5457,4,-949,6406
+IA-103,Johnson County,Iowa,5642,2,-1176,6818
+IA-105,Jones County,Iowa,5880,2,-1295,7175
+IA-107,Keokuk County,Iowa,5445,2,-1243,6688
+IA-109,Kossuth County,Iowa,6399,1,-1470,7869
+IA-111,Lee County,Iowa,5079,5,-948,6027
+IA-113,Linn County,Iowa,5822,1,-1368,7190
+IA-115,Louisa County,Iowa,5214,1,-1207,6421
+IA-117,Lucas County,Iowa,5311,2,-1170,6481
+IA-119,Lyon County,Iowa,6525,1,-1391,7916
+IA-121,Madison County,Iowa,5434,1,-1237,6671
+IA-123,Mahaska County,Iowa,5348,1,-1267,6615
+IA-125,Marion County,Iowa,5299,1,-1187,6486
+IA-127,Marshall County,Iowa,5796,1,-1354,7150
+IA-129,Mills County,Iowa,5234,2,-1156,6390
+IA-131,Mitchell County,Iowa,6670,2,-1418,8088
+IA-133,Monona County,Iowa,5787,1,-1260,7047
+IA-135,Monroe County,Iowa,5244,2,-1159,6403
+IA-137,Montgomery County,Iowa,5361,3,-1190,6551
+IA-139,Muscatine County,Iowa,5508,4,-1064,6572
+IA-141,O&#039;Brien County,Iowa,6363,1,-1458,7821
+IA-143,Osceola County,Iowa,6619,1,-1431,8050
+IA-145,Page County,Iowa,5143,2,-1235,6378
+IA-147,Palo Alto County,Iowa,6351,1,-1487,7838
+IA-149,Plymouth County,Iowa,6114,1,-1380,7494
+IA-151,Pocahontas County,Iowa,6226,1,-1310,7536
+IA-153,Polk County,Iowa,5420,1,-1280,6700
+IA-155,Pottawattamie County,Iowa,5462,2,-1175,6637
+IA-157,Poweshiek County,Iowa,5656,1,-1319,6975
+IA-159,Ringgold County,Iowa,5277,1,-1264,6541
+IA-161,Sac County,Iowa,5974,1,-1482,7456
+IA-163,Scott County,Iowa,5308,1,-1390,6698
+IA-165,Shelby County,Iowa,5721,1,-1293,7014
+IA-167,Sioux County,Iowa,6319,1,-1381,7700
+IA-169,Story County,Iowa,5693,1,-1404,7097
+IA-171,Tama County,Iowa,5914,2,-1292,7206
+IA-173,Taylor County,Iowa,5293,2,-1256,6549
+IA-175,Union County,Iowa,5480,1,-1222,6702
+IA-177,Van Buren County,Iowa,5328,5,-854,6182
+IA-179,Wapello County,Iowa,5264,2,-1160,6424
+IA-181,Warren County,Iowa,5315,1,-1171,6486
+IA-183,Washington County,Iowa,5455,2,-1175,6630
+IA-185,Wayne County,Iowa,5276,2,-1137,6413
+IA-187,Webster County,Iowa,6075,1,-1288,7363
+IA-189,Winnebago County,Iowa,6648,1,-1401,8049
+IA-191,Winneshiek County,Iowa,6481,1,-1594,8075
+IA-193,Woodbury County,Iowa,5977,2,-1276,7253
+IA-195,Worth County,Iowa,6657,2,-1429,8086
+IA-197,Wright County,Iowa,6336,2,-1311,7647
+KS-001,Allen County,Kansas,3873,5,-893,4766
+KS-003,Anderson County,Kansas,4065,5,-883,4948
+KS-005,Atchison County,Kansas,4546,3,-1037,5583
+KS-007,Barber County,Kansas,3636,1,-1062,4698
+KS-009,Barton County,Kansas,4471,4,-834,5305
+KS-011,Bourbon County,Kansas,3822,5,-906,4728
+KS-013,Brown County,Kansas,4728,3,-1085,5813
+KS-015,Butler County,Kansas,3881,2,-1017,4898
+KS-017,Chase County,Kansas,4243,4,-932,5175
+KS-019,Chautauqua County,Kansas,3466,1,-943,4409
+KS-021,Cherokee County,Kansas,3384,2,-948,4332
+KS-023,Cheyenne County,Kansas,4931,1,-1176,6107
+KS-025,Clark County,Kansas,3889,1,-807,4696
+KS-027,Clay County,Kansas,4486,3,-1035,5521
+KS-029,Cloud County,Kansas,4509,1,-1128,5637
+KS-031,Coffey County,Kansas,3882,2,-1138,5020
+KS-033,Comanche County,Kansas,3981,5,-747,4728
+KS-035,Cowley County,Kansas,3552,2,-1019,4571
+KS-037,Crawford County,Kansas,3600,3,-947,4547
+KS-039,Decatur County,Kansas,4970,1,-1069,6039
+KS-041,Dickinson County,Kansas,4297,3,-1027,5324
+KS-043,Doniphan County,Kansas,4505,2,-1115,5620
+KS-045,Douglas County,Kansas,4179,3,-1027,5206
+KS-047,Edwards County,Kansas,4267,2,-880,5147
+KS-049,Elk County,Kansas,3682,1,-955,4637
+KS-051,Ellis County,Kansas,4574,3,-940,5514
+KS-053,Ellsworth County,Kansas,4271,2,-1038,5309
+KS-055,Finney County,Kansas,4382,1,-1058,5440
+KS-057,Ford County,Kansas,4136,1,-983,5119
+KS-059,Franklin County,Kansas,4108,3,-984,5092
+KS-061,Geary County,Kansas,4383,3,-1009,5392
+KS-063,Gove County,Kansas,4602,1,-1065,5667
+KS-065,Graham County,Kansas,4779,2,-925,5704
+KS-067,Grant County,Kansas,4299,1,-853,5152
+KS-069,Gray County,Kansas,4243,1,-1006,5249
+KS-071,Greeley County,Kansas,4871,3,-942,5813
+KS-073,Greenwood County,Kansas,3883,2,-1020,4903
+KS-075,Hamilton County,Kansas,4497,2,-893,5390
+KS-077,Harper County,Kansas,3558,1,-1027,4585
+KS-079,Harvey County,Kansas,4095,3,-904,4999
+KS-081,Haskell County,Kansas,4303,1,-888,5191
+KS-083,Hodgeman County,Kansas,4180,1,-1030,5210
+KS-085,Jackson County,Kansas,4716,5,-921,5637
+KS-087,Jefferson County,Kansas,4428,3,-993,5421
+KS-089,Jewell County,Kansas,4764,1,-1191,5955
+KS-091,Johnson County,Kansas,4105,2,-1135,5240
+KS-093,Kearny County,Kansas,4433,2,-995,5428
+KS-095,Kingman County,Kansas,3893,2,-920,4813
+KS-097,Kiowa County,Kansas,4141,2,-841,4982
+KS-099,Labette County,Kansas,3455,2,-884,4339
+KS-101,Lane County,Kansas,4432,1,-1161,5593
+KS-103,Leavenworth County,Kansas,4265,2,-1087,5352
+KS-105,Lincoln County,Kansas,4368,2,-1115,5483
+KS-107,Linn County,Kansas,4045,5,-845,4890
+KS-109,Logan County,Kansas,4612,1,-1130,5742
+KS-111,Lyon County,Kansas,4063,3,-1156,5219
+KS-113,McPherson County,Kansas,4234,3,-972,5206
+KS-115,Marion County,Kansas,4272,4,-919,5191
+KS-117,Marshall County,Kansas,4961,6,-897,5858
+KS-119,Meade County,Kansas,3967,1,-837,4804
+KS-121,Miami County,Kansas,4064,2,-1032,5096
+KS-123,Mitchell County,Kansas,4556,1,-1120,5676
+KS-125,Montgomery County,Kansas,3440,2,-881,4321
+KS-127,Morris County,Kansas,4354,3,-1038,5392
+KS-129,Morton County,Kansas,4180,4,-767,4947
+KS-131,Nemaha County,Kansas,4987,6,-911,5898
+KS-133,Neosho County,Kansas,3622,2,-933,4555
+KS-135,Ness County,Kansas,4404,1,-959,5363
+KS-137,Norton County,Kansas,5031,3,-948,5979
+KS-139,Osage County,Kansas,4114,3,-1117,5231
+KS-141,Osborne County,Kansas,4601,1,-1056,5657
+KS-143,Ottawa County,Kansas,4370,3,-1091,5461
+KS-145,Pawnee County,Kansas,4434,4,-813,5247
+KS-147,Phillips County,Kansas,4922,3,-938,5860
+KS-149,Pottawatomie County,Kansas,4655,4,-939,5594
+KS-151,Pratt County,Kansas,4076,2,-903,4979
+KS-153,Rawlins County,Kansas,4943,1,-1124,6067
+KS-155,Reno County,Kansas,4148,5,-828,4976
+KS-157,Republic County,Kansas,4739,1,-1204,5943
+KS-159,Rice County,Kansas,4305,3,-879,5184
+KS-161,Riley County,Kansas,4504,3,-1003,5507
+KS-163,Rooks County,Kansas,4744,4,-894,5638
+KS-165,Rush County,Kansas,4514,4,-862,5376
+KS-167,Russell County,Kansas,4394,1,-1058,5452
+KS-169,Saline County,Kansas,4254,3,-1043,5297
+KS-171,Scott County,Kansas,4484,1,-1158,5642
+KS-173,Sedgwick County,Kansas,3827,3,-956,4783
+KS-175,Seward County,Kansas,4098,2,-800,4898
+KS-177,Shawnee County,Kansas,4320,3,-1032,5352
+KS-179,Sheridan County,Kansas,4878,2,-1016,5894
+KS-181,Sherman County,Kansas,4923,1,-1215,6138
+KS-183,Smith County,Kansas,4874,1,-1012,5886
+KS-185,Stafford County,Kansas,4436,9,-709,5145
+KS-187,Stanton County,Kansas,4340,2,-786,5126
+KS-189,Stevens County,Kansas,4161,2,-806,4967
+KS-191,Sumner County,Kansas,3557,2,-997,4554
+KS-193,Thomas County,Kansas,4887,1,-1131,6018
+KS-195,Trego County,Kansas,4637,3,-910,5547
+KS-197,Wabaunsee County,Kansas,4354,3,-1066,5420
+KS-199,Wallace County,Kansas,4787,1,-1128,5915
+KS-201,Washington County,Kansas,4860,4,-1009,5869
+KS-203,Wichita County,Kansas,4651,1,-1058,5709
+KS-205,Wilson County,Kansas,3584,1,-952,4536
+KS-207,Woodson County,Kansas,3751,1,-1043,4794
+KS-209,Wyandotte County,Kansas,4165,2,-1127,5292
+KY-001,Adair County,Kentucky,3696,4,-858,4554
+KY-003,Allen County,Kentucky,3441,7,-754,4195
+KY-005,Anderson County,Kentucky,3866,1,-1016,4882
+KY-007,Ballard County,Kentucky,3308,1,-1006,4314
+KY-009,Barren County,Kentucky,3525,6,-773,4298
+KY-011,Bath County,Kentucky,4047,3,-836,4883
+KY-013,Bell County,Kentucky,3989,7,-671,4660
+KY-015,Boone County,Kentucky,4186,1,-1048,5234
+KY-017,Bourbon County,Kentucky,4091,2,-941,5032
+KY-019,Boyd County,Kentucky,3898,1,-1009,4907
+KY-021,Boyle County,Kentucky,3886,2,-920,4806
+KY-023,Bracken County,Kentucky,4327,5,-847,5174
+KY-025,Breathitt County,Kentucky,3808,5,-731,4539
+KY-027,Breckinridge County,Kentucky,3938,6,-751,4689
+KY-029,Bullitt County,Kentucky,3730,1,-966,4696
+KY-031,Butler County,Kentucky,3456,3,-891,4347
+KY-033,Caldwell County,Kentucky,3450,4,-846,4296
+KY-035,Calloway County,Kentucky,3385,6,-692,4077
+KY-037,Campbell County,Kentucky,4160,1,-1004,5164
+KY-039,Carlisle County,Kentucky,3236,1,-996,4232
+KY-041,Carroll County,Kentucky,3985,2,-1038,5023
+KY-043,Carter County,Kentucky,4082,1,-967,5049
+KY-045,Casey County,Kentucky,3911,2,-832,4743
+KY-047,Christian County,Kentucky,3277,1,-938,4215
+KY-049,Clark County,Kentucky,3952,2,-930,4882
+KY-051,Clay County,Kentucky,3820,6,-735,4555
+KY-053,Clinton County,Kentucky,3619,4,-800,4419
+KY-055,Crittenden County,Kentucky,3589,5,-823,4412
+KY-057,Cumberland County,Kentucky,3494,6,-791,4285
+KY-059,Daviess County,Kentucky,3762,5,-748,4510
+KY-061,Edmonson County,Kentucky,3511,3,-873,4384
+KY-063,Elliott County,Kentucky,4048,1,-898,4946
+KY-065,Estill County,Kentucky,3840,3,-775,4615
+KY-067,Fayette County,Kentucky,3938,1,-1052,4990
+KY-069,Fleming County,Kentucky,4221,5,-803,5024
+KY-071,Floyd County,Kentucky,3842,10,-651,4493
+KY-073,Franklin County,Kentucky,3907,2,-1011,4918
+KY-075,Fulton County,Kentucky,3167,1,-896,4063
+KY-077,Gallatin County,Kentucky,4022,2,-1045,5067
+KY-079,Garrard County,Kentucky,3870,2,-866,4736
+KY-081,Grant County,Kentucky,4126,2,-1009,5135
+KY-083,Graves County,Kentucky,3283,1,-889,4172
+KY-085,Grayson County,Kentucky,3723,4,-871,4594
+KY-087,Green County,Kentucky,3639,2,-872,4511
+KY-089,Greenup County,Kentucky,4097,1,-995,5092
+KY-091,Hancock County,Kentucky,3966,10,-617,4583
+KY-093,Hardin County,Kentucky,3804,3,-914,4718
+KY-095,Harlan County,Kentucky,4237,6,-684,4921
+KY-097,Harrison County,Kentucky,4168,2,-902,5070
+KY-099,Hart County,Kentucky,3624,3,-864,4488
+KY-101,Henderson County,Kentucky,3680,4,-823,4503
+KY-103,Henry County,Kentucky,4037,2,-990,5027
+KY-105,Hickman County,Kentucky,3213,1,-931,4144
+KY-107,Hopkins County,Kentucky,3442,2,-872,4314
+KY-109,Jackson County,Kentucky,3982,5,-754,4736
+KY-111,Jefferson County,Kentucky,3833,3,-922,4755
+KY-113,Jessamine County,Kentucky,3845,1,-1019,4864
+KY-115,Johnson County,Kentucky,3944,6,-753,4697
+KY-117,Kenton County,Kentucky,4198,1,-1027,5225
+KY-119,Knott County,Kentucky,3962,10,-653,4615
+KY-121,Knox County,Kentucky,3814,6,-710,4524
+KY-123,Larue County,Kentucky,3755,2,-907,4662
+KY-125,Laurel County,Kentucky,3873,6,-737,4610
+KY-127,Lawrence County,Kentucky,3912,2,-894,4806
+KY-129,Lee County,Kentucky,3809,4,-726,4535
+KY-131,Leslie County,Kentucky,3916,8,-711,4627
+KY-133,Letcher County,Kentucky,4163,15,-594,4757
+KY-135,Lewis County,Kentucky,4294,3,-831,5125
+KY-137,Lincoln County,Kentucky,3970,2,-812,4782
+KY-139,Livingston County,Kentucky,3457,2,-892,4349
+KY-141,Logan County,Kentucky,3400,4,-824,4224
+KY-143,Lyon County,Kentucky,3386,4,-829,4215
+KY-145,McCracken County,Kentucky,3278,1,-1035,4313
+KY-147,McCreary County,Kentucky,3902,10,-672,4574
+KY-149,McLean County,Kentucky,3553,3,-858,4411
+KY-151,Madison County,Kentucky,3865,3,-843,4708
+KY-153,Magoffin County,Kentucky,3932,5,-750,4682
+KY-155,Marion County,Kentucky,3788,2,-899,4687
+KY-157,Marshall County,Kentucky,3339,1,-815,4154
+KY-159,Martin County,Kentucky,3869,8,-701,4570
+KY-161,Mason County,Kentucky,4391,7,-779,5170
+KY-163,Meade County,Kentucky,3960,5,-815,4775
+KY-165,Menifee County,Kentucky,4010,2,-817,4827
+KY-167,Mercer County,Kentucky,3831,1,-999,4830
+KY-169,Metcalfe County,Kentucky,3654,5,-805,4459
+KY-171,Monroe County,Kentucky,3547,7,-729,4276
+KY-173,Montgomery County,Kentucky,4033,2,-896,4929
+KY-175,Morgan County,Kentucky,3988,3,-811,4799
+KY-177,Muhlenberg County,Kentucky,3423,2,-881,4304
+KY-179,Nelson County,Kentucky,3760,1,-943,4703
+KY-181,Nicholas County,Kentucky,4195,4,-860,5055
+KY-183,Ohio County,Kentucky,3639,4,-837,4476
+KY-185,Oldham County,Kentucky,4098,4,-885,4983
+KY-187,Owen County,Kentucky,4018,2,-1023,5041
+KY-189,Owsley County,Kentucky,3786,4,-725,4511
+KY-191,Pendleton County,Kentucky,4174,2,-936,5110
+KY-193,Perry County,Kentucky,3888,9,-680,4568
+KY-195,Pike County,Kentucky,3872,10,-635,4507
+KY-197,Powell County,Kentucky,3899,3,-802,4701
+KY-199,Pulaski County,Kentucky,3848,6,-749,4597
+KY-201,Robertson County,Kentucky,4282,5,-833,5115
+KY-203,Rockcastle County,Kentucky,3978,4,-742,4720
+KY-205,Rowan County,Kentucky,4126,4,-820,4946
+KY-207,Russell County,Kentucky,3707,5,-833,4540
+KY-209,Scott County,Kentucky,4016,2,-1024,5040
+KY-211,Shelby County,Kentucky,4026,2,-957,4983
+KY-213,Simpson County,Kentucky,3407,4,-798,4205
+KY-215,Spencer County,Kentucky,3873,2,-951,4824
+KY-217,Taylor County,Kentucky,3760,2,-873,4633
+KY-219,Todd County,Kentucky,3324,2,-900,4224
+KY-221,Trigg County,Kentucky,3304,2,-841,4145
+KY-223,Trimble County,Kentucky,4075,2,-990,5065
+KY-225,Union County,Kentucky,3719,5,-752,4471
+KY-227,Warren County,Kentucky,3368,3,-872,4240
+KY-229,Washington County,Kentucky,3815,2,-958,4773
+KY-231,Wayne County,Kentucky,3767,5,-758,4525
+KY-233,Webster County,Kentucky,3597,5,-807,4404
+KY-235,Whitley County,Kentucky,3845,10,-652,4497
+KY-237,Wolfe County,Kentucky,3912,3,-771,4683
+KY-239,Woodford County,Kentucky,3840,1,-1079,4919
+LA-001,Acadia Parish,Louisiana,1258,10,-358,1616
+LA-003,Allen Parish,Louisiana,1303,3,-461,1764
+LA-005,Ascension Parish,Louisiana,1249,9,-385,1634
+LA-007,Assumption Parish,Louisiana,1220,17,-313,1533
+LA-009,Avoyelles Parish,Louisiana,1533,10,-351,1884
+LA-011,Beauregard Parish,Louisiana,1324,3,-508,1832
+LA-013,Bienville Parish,Louisiana,1802,2,-694,2496
+LA-015,Bossier Parish,Louisiana,1780,2,-704,2484
+LA-017,Caddo Parish,Louisiana,1720,2,-681,2401
+LA-019,Calcasieu Parish,Louisiana,1186,5,-444,1630
+LA-021,Caldwell Parish,Louisiana,1784,4,-535,2319
+LA-023,Cameron Parish,Louisiana,1115,7,-387,1502
+LA-025,Catahoula Parish,Louisiana,1713,11,-402,2115
+LA-027,Claiborne Parish,Louisiana,1956,2,-660,2616
+LA-029,Concordia Parish,Louisiana,1668,13,-361,2029
+LA-031,De Soto Parish,Louisiana,1666,2,-653,2319
+LA-033,East Baton Rouge Parish,Louisiana,1243,4,-502,1745
+LA-035,East Carroll Parish,Louisiana,1907,4,-600,2507
+LA-037,East Feliciana Parish,Louisiana,1374,3,-524,1898
+LA-039,Evangeline Parish,Louisiana,1382,8,-392,1774
+LA-041,Franklin Parish,Louisiana,1757,4,-523,2280
+LA-043,Grant Parish,Louisiana,1697,8,-419,2116
+LA-045,Iberia Parish,Louisiana,1224,12,-313,1537
+LA-047,Iberville Parish,Louisiana,1230,7,-407,1637
+LA-049,Jackson Parish,Louisiana,1862,2,-640,2502
+LA-051,Jefferson Parish,Louisiana,1103,14,-301,1404
+LA-053,Jefferson Davis Parish,Louisiana,1217,6,-367,1584
+LA-055,Lafayette Parish,Louisiana,1253,10,-357,1610
+LA-057,Lafourche Parish,Louisiana,1096,21,-274,1370
+LA-059,La Salle Parish,Louisiana,1704,6,-440,2144
+LA-061,Lincoln Parish,Louisiana,1906,2,-683,2589
+LA-063,Livingston Parish,Louisiana,1307,5,-428,1735
+LA-065,Madison Parish,Louisiana,1802,4,-561,2363
+LA-067,Morehouse Parish,Louisiana,1946,2,-611,2557
+LA-069,Natchitoches Parish,Louisiana,1661,3,-516,2177
+LA-071,Orleans Parish,Louisiana,1146,8,-383,1529
+LA-073,Ouachita Parish,Louisiana,1874,2,-588,2462
+LA-075,Plaquemines Parish,Louisiana,1036,14,-303,1339
+LA-077,Pointe Coupee Parish,Louisiana,1319,5,-439,1758
+LA-079,Rapides Parish,Louisiana,1538,8,-428,1966
+LA-081,Red River Parish,Louisiana,1696,2,-664,2360
+LA-083,Richland Parish,Louisiana,1819,3,-567,2386
+LA-085,Sabine Parish,Louisiana,1628,2,-575,2203
+LA-087,St. Bernard Parish,Louisiana,1141,10,-357,1498
+LA-089,St. Charles Parish,Louisiana,1152,14,-310,1462
+LA-091,St. Helena Parish,Louisiana,1472,6,-487,1959
+LA-093,St. James Parish,Louisiana,1237,14,-333,1570
+LA-095,St. John the Baptist Parish,Louisiana,1226,11,-355,1581
+LA-097,St. Landry Parish,Louisiana,1353,10,-370,1723
+LA-099,St. Martin Parish,Louisiana,1245,10,-349,1594
+LA-101,St. Mary Parish,Louisiana,1192,17,-308,1500
+LA-103,St. Tammany Parish,Louisiana,1322,5,-441,1763
+LA-105,Tangipahoa Parish,Louisiana,1426,6,-433,1859
+LA-107,Tensas Parish,Louisiana,1754,8,-467,2221
+LA-109,Terrebonne Parish,Louisiana,1098,23,-260,1358
+LA-111,Union Parish,Louisiana,1935,2,-661,2596
+LA-113,Vermilion Parish,Louisiana,1186,11,-318,1504
+LA-115,Vernon Parish,Louisiana,1480,2,-553,2033
+LA-117,Washington Parish,Louisiana,1499,6,-469,1968
+LA-119,Webster Parish,Louisiana,1856,2,-673,2529
+LA-121,West Baton Rouge Parish,Louisiana,1221,5,-474,1695
+LA-123,West Carroll Parish,Louisiana,1928,4,-602,2530
+LA-125,West Feliciana Parish,Louisiana,1372,4,-478,1850
+LA-127,Winn Parish,Louisiana,1783,4,-512,2295
+ME-001,Androscoggin County,Maine,6811,3,-1359,8170
+ME-003,Aroostook County,Maine,8252,1,-1755,10007
+ME-005,Cumberland County,Maine,6714,5,-1183,7897
+ME-007,Franklin County,Maine,8261,2,-1498,9759
+ME-009,Hancock County,Maine,6889,3,-1283,8172
+ME-011,Kennebec County,Maine,6769,2,-1461,8230
+ME-013,Knox County,Maine,6766,2,-1260,8026
+ME-015,Lincoln County,Maine,6663,3,-1297,7960
+ME-017,Oxford County,Maine,7640,3,-1427,9067
+ME-019,Penobscot County,Maine,7364,2,-1483,8847
+ME-021,Piscataquis County,Maine,8149,1,-1636,9785
+ME-023,Sagadahoc County,Maine,6572,3,-1306,7878
+ME-025,Somerset County,Maine,8152,1,-1549,9701
+ME-027,Waldo County,Maine,6912,2,-1369,8281
+ME-029,Washington County,Maine,7103,4,-1354,8457
+ME-031,York County,Maine,6652,7,-988,7640
+MD-001,Allegany County,Maryland,4892,7,-762,5654
+MD-003,Anne Arundel County,Maryland,3848,12,-757,4605
+MD-005,Baltimore County,Maryland,4375,11,-836,5211
+MD-009,Calvert County,Maryland,3826,13,-682,4508
+MD-011,Caroline County,Maryland,4065,16,-689,4754
+MD-013,Carroll County,Maryland,4660,7,-859,5519
+MD-015,Cecil County,Maryland,4376,13,-769,5145
+MD-017,Charles County,Maryland,3726,11,-773,4499
+MD-019,Dorchester County,Maryland,3787,14,-708,4495
+MD-021,Frederick County,Maryland,4527,9,-839,5366
+MD-023,Garrett County,Maryland,5667,1,-1075,6742
+MD-025,Harford County,Maryland,4366,10,-806,5172
+MD-027,Howard County,Maryland,4340,9,-864,5204
+MD-029,Kent County,Maryland,4146,15,-656,4802
+MD-031,Montgomery County,Maryland,4185,6,-880,5065
+MD-033,Prince George&#039;s County,Maryland,3925,12,-753,4678
+MD-035,Queen Anne&#039;s County,Maryland,4057,15,-695,4752
+MD-037,St. Mary&#039;s County,Maryland,3807,16,-599,4406
+MD-039,Somerset County,Maryland,3650,12,-692,4342
+MD-041,Talbot County,Maryland,3835,10,-708,4543
+MD-043,Washington County,Maryland,4694,11,-763,5457
+MD-045,Wicomico County,Maryland,3813,15,-706,4519
+MD-047,Worcester County,Maryland,3725,15,-695,4420
+MD-510,Baltimore City,Maryland,3951,13,-831,4782
+MD-511,Washington,District of Columbia,3884,10,-773,4657
+MA-001,Barnstable County,Massachusetts,5320,11,-843,6163
+MA-003,Berkshire County,Massachusetts,6556,4,-1228,7784
+MA-005,Bristol County,Massachusetts,5294,10,-928,6222
+MA-007,Dukes County,Massachusetts,5219,14,-802,6021
+MA-009,Essex County,Massachusetts,5829,12,-890,6719
+MA-011,Franklin County,Massachusetts,6157,4,-1278,7435
+MA-013,Hampden County,Massachusetts,5852,4,-1102,6954
+MA-015,Hampshire County,Massachusetts,5990,4,-1133,7123
+MA-017,Middlesex County,Massachusetts,5670,5,-1061,6731
+MA-019,Nantucket County,Massachusetts,5293,10,-890,6183
+MA-021,Norfolk County,Massachusetts,5427,5,-1067,6494
+MA-023,Plymouth County,Massachusetts,5221,6,-1034,6255
+MA-025,Suffolk County,Massachusetts,5326,7,-1078,6404
+MA-027,Worcester County,Massachusetts,5910,4,-1226,7136
+MI-001,Alcona County,Michigan,6809,1,-1618,8427
+MI-003,Alger County,Michigan,7713,3,-1486,9199
+MI-005,Allegan County,Michigan,5570,2,-1279,6849
+MI-007,Alpena County,Michigan,6705,1,-1771,8476
+MI-009,Antrim County,Michigan,6541,1,-1814,8355
+MI-011,Arenac County,Michigan,6203,1,-1620,7823
+MI-013,Baraga County,Michigan,8161,1,-1722,9883
+MI-015,Barry County,Michigan,5698,1,-1410,7108
+MI-017,Bay County,Michigan,5878,1,-1595,7473
+MI-019,Benzie County,Michigan,6392,1,-1904,8296
+MI-021,Berrien County,Michigan,5261,1,-1372,6633
+MI-023,Branch County,Michigan,5547,1,-1390,6937
+MI-025,Calhoun County,Michigan,5609,1,-1473,7082
+MI-027,Cass County,Michigan,5400,1,-1433,6833
+MI-029,Charlevoix County,Michigan,6567,1,-1762,8329
+MI-031,Cheboygan County,Michigan,6790,1,-1815,8605
+MI-033,Chippewa County,Michigan,7652,1,-1692,9344
+MI-035,Clare County,Michigan,6609,1,-1554,8163
+MI-037,Clinton County,Michigan,5794,1,-1406,7200
+MI-039,Crawford County,Michigan,6956,1,-1678,8634
+MI-041,Delta County,Michigan,7422,3,-1479,8901
+MI-043,Dickinson County,Michigan,7773,1,-1700,9473
+MI-045,Eaton County,Michigan,5757,1,-1421,7178
+MI-047,Emmet County,Michigan,6773,1,-1840,8613
+MI-049,Genesee County,Michigan,5675,1,-1612,7287
+MI-051,Gladwin County,Michigan,6292,1,-1571,7863
+MI-053,Gogebic County,Michigan,8337,4,-1494,9831
+MI-055,Grand Traverse County,Michigan,6427,1,-1917,8344
+MI-057,Gratiot County,Michigan,5930,1,-1442,7372
+MI-059,Hillsdale County,Michigan,5589,1,-1482,7071
+MI-061,Houghton County,Michigan,7721,1,-1823,9544
+MI-063,Huron County,Michigan,5994,1,-1724,7718
+MI-065,Ingham County,Michigan,5812,1,-1432,7244
+MI-067,Ionia County,Michigan,5839,1,-1424,7263
+MI-069,Iosco County,Michigan,6475,1,-1636,8111
+MI-071,Iron County,Michigan,8304,1,-1697,10001
+MI-073,Isabella County,Michigan,6269,1,-1458,7727
+MI-075,Jackson County,Michigan,5723,1,-1473,7196
+MI-077,Kalamazoo County,Michigan,5482,1,-1456,6938
+MI-079,Kalkaska County,Michigan,6775,1,-1745,8520
+MI-081,Kent County,Michigan,5830,2,-1417,7247
+MI-083,Keweenaw County,Michigan,7813,1,-1836,9649
+MI-085,Lake County,Michigan,6564,2,-1366,7930
+MI-087,Lapeer County,Michigan,5735,1,-1616,7351
+MI-089,Leelanau County,Michigan,6374,1,-1929,8303
+MI-091,Lenawee County,Michigan,5329,1,-1530,6859
+MI-093,Livingston County,Michigan,5772,1,-1564,7336
+MI-095,Luce County,Michigan,7933,2,-1490,9423
+MI-097,Mackinac County,Michigan,7512,1,-1601,9113
+MI-099,Macomb County,Michigan,5231,1,-1672,6903
+MI-101,Manistee County,Michigan,6498,2,-1536,8034
+MI-103,Marquette County,Michigan,8019,1,-1644,9663
+MI-105,Mason County,Michigan,6402,2,-1358,7760
+MI-107,Mecosta County,Michigan,6489,2,-1392,7881
+MI-109,Menominee County,Michigan,7229,1,-1582,8811
+MI-111,Midland County,Michigan,5971,1,-1506,7477
+MI-113,Missaukee County,Michigan,6881,2,-1620,8501
+MI-115,Monroe County,Michigan,5111,1,-1457,6568
+MI-117,Montcalm County,Michigan,6128,1,-1474,7602
+MI-119,Montmorency County,Michigan,6770,1,-1821,8591
+MI-121,Muskegon County,Michigan,5716,1,-1558,7274
+MI-123,Newaygo County,Michigan,6214,1,-1444,7658
+MI-125,Oakland County,Michigan,5572,1,-1641,7213
+MI-127,Oceana County,Michigan,6130,1,-1517,7647
+MI-129,Ogemaw County,Michigan,6670,1,-1668,8338
+MI-131,Ontonagon County,Michigan,7945,1,-1635,9580
+MI-133,Osceola County,Michigan,6827,2,-1442,8269
+MI-135,Oscoda County,Michigan,6873,1,-1722,8595
+MI-137,Otsego County,Michigan,6904,1,-1881,8785
+MI-139,Ottawa County,Michigan,5597,2,-1382,6979
+MI-141,Presque Isle County,Michigan,6741,1,-1804,8545
+MI-143,Roscommon County,Michigan,6802,1,-1665,8467
+MI-145,Saginaw County,Michigan,5746,1,-1556,7302
+MI-147,St. Clair County,Michigan,5464,1,-1586,7050
+MI-149,St. Joseph County,Michigan,5410,1,-1415,6825
+MI-151,Sanilac County,Michigan,5887,1,-1581,7468
+MI-153,Schoolcraft County,Michigan,7616,4,-1375,8991
+MI-155,Shiawassee County,Michigan,5765,1,-1487,7252
+MI-157,Tuscola County,Michigan,5864,1,-1559,7423
+MI-159,Van Buren County,Michigan,5425,1,-1362,6787
+MI-161,Washtenaw County,Michigan,5628,1,-1493,7121
+MI-163,Wayne County,Michigan,5190,1,-1542,6732
+MI-165,Wexford County,Michigan,6792,1,-1634,8426
+MN-001,Aitkin County,Minnesota,8084,1,-1760,9844
+MN-003,Anoka County,Minnesota,6944,1,-1578,8522
+MN-005,Becker County,Minnesota,8191,2,-1695,9886
+MN-007,Beltrami County,Minnesota,8458,1,-1903,10361
+MN-009,Benton County,Minnesota,7272,1,-1777,9049
+MN-011,Big Stone County,Minnesota,7186,1,-1576,8762
+MN-013,Blue Earth County,Minnesota,6677,2,-1386,8063
+MN-015,Brown County,Minnesota,6670,1,-1506,8176
+MN-017,Carlton County,Minnesota,8275,2,-1615,9890
+MN-019,Carver County,Minnesota,6758,1,-1611,8369
+MN-021,Cass County,Minnesota,8003,1,-1847,9850
+MN-023,Chippewa County,Minnesota,7030,2,-1545,8575
+MN-025,Chisago County,Minnesota,7121,2,-1577,8698
+MN-027,Clay County,Minnesota,7819,2,-1665,9484
+MN-029,Clearwater County,Minnesota,8457,1,-1767,10224
+MN-031,Cook County,Minnesota,9294,3,-1579,10873
+MN-033,Cottonwood County,Minnesota,6700,1,-1635,8335
+MN-035,Crow Wing County,Minnesota,7648,1,-1910,9558
+MN-037,Dakota County,Minnesota,6614,1,-1585,8199
+MN-039,Dodge County,Minnesota,6859,1,-1645,8504
+MN-041,Douglas County,Minnesota,7604,1,-1839,9443
+MN-043,Faribault County,Minnesota,6620,2,-1401,8021
+MN-045,Fillmore County,Minnesota,6858,2,-1416,8274
+MN-047,Freeborn County,Minnesota,6717,1,-1525,8242
+MN-049,Goodhue County,Minnesota,6754,1,-1565,8319
+MN-051,Grant County,Minnesota,7442,1,-1735,9177
+MN-053,Hennepin County,Minnesota,6752,1,-1650,8402
+MN-055,Houston County,Minnesota,6491,1,-1401,7892
+MN-057,Hubbard County,Minnesota,8168,1,-1822,9990
+MN-059,Isanti County,Minnesota,7150,1,-1634,8784
+MN-061,Itasca County,Minnesota,8523,2,-1759,10282
+MN-063,Jackson County,Minnesota,6692,1,-1559,8251
+MN-065,Kanabec County,Minnesota,7438,1,-1788,9226
+MN-067,Kandiyohi County,Minnesota,7129,1,-1698,8827
+MN-069,Kittson County,Minnesota,8429,2,-2137,10566
+MN-071,Koochiching County,Minnesota,8828,2,-1754,10582
+MN-073,Lac qui Parle County,Minnesota,7064,2,-1450,8514
+MN-075,Lake County,Minnesota,9161,4,-1509,10670
+MN-077,Lake of the Woods County,Minnesota,8332,1,-2344,10676
+MN-079,Le Sueur County,Minnesota,6735,1,-1459,8194
+MN-081,Lincoln County,Minnesota,7248,1,-1384,8632
+MN-083,Lyon County,Minnesota,6907,1,-1455,8362
+MN-085,McLeod County,Minnesota,6768,1,-1712,8480
+MN-087,Mahnomen County,Minnesota,8435,3,-1612,10047
+MN-089,Marshall County,Minnesota,8555,2,-1779,10334
+MN-091,Martin County,Minnesota,6585,1,-1542,8127
+MN-093,Meeker County,Minnesota,7070,1,-1700,8770
+MN-095,Mille Lacs County,Minnesota,7418,1,-1817,9235
+MN-097,Morrison County,Minnesota,7433,1,-1841,9274
+MN-099,Mower County,Minnesota,6816,1,-1618,8434
+MN-101,Murray County,Minnesota,6958,1,-1508,8466
+MN-103,Nicollet County,Minnesota,6663,1,-1484,8147
+MN-105,Nobles County,Minnesota,6826,1,-1437,8263
+MN-107,Norman County,Minnesota,8141,3,-1531,9672
+MN-109,Olmsted County,Minnesota,6796,1,-1615,8411
+MN-111,Otter Tail County,Minnesota,7813,2,-1747,9560
+MN-113,Pennington County,Minnesota,8612,3,-1579,10191
+MN-115,Pine County,Minnesota,7699,1,-1753,9452
+MN-117,Pipestone County,Minnesota,7090,1,-1424,8514
+MN-119,Polk County,Minnesota,8331,3,-1601,9932
+MN-121,Pope County,Minnesota,7364,1,-1817,9181
+MN-123,Ramsey County,Minnesota,6717,1,-1582,8299
+MN-125,Red Lake County,Minnesota,8505,3,-1543,10048
+MN-127,Redwood County,Minnesota,6738,1,-1522,8260
+MN-129,Renville County,Minnesota,6807,1,-1595,8402
+MN-131,Rice County,Minnesota,6761,1,-1539,8300
+MN-133,Rock County,Minnesota,6716,1,-1466,8182
+MN-135,Roseau County,Minnesota,8606,1,-2113,10719
+MN-137,St. Louis County,Minnesota,8764,1,-1748,10512
+MN-139,Scott County,Minnesota,6618,1,-1577,8195
+MN-141,Sherburne County,Minnesota,7091,1,-1711,8802
+MN-143,Sibley County,Minnesota,6655,1,-1626,8281
+MN-145,Stearns County,Minnesota,7285,1,-1784,9069
+MN-147,Steele County,Minnesota,6815,1,-1566,8381
+MN-149,Stevens County,Minnesota,7263,1,-1739,9002
+MN-151,Swift County,Minnesota,7164,1,-1641,8805
+MN-153,Todd County,Minnesota,7528,1,-1932,9460
+MN-155,Traverse County,Minnesota,7314,2,-1604,8918
+MN-157,Wabasha County,Minnesota,6632,1,-1586,8218
+MN-159,Wadena County,Minnesota,7799,1,-1892,9691
+MN-161,Waseca County,Minnesota,6778,2,-1455,8233
+MN-163,Washington County,Minnesota,6802,1,-1546,8348
+MN-165,Watonwan County,Minnesota,6656,1,-1483,8139
+MN-167,Wilkin County,Minnesota,7536,2,-1664,9200
+MN-169,Winona County,Minnesota,6593,1,-1547,8140
+MN-171,Wright County,Minnesota,6975,1,-1704,8679
+MN-173,Yellow Medicine County,Minnesota,6972,1,-1418,8390
+MS-001,Adams County,Mississippi,1709,15,-383,2092
+MS-003,Alcorn County,Mississippi,2790,3,-701,3491
+MS-005,Amite County,Mississippi,1631,8,-464,2095
+MS-007,Attala County,Mississippi,2210,3,-576,2786
+MS-009,Benton County,Mississippi,2769,4,-658,3427
+MS-011,Bolivar County,Mississippi,2215,2,-664,2879
+MS-013,Calhoun County,Mississippi,2467,12,-488,2955
+MS-015,Carroll County,Mississippi,2097,1,-735,2832
+MS-017,Chickasaw County,Mississippi,2413,8,-532,2945
+MS-019,Choctaw County,Mississippi,2350,9,-547,2897
+MS-021,Claiborne County,Mississippi,1777,9,-475,2252
+MS-023,Clarke County,Mississippi,2012,24,-369,2381
+MS-025,Clay County,Mississippi,2298,9,-543,2841
+MS-027,Coahoma County,Mississippi,2305,1,-740,3045
+MS-029,Copiah County,Mississippi,1767,5,-496,2263
+MS-031,Covington County,Mississippi,1837,17,-395,2232
+MS-033,DeSoto County,Mississippi,2544,5,-666,3210
+MS-035,Forrest County,Mississippi,1725,20,-343,2068
+MS-037,Franklin County,Mississippi,1723,9,-435,2158
+MS-039,George County,Mississippi,1573,18,-371,1944
+MS-041,Greene County,Mississippi,1807,32,-264,2071
+MS-043,Grenada County,Mississippi,2273,5,-607,2880
+MS-045,Hancock County,Mississippi,1378,11,-415,1793
+MS-047,Harrison County,Mississippi,1417,12,-382,1799
+MS-049,Hinds County,Mississippi,1829,6,-525,2354
+MS-051,Holmes County,Mississippi,1968,3,-682,2650
+MS-053,Humphreys County,Mississippi,1884,2,-704,2588
+MS-055,Issaquena County,Mississippi,1905,4,-587,2492
+MS-057,Itawamba County,Mississippi,2552,5,-606,3158
+MS-059,Jackson County,Mississippi,1388,11,-410,1798
+MS-061,Jasper County,Mississippi,2000,19,-410,2410
+MS-063,Jefferson County,Mississippi,1767,9,-432,2199
+MS-065,Jefferson Davis County,Mississippi,1758,9,-447,2205
+MS-067,Jones County,Mississippi,1935,29,-280,2215
+MS-069,Kemper County,Mississippi,2121,8,-522,2643
+MS-071,Lafayette County,Mississippi,2556,9,-541,3097
+MS-073,Lamar County,Mississippi,1673,13,-398,2071
+MS-075,Lauderdale County,Mississippi,1989,7,-553,2542
+MS-077,Lawrence County,Mississippi,1706,5,-466,2172
+MS-079,Leake County,Mississippi,2103,3,-569,2672
+MS-081,Lee County,Mississippi,2477,4,-619,3096
+MS-083,Leflore County,Mississippi,1945,1,-806,2751
+MS-085,Lincoln County,Mississippi,1749,6,-460,2209
+MS-087,Lowndes County,Mississippi,2283,9,-509,2792
+MS-089,Madison County,Mississippi,1960,6,-504,2464
+MS-091,Marion County,Mississippi,1608,9,-435,2043
+MS-093,Marshall County,Mississippi,2653,4,-652,3305
+MS-095,Monroe County,Mississippi,2394,7,-535,2929
+MS-097,Montgomery County,Mississippi,2329,6,-561,2890
+MS-099,Neshoba County,Mississippi,2107,3,-609,2716
+MS-101,Newton County,Mississippi,1995,3,-591,2586
+MS-103,Noxubee County,Mississippi,2227,10,-493,2720
+MS-105,Oktibbeha County,Mississippi,2258,9,-560,2818
+MS-107,Panola County,Mississippi,2469,8,-586,3055
+MS-109,Pearl River County,Mississippi,1502,7,-445,1947
+MS-111,Perry County,Mississippi,1784,29,-284,2068
+MS-113,Pike County,Mississippi,1657,9,-450,2107
+MS-115,Pontotoc County,Mississippi,2525,8,-559,3084
+MS-117,Prentiss County,Mississippi,2653,3,-678,3331
+MS-119,Quitman County,Mississippi,2321,3,-689,3010
+MS-121,Rankin County,Mississippi,1903,4,-530,2433
+MS-123,Scott County,Mississippi,2006,3,-570,2576
+MS-125,Sharkey County,Mississippi,1917,4,-606,2523
+MS-127,Simpson County,Mississippi,1828,4,-515,2343
+MS-129,Smith County,Mississippi,1921,7,-485,2406
+MS-131,Stone County,Mississippi,1580,15,-365,1945
+MS-133,Sunflower County,Mississippi,2032,2,-740,2772
+MS-135,Tallahatchie County,Mississippi,2210,2,-693,2903
+MS-137,Tate County,Mississippi,2532,7,-606,3138
+MS-139,Tippah County,Mississippi,2761,3,-668,3429
+MS-141,Tishomingo County,Mississippi,2742,2,-711,3453
+MS-143,Tunica County,Mississippi,2424,1,-682,3106
+MS-145,Union County,Mississippi,2587,4,-626,3213
+MS-147,Walthall County,Mississippi,1617,7,-455,2072
+MS-149,Warren County,Mississippi,1803,5,-538,2341
+MS-151,Washington County,Mississippi,2031,3,-632,2663
+MS-153,Wayne County,Mississippi,2051,39,-182,2233
+MS-155,Webster County,Mississippi,2402,10,-513,2915
+MS-157,Wilkinson County,Mississippi,1553,9,-437,1990
+MS-159,Winston County,Mississippi,2245,3,-572,2817
+MS-161,Yalobusha County,Mississippi,2455,9,-524,2979
+MS-163,Yazoo County,Mississippi,1891,5,-559,2450
+MO-001,Adair County,Missouri,4880,2,-1209,6089
+MO-003,Andrew County,Missouri,4623,2,-1189,5812
+MO-005,Atchison County,Missouri,4882,2,-1168,6050
+MO-007,Audrain County,Missouri,4504,3,-996,5500
+MO-009,Barry County,Missouri,3544,2,-913,4457
+MO-011,Barton County,Missouri,3674,4,-841,4515
+MO-013,Bates County,Missouri,3990,5,-879,4869
+MO-015,Benton County,Missouri,4052,4,-935,4987
+MO-017,Bollinger County,Missouri,3682,2,-870,4552
+MO-019,Boone County,Missouri,4212,2,-1056,5268
+MO-021,Buchanan County,Missouri,4411,2,-1185,5596
+MO-023,Butler County,Missouri,3279,3,-828,4107
+MO-025,Caldwell County,Missouri,4709,3,-1040,5749
+MO-027,Callaway County,Missouri,4128,2,-1077,5205
+MO-029,Camden County,Missouri,3692,1,-1133,4825
+MO-031,Cape Girardeau County,Missouri,3644,2,-910,4554
+MO-033,Carroll County,Missouri,4562,5,-941,5503
+MO-035,Carter County,Missouri,3528,1,-979,4507
+MO-037,Cass County,Missouri,4065,2,-1150,5215
+MO-039,Cedar County,Missouri,3570,1,-1067,4637
+MO-041,Chariton County,Missouri,4514,3,-1000,5514
+MO-043,Christian County,Missouri,3775,2,-943,4718
+MO-045,Clark County,Missouri,4955,4,-985,5940
+MO-047,Clay County,Missouri,4319,2,-1160,5479
+MO-049,Clinton County,Missouri,4554,2,-1183,5737
+MO-051,Cole County,Missouri,3846,2,-1089,4935
+MO-053,Cooper County,Missouri,4125,2,-1100,5225
+MO-055,Crawford County,Missouri,4010,2,-1040,5050
+MO-057,Dade County,Missouri,3561,1,-1034,4595
+MO-059,Dallas County,Missouri,3893,1,-958,4851
+MO-061,Daviess County,Missouri,4740,2,-1096,5836
+MO-063,DeKalb County,Missouri,4645,2,-1214,5859
+MO-065,Dent County,Missouri,4076,4,-875,4951
+MO-067,Douglas County,Missouri,3667,1,-1037,4704
+MO-069,Dunklin County,Missouri,2969,1,-887,3856
+MO-071,Franklin County,Missouri,4019,1,-1062,5081
+MO-073,Gasconade County,Missouri,4006,1,-1113,5119
+MO-075,Gentry County,Missouri,4791,2,-1257,6048
+MO-077,Greene County,Missouri,3752,1,-1031,4783
+MO-079,Grundy County,Missouri,4831,3,-1001,5832
+MO-081,Harrison County,Missouri,4935,2,-1195,6130
+MO-083,Henry County,Missouri,4007,4,-934,4941
+MO-085,Hickory County,Missouri,3895,1,-946,4841
+MO-087,Holt County,Missouri,4662,2,-1134,5796
+MO-089,Howard County,Missouri,4265,2,-1094,5359
+MO-091,Howell County,Missouri,3448,1,-1200,4648
+MO-093,Iron County,Missouri,3918,1,-1043,4961
+MO-095,Jackson County,Missouri,4151,2,-1193,5344
+MO-097,Jasper County,Missouri,3435,1,-978,4413
+MO-099,Jefferson County,Missouri,3837,2,-1044,4881
+MO-101,Johnson County,Missouri,4130,3,-1134,5264
+MO-103,Knox County,Missouri,4920,3,-1077,5997
+MO-105,Laclede County,Missouri,3788,1,-1042,4830
+MO-107,Lafayette County,Missouri,4294,2,-1117,5411
+MO-109,Lawrence County,Missouri,3632,2,-980,4612
+MO-111,Lewis County,Missouri,4871,4,-924,5795
+MO-113,Lincoln County,Missouri,4346,3,-1000,5346
+MO-115,Linn County,Missouri,4750,5,-985,5735
+MO-117,Livingston County,Missouri,4717,5,-926,5643
+MO-119,McDonald County,Missouri,3240,1,-1004,4244
+MO-121,Macon County,Missouri,4702,2,-1123,5825
+MO-123,Madison County,Missouri,3825,1,-955,4780
+MO-125,Maries County,Missouri,3778,1,-1095,4873
+MO-127,Marion County,Missouri,4657,4,-991,5648
+MO-129,Mercer County,Missouri,5060,2,-1065,6125
+MO-131,Miller County,Missouri,3670,1,-1186,4856
+MO-133,Mississippi County,Missouri,3263,1,-917,4180
+MO-135,Moniteau County,Missouri,3992,1,-1108,5100
+MO-137,Monroe County,Missouri,4656,5,-945,5601
+MO-139,Montgomery County,Missouri,4306,2,-1057,5363
+MO-141,Morgan County,Missouri,3983,2,-1111,5094
+MO-143,New Madrid County,Missouri,3133,1,-885,4018
+MO-145,Newton County,Missouri,3249,1,-1110,4359
+MO-147,Nodaway County,Missouri,4935,2,-1226,6161
+MO-149,Oregon County,Missouri,3375,1,-1116,4491
+MO-151,Osage County,Missouri,3858,1,-1107,4965
+MO-153,Ozark County,Missouri,3456,1,-1017,4473
+MO-155,Pemiscot County,Missouri,2885,1,-935,3820
+MO-157,Perry County,Missouri,3851,2,-910,4761
+MO-159,Pettis County,Missouri,4176,2,-1025,5201
+MO-161,Phelps County,Missouri,3829,2,-1012,4841
+MO-163,Pike County,Missouri,4485,3,-1017,5502
+MO-165,Platte County,Missouri,4302,2,-1150,5452
+MO-167,Polk County,Missouri,3692,1,-1092,4784
+MO-169,Pulaski County,Missouri,3645,1,-1140,4785
+MO-171,Putnam County,Missouri,5118,2,-1057,6175
+MO-173,Ralls County,Missouri,4526,2,-1045,5571
+MO-175,Randolph County,Missouri,4548,3,-1033,5581
+MO-177,Ray County,Missouri,4488,3,-1077,5565
+MO-179,Reynolds County,Missouri,3849,2,-985,4834
+MO-181,Ripley County,Missouri,3299,1,-973,4272
+MO-183,St. Charles County,Missouri,4019,2,-1053,5072
+MO-185,St. Clair County,Missouri,3849,3,-884,4733
+MO-186,Ste. Genevieve County,Missouri,3893,4,-928,4821
+MO-187,St. Francois County,Missouri,3892,1,-1040,4932
+MO-189,St. Louis County,Missouri,3899,2,-1027,4926
+MO-195,Saline County,Missouri,4322,2,-1024,5346
+MO-197,Schuyler County,Missouri,5032,2,-1168,6200
+MO-199,Scotland County,Missouri,4994,3,-1121,6115
+MO-201,Scott County,Missouri,3393,1,-913,4306
+MO-203,Shannon County,Missouri,3647,1,-1069,4716
+MO-205,Shelby County,Missouri,4864,4,-933,5797
+MO-207,Stoddard County,Missouri,3318,4,-829,4147
+MO-209,Stone County,Missouri,3616,4,-845,4461
+MO-211,Sullivan County,Missouri,4943,2,-1043,5986
+MO-213,Taney County,Missouri,3497,1,-907,4404
+MO-215,Texas County,Missouri,3826,1,-1000,4826
+MO-217,Vernon County,Missouri,3753,4,-877,4630
+MO-219,Warren County,Missouri,4189,2,-1088,5277
+MO-221,Washington County,Missouri,3899,1,-1135,5034
+MO-223,Wayne County,Missouri,3630,3,-849,4479
+MO-225,Webster County,Missouri,3962,1,-992,4954
+MO-227,Worth County,Missouri,5012,1,-1293,6305
+MO-229,Wright County,Missouri,3866,1,-1004,4870
+MO-510,St. Louis City,Missouri,3831,3,-1026,4857
+MT-001,Beaverhead County,Montana,9217,3,-1080,10297
+MT-003,Big Horn County,Montana,6917,4,-1100,8017
+MT-005,Blaine County,Montana,7944,10,-1006,8950
+MT-007,Broadwater County,Montana,7815,6,-811,8626
+MT-009,Carbon County,Montana,7472,2,-1316,8788
+MT-011,Carter County,Montana,7298,3,-1226,8524
+MT-013,Cascade County,Montana,7604,11,-887,8491
+MT-015,Chouteau County,Montana,7460,9,-945,8405
+MT-017,Custer County,Montana,7005,3,-1221,8226
+MT-019,Daniels County,Montana,8788,7,-1280,10068
+MT-021,Dawson County,Montana,7702,9,-1126,8828
+MT-023,Deer Lodge County,Montana,9410,8,-877,10287
+MT-025,Fallon County,Montana,7538,7,-1099,8637
+MT-027,Fergus County,Montana,7496,14,-824,8320
+MT-029,Flathead County,Montana,8417,3,-1168,9585
+MT-031,Gallatin County,Montana,8589,3,-1069,9658
+MT-033,Garfield County,Montana,7263,3,-1225,8488
+MT-035,Glacier County,Montana,8658,5,-1212,9870
+MT-037,Golden Valley County,Montana,7217,8,-890,8107
+MT-039,Granite County,Montana,8951,5,-926,9877
+MT-041,Hill County,Montana,8246,12,-1002,9248
+MT-043,Jefferson County,Montana,8262,4,-1015,9277
+MT-045,Judith Basin County,Montana,8112,11,-885,8997
+MT-047,Lake County,Montana,7427,4,-959,8386
+MT-049,Lewis and Clark County,Montana,8262,3,-1021,9283
+MT-051,Liberty County,Montana,8082,10,-1088,9170
+MT-053,Lincoln County,Montana,7852,3,-1187,9039
+MT-055,McCone County,Montana,7634,4,-1328,8962
+MT-057,Madison County,Montana,8649,4,-1027,9676
+MT-059,Meagher County,Montana,8601,2,-1096,9697
+MT-061,Mineral County,Montana,8108,12,-648,8756
+MT-063,Missoula County,Montana,8161,4,-893,9054
+MT-065,Musselshell County,Montana,6915,10,-900,7815
+MT-067,Park County,Montana,8780,3,-1168,9948
+MT-069,Petroleum County,Montana,6983,14,-865,7848
+MT-071,Phillips County,Montana,7748,11,-1073,8821
+MT-073,Pondera County,Montana,8036,6,-1085,9121
+MT-075,Powder River County,Montana,6941,2,-1095,8036
+MT-077,Powell County,Montana,8684,3,-1073,9757
+MT-079,Prairie County,Montana,7300,3,-1246,8546
+MT-081,Ravalli County,Montana,8623,7,-766,9389
+MT-083,Richland County,Montana,7759,5,-1333,9092
+MT-085,Roosevelt County,Montana,8166,7,-1308,9474
+MT-087,Rosebud County,Montana,7043,4,-1082,8125
+MT-089,Sanders County,Montana,7694,7,-764,8458
+MT-091,Sheridan County,Montana,8594,7,-1311,9905
+MT-093,Silver Bow County,Montana,8809,5,-956,9765
+MT-095,Stillwater County,Montana,7361,6,-996,8357
+MT-097,Sweet Grass County,Montana,7636,5,-1029,8665
+MT-099,Teton County,Montana,8033,6,-1046,9079
+MT-101,Toole County,Montana,7957,9,-1130,9087
+MT-103,Treasure County,Montana,6824,4,-1084,7908
+MT-105,Valley County,Montana,8184,8,-1247,9431
+MT-107,Wheatland County,Montana,7766,9,-846,8612
+MT-109,Wibaux County,Montana,7682,8,-1057,8739
+MT-111,Yellowstone County,Montana,6622,6,-1004,7626
+NE-001,Adams County,Nebraska,5233,1,-1200,6433
+NE-003,Antelope County,Nebraska,5958,2,-1167,7125
+NE-005,Arthur County,Nebraska,5809,1,-1257,7066
+NE-007,Banner County,Nebraska,5971,2,-1167,7138
+NE-009,Blaine County,Nebraska,5868,2,-1056,6924
+NE-011,Boone County,Nebraska,5762,2,-1298,7060
+NE-013,Box Butte County,Nebraska,6265,2,-1126,7391
+NE-015,Boyd County,Nebraska,6152,5,-1002,7154
+NE-017,Brown County,Nebraska,6178,6,-946,7124
+NE-019,Buffalo County,Nebraska,5385,1,-1263,6648
+NE-021,Burt County,Nebraska,5586,1,-1322,6908
+NE-023,Butler County,Nebraska,5375,2,-1279,6654
+NE-025,Cass County,Nebraska,5115,1,-1226,6341
+NE-027,Cedar County,Nebraska,6064,2,-1246,7310
+NE-029,Chase County,Nebraska,5100,1,-1304,6404
+NE-031,Cherry County,Nebraska,6086,1,-1263,7349
+NE-033,Cheyenne County,Nebraska,5719,1,-1186,6905
+NE-035,Clay County,Nebraska,5240,2,-1168,6408
+NE-037,Colfax County,Nebraska,5390,1,-1441,6831
+NE-039,Cuming County,Nebraska,5752,1,-1240,6992
+NE-041,Custer County,Nebraska,5666,1,-1245,6911
+NE-043,Dakota County,Nebraska,5960,3,-1202,7162
+NE-045,Dawes County,Nebraska,6156,4,-1132,7288
+NE-047,Dawson County,Nebraska,5498,1,-1035,6533
+NE-049,Deuel County,Nebraska,5519,1,-1130,6649
+NE-051,Dixon County,Nebraska,6114,3,-1121,7235
+NE-053,Dodge County,Nebraska,5392,1,-1364,6756
+NE-055,Douglas County,Nebraska,5199,1,-1328,6527
+NE-057,Dundy County,Nebraska,4949,1,-1234,6183
+NE-059,Fillmore County,Nebraska,5161,2,-1176,6337
+NE-061,Franklin County,Nebraska,5100,1,-1080,6180
+NE-063,Frontier County,Nebraska,5226,1,-1140,6366
+NE-065,Furnas County,Nebraska,5162,1,-950,6112
+NE-067,Gage County,Nebraska,5041,3,-1111,6152
+NE-069,Garden County,Nebraska,5851,1,-1222,7073
+NE-071,Garfield County,Nebraska,6053,4,-1143,7196
+NE-073,Gosper County,Nebraska,5355,1,-976,6331
+NE-075,Grant County,Nebraska,6081,1,-1261,7342
+NE-077,Greeley County,Nebraska,5818,2,-1177,6995
+NE-079,Hall County,Nebraska,5360,1,-1210,6570
+NE-081,Hamilton County,Nebraska,5270,1,-1232,6502
+NE-083,Harlan County,Nebraska,5099,2,-1009,6108
+NE-085,Hayes County,Nebraska,5222,1,-1172,6394
+NE-087,Hitchcock County,Nebraska,5010,1,-1102,6112
+NE-089,Holt County,Nebraska,6216,5,-1015,7231
+NE-091,Hooker County,Nebraska,5975,2,-1145,7120
+NE-093,Howard County,Nebraska,5517,2,-1187,6704
+NE-095,Jefferson County,Nebraska,5003,4,-1167,6170
+NE-097,Johnson County,Nebraska,5039,3,-1087,6126
+NE-099,Kearney County,Nebraska,5289,1,-1179,6468
+NE-101,Keith County,Nebraska,5474,1,-1169,6643
+NE-103,Keya Paha County,Nebraska,6214,5,-1072,7286
+NE-105,Kimball County,Nebraska,6170,2,-1098,7268
+NE-107,Knox County,Nebraska,6018,3,-1158,7176
+NE-109,Lancaster County,Nebraska,5021,1,-1331,6352
+NE-111,Lincoln County,Nebraska,5515,1,-1125,6640
+NE-113,Logan County,Nebraska,5732,1,-1164,6896
+NE-115,Loup County,Nebraska,5985,3,-1137,7122
+NE-117,McPherson County,Nebraska,5827,1,-1141,6968
+NE-119,Madison County,Nebraska,5693,1,-1340,7033
+NE-121,Merrick County,Nebraska,5308,1,-1309,6617
+NE-123,Morrill County,Nebraska,5821,1,-1207,7028
+NE-125,Nance County,Nebraska,5465,2,-1336,6801
+NE-127,Nemaha County,Nebraska,4890,3,-1102,5992
+NE-129,Nuckolls County,Nebraska,5059,1,-1179,6238
+NE-131,Otoe County,Nebraska,5053,1,-1134,6187
+NE-133,Pawnee County,Nebraska,5013,3,-1000,6013
+NE-135,Perkins County,Nebraska,5362,1,-1219,6581
+NE-137,Phelps County,Nebraska,5343,1,-1080,6423
+NE-139,Pierce County,Nebraska,5936,1,-1260,7196
+NE-141,Platte County,Nebraska,5486,1,-1401,6887
+NE-143,Polk County,Nebraska,5210,1,-1414,6624
+NE-145,Red Willow County,Nebraska,4972,1,-1183,6155
+NE-147,Richardson County,Nebraska,4756,3,-1133,5889
+NE-149,Rock County,Nebraska,6295,6,-967,7262
+NE-151,Saline County,Nebraska,5052,2,-1245,6297
+NE-153,Sarpy County,Nebraska,5140,1,-1285,6425
+NE-155,Saunders County,Nebraska,5180,1,-1377,6557
+NE-157,Scotts Bluff County,Nebraska,5785,1,-1180,6965
+NE-159,Seward County,Nebraska,5148,1,-1302,6450
+NE-161,Sheridan County,Nebraska,6350,4,-1167,7517
+NE-163,Sherman County,Nebraska,5573,1,-1258,6831
+NE-165,Sioux County,Nebraska,6377,1,-1223,7600
+NE-167,Stanton County,Nebraska,5621,1,-1379,7000
+NE-169,Thayer County,Nebraska,5014,1,-1178,6192
+NE-171,Thomas County,Nebraska,5890,3,-1005,6895
+NE-173,Thurston County,Nebraska,5921,2,-1180,7101
+NE-175,Valley County,Nebraska,5841,3,-1191,7032
+NE-177,Washington County,Nebraska,5331,1,-1338,6669
+NE-179,Wayne County,Nebraska,6010,2,-1170,7180
+NE-181,Webster County,Nebraska,5051,1,-1161,6212
+NE-183,Wheeler County,Nebraska,5971,4,-1183,7154
+NE-185,York County,Nebraska,5163,1,-1267,6430
+NV-001,Churchill County,Nevada,5250,8,-658,5908
+NV-003,Clark County,Nevada,2555,21,-389,2944
+NV-005,Douglas County,Nevada,5942,12,-553,6495
+NV-007,Elko County,Nevada,7136,11,-604,7740
+NV-009,Esmeralda County,Nevada,4968,9,-789,5757
+NV-011,Eureka County,Nevada,6669,6,-805,7474
+NV-013,Humboldt County,Nevada,6015,12,-579,6594
+NV-015,Lander County,Nevada,6202,11,-694,6896
+NV-017,Lincoln County,Nevada,4355,8,-618,4973
+NV-019,Lyon County,Nevada,5448,16,-480,5928
+NV-021,Mineral County,Nevada,5444,6,-869,6313
+NV-023,Nye County,Nevada,5104,6,-782,5886
+NV-027,Pershing County,Nevada,5553,13,-547,6100
+NV-029,Storey County,Nevada,5524,13,-606,6130
+NV-031,Washoe County,Nevada,5866,11,-671,6537
+NV-033,White Pine County,Nevada,6782,7,-758,7540
+NV-510,Carson City,Nevada,5676,13,-547,6223
+NH-001,Belknap County,New Hampshire,6823,6,-1070,7893
+NH-003,Carroll County,New Hampshire,7078,3,-1360,8438
+NH-005,Cheshire County,New Hampshire,6642,4,-1246,7888
+NH-007,Coos County,New Hampshire,8288,3,-1430,9718
+NH-009,Grafton County,New Hampshire,7478,3,-1427,8905
+NH-011,Hillsborough County,New Hampshire,6238,4,-1243,7481
+NH-013,Merrimack County,New Hampshire,6669,5,-1170,7839
+NH-015,Rockingham County,New Hampshire,6147,4,-1026,7173
+NH-017,Strafford County,New Hampshire,6610,10,-914,7524
+NH-019,Sullivan County,New Hampshire,6983,3,-1377,8360
+NJ-001,Atlantic County,New Jersey,4356,10,-868,5224
+NJ-003,Bergen County,New Jersey,4694,4,-1074,5768
+NJ-005,Burlington County,New Jersey,4494,18,-715,5209
+NJ-007,Camden County,New Jersey,4396,16,-740,5136
+NJ-009,Cape May County,New Jersey,4191,9,-879,5070
+NJ-011,Cumberland County,New Jersey,4271,9,-875,5146
+NJ-013,Essex County,New Jersey,4542,4,-1134,5676
+NJ-015,Gloucester County,New Jersey,4278,11,-812,5090
+NJ-017,Hudson County,New Jersey,4216,4,-1095,5311
+NJ-019,Hunterdon County,New Jersey,5154,11,-986,6140
+NJ-021,Mercer County,New Jersey,4620,11,-901,5521
+NJ-023,Middlesex County,New Jersey,4425,7,-1077,5502
+NJ-025,Monmouth County,New Jersey,4446,9,-1006,5452
+NJ-027,Morris County,New Jersey,5213,5,-1087,6300
+NJ-029,Ocean County,New Jersey,4496,12,-848,5344
+NJ-031,Passaic County,New Jersey,5162,5,-1089,6251
+NJ-033,Salem County,New Jersey,4262,11,-802,5064
+NJ-035,Somerset County,New Jersey,4789,9,-1035,5824
+NJ-037,Sussex County,New Jersey,5644,5,-1051,6695
+NJ-039,Union County,New Jersey,4395,4,-1149,5544
+NJ-041,Warren County,New Jersey,5415,8,-1110,6525
+NM-001,Bernalillo County,New Mexico,4585,7,-709,5294
+NM-003,Catron County,New Mexico,5863,12,-569,6432
+NM-005,Chaves County,New Mexico,2995,2,-826,3821
+NM-006,Cibola County,New Mexico,5908,27,-432,6340
+NM-007,Colfax County,New Mexico,6284,14,-561,6845
+NM-009,Curry County,New Mexico,3584,2,-924,4508
+NM-011,De Baca County,New Mexico,3380,5,-837,4217
+NM-013,Dona Ana County,New Mexico,2720,7,-590,3310
+NM-015,Eddy County,New Mexico,2548,4,-678,3226
+NM-017,Grant County,New Mexico,3782,9,-621,4403
+NM-019,Guadalupe County,New Mexico,4063,7,-712,4775
+NM-021,Harding County,New Mexico,4448,7,-628,5076
+NM-023,Hidalgo County,New Mexico,2952,10,-531,3483
+NM-025,Lea County,New Mexico,2795,3,-693,3488
+NM-027,Lincoln County,New Mexico,4042,4,-782,4824
+NM-028,Los Alamos County,New Mexico,6266,9,-728,6994
+NM-029,Luna County,New Mexico,2789,5,-592,3381
+NM-031,McKinley County,New Mexico,5935,20,-459,6394
+NM-033,Mora County,New Mexico,5927,5,-822,6749
+NM-035,Otero County,New Mexico,3345,4,-654,3999
+NM-037,Quay County,New Mexico,3700,7,-628,4328
+NM-039,Rio Arriba County,New Mexico,6795,9,-751,7546
+NM-041,Roosevelt County,New Mexico,3379,3,-858,4237
+NM-043,Sandoval County,New Mexico,5545,10,-582,6127
+NM-045,San Juan County,New Mexico,5132,4,-799,5931
+NM-047,San Miguel County,New Mexico,4713,10,-626,5339
+NM-049,Santa Fe County,New Mexico,5642,8,-651,6293
+NM-051,Sierra County,New Mexico,3477,7,-573,4050
+NM-053,Socorro County,New Mexico,4326,6,-668,4994
+NM-055,Taos County,New Mexico,7750,19,-609,8359
+NM-057,Torrance County,New Mexico,5101,5,-848,5949
+NM-059,Union County,New Mexico,5068,14,-487,5555
+NM-061,Valencia County,New Mexico,4230,11,-609,4839
+NY-001,Albany County,New York,6030,3,-1134,7164
+NY-003,Allegany County,New York,6375,2,-1228,7603
+NY-005,Bronx County,New York,4269,4,-1064,5333
+NY-007,Broome County,New York,6430,6,-906,7336
+NY-009,Cattaraugus County,New York,6447,3,-1165,7612
+NY-011,Cayuga County,New York,6123,2,-1128,7251
+NY-013,Chautauqua County,New York,5969,1,-1290,7259
+NY-015,Chemung County,New York,6227,4,-1051,7278
+NY-017,Chenango County,New York,6809,8,-913,7722
+NY-019,Clinton County,New York,7140,1,-1508,8648
+NY-021,Columbia County,New York,5809,4,-1104,6913
+NY-023,Cortland County,New York,6802,4,-1005,7807
+NY-025,Delaware County,New York,6949,9,-938,7887
+NY-027,Dutchess County,New York,5581,6,-1114,6695
+NY-029,Erie County,New York,5908,2,-1278,7186
+NY-031,Essex County,New York,7752,2,-1313,9065
+NY-033,Franklin County,New York,7530,1,-1600,9130
+NY-035,Fulton County,New York,6859,2,-1134,7993
+NY-037,Genesee County,New York,6102,4,-1152,7254
+NY-039,Greene County,New York,6421,4,-1089,7510
+NY-041,Hamilton County,New York,7873,2,-1389,9262
+NY-043,Herkimer County,New York,7391,3,-1220,8611
+NY-045,Jefferson County,New York,6605,2,-1454,8059
+NY-047,Kings County,New York,4147,4,-1061,5208
+NY-049,Lewis County,New York,7302,2,-1474,8776
+NY-051,Livingston County,New York,5923,2,-1245,7168
+NY-053,Madison County,New York,6697,4,-1140,7837
+NY-055,Monroe County,New York,5794,2,-1229,7023
+NY-057,Montgomery County,New York,6373,5,-960,7333
+NY-059,Nassau County,New York,4382,4,-1085,5467
+NY-061,New York County,New York,4189,4,-1085,5274
+NY-063,Niagara County,New York,5940,6,-1042,6982
+NY-065,Oneida County,New York,6672,2,-1230,7902
+NY-067,Onondaga County,New York,6051,2,-1313,7364
+NY-069,Ontario County,New York,6024,2,-1156,7180
+NY-071,Orange County,New York,5656,9,-981,6637
+NY-073,Orleans County,New York,5973,4,-1116,7089
+NY-075,Oswego County,New York,6163,1,-1441,7604
+NY-077,Otsego County,New York,7046,10,-811,7857
+NY-079,Putnam County,New York,5408,5,-1121,6529
+NY-081,Queens County,New York,4236,4,-1048,5284
+NY-083,Rensselaer County,New York,6101,3,-1246,7347
+NY-085,Richmond County,New York,4179,5,-1096,5275
+NY-087,Rockland County,New York,5062,5,-1056,6118
+NY-089,St. Lawrence County,New York,6990,1,-1639,8629
+NY-091,Saratoga County,New York,6367,3,-1257,7624
+NY-093,Schenectady County,New York,6150,3,-1157,7307
+NY-095,Schoharie County,New York,6764,7,-946,7710
+NY-097,Schuyler County,New York,6296,3,-1097,7393
+NY-099,Seneca County,New York,5983,4,-1004,6987
+NY-101,Steuben County,New York,6266,2,-1226,7492
+NY-103,Suffolk County,New York,4811,6,-1018,5829
+NY-105,Sullivan County,New York,6388,6,-1044,7432
+NY-107,Tioga County,New York,6352,5,-943,7295
+NY-109,Tompkins County,New York,6437,5,-950,7387
+NY-111,Ulster County,New York,6152,7,-1039,7191
+NY-113,Warren County,New York,7097,2,-1336,8433
+NY-115,Washington County,New York,6435,3,-1288,7723
+NY-117,Wayne County,New York,5998,3,-1075,7073
+NY-119,Westchester County,New York,4907,5,-1116,6023
+NY-121,Wyoming County,New York,6384,2,-1267,7651
+NY-123,Yates County,New York,6125,3,-1085,7210
+NC-001,Alamance County,North Carolina,3215,12,-569,3784
+NC-003,Alexander County,North Carolina,3368,11,-605,3973
+NC-005,Alleghany County,North Carolina,4513,2,-991,5504
+NC-007,Anson County,North Carolina,2696,19,-494,3190
+NC-009,Ashe County,North Carolina,4952,4,-829,5781
+NC-011,Avery County,North Carolina,5234,9,-734,5968
+NC-013,Beaufort County,North Carolina,2789,45,-263,3052
+NC-015,Bertie County,North Carolina,2885,10,-562,3447
+NC-017,Bladen County,North Carolina,2548,27,-348,2896
+NC-019,Brunswick County,North Carolina,2340,29,-323,2663
+NC-021,Buncombe County,North Carolina,4142,5,-707,4849
+NC-023,Burke County,North Carolina,3391,9,-629,4020
+NC-025,Cabarrus County,North Carolina,3133,27,-379,3512
+NC-027,Caldwell County,North Carolina,3496,8,-628,4124
+NC-029,Camden County,North Carolina,2936,12,-547,3483
+NC-031,Carteret County,North Carolina,2552,51,-154,2706
+NC-033,Caswell County,North Carolina,3365,11,-567,3932
+NC-035,Catawba County,North Carolina,3198,10,-598,3796
+NC-037,Chatham County,North Carolina,2999,14,-548,3547
+NC-039,Cherokee County,North Carolina,3742,18,-507,4249
+NC-041,Chowan County,North Carolina,2851,14,-513,3364
+NC-043,Clay County,North Carolina,3888,7,-683,4571
+NC-045,Cleveland County,North Carolina,3207,20,-453,3660
+NC-047,Columbus County,North Carolina,2438,30,-333,2771
+NC-049,Craven County,North Carolina,2672,39,-289,2961
+NC-051,Cumberland County,North Carolina,2676,23,-392,3068
+NC-053,Currituck County,North Carolina,2879,12,-549,3428
+NC-055,Dare County,North Carolina,2712,36,-283,2995
+NC-057,Davidson County,North Carolina,3224,13,-591,3815
+NC-059,Davie County,North Carolina,3343,11,-639,3982
+NC-061,Duplin County,North Carolina,2770,40,-257,3027
+NC-063,Durham County,North Carolina,2992,3,-768,3760
+NC-065,Edgecombe County,North Carolina,2929,14,-521,3450
+NC-067,Forsyth County,North Carolina,3433,13,-614,4047
+NC-069,Franklin County,North Carolina,3138,11,-632,3770
+NC-071,Gaston County,North Carolina,3021,16,-558,3579
+NC-073,Gates County,North Carolina,2997,10,-570,3567
+NC-075,Graham County,North Carolina,4187,16,-559,4746
+NC-077,Granville County,North Carolina,3157,2,-797,3954
+NC-079,Greene County,North Carolina,2855,31,-349,3204
+NC-081,Guilford County,North Carolina,3339,15,-569,3908
+NC-083,Halifax County,North Carolina,3131,13,-561,3692
+NC-085,Harnett County,North Carolina,2790,16,-470,3260
+NC-087,Haywood County,North Carolina,4970,12,-624,5594
+NC-089,Henderson County,North Carolina,3915,14,-540,4455
+NC-091,Hertford County,North Carolina,2961,7,-618,3579
+NC-093,Hoke County,North Carolina,2639,15,-515,3154
+NC-095,Hyde County,North Carolina,2662,46,-217,2879
+NC-097,Iredell County,North Carolina,3303,12,-607,3910
+NC-099,Jackson County,North Carolina,4465,6,-676,5141
+NC-101,Johnston County,North Carolina,2804,16,-490,3294
+NC-103,Jones County,North Carolina,2734,41,-282,3016
+NC-105,Lee County,North Carolina,2888,16,-513,3401
+NC-107,Lenoir County,North Carolina,2928,48,-192,3120
+NC-109,Lincoln County,North Carolina,3134,12,-581,3715
+NC-111,McDowell County,North Carolina,3559,8,-670,4229
+NC-113,Macon County,North Carolina,4118,5,-720,4838
+NC-115,Madison County,North Carolina,4061,7,-673,4734
+NC-117,Martin County,North Carolina,2829,14,-517,3346
+NC-119,Mecklenburg County,North Carolina,2959,16,-519,3478
+NC-121,Mitchell County,North Carolina,4810,9,-730,5540
+NC-123,Montgomery County,North Carolina,2734,7,-644,3378
+NC-125,Moore County,North Carolina,2741,11,-606,3347
+NC-127,Nash County,North Carolina,3054,11,-572,3626
+NC-129,New Hanover County,North Carolina,2302,25,-373,2675
+NC-131,Northampton County,North Carolina,3119,10,-585,3704
+NC-133,Onslow County,North Carolina,2579,39,-280,2859
+NC-135,Orange County,North Carolina,3135,4,-688,3823
+NC-137,Pamlico County,North Carolina,2615,47,-206,2821
+NC-139,Pasquotank County,North Carolina,2898,12,-542,3440
+NC-141,Pender County,North Carolina,2510,32,-323,2833
+NC-143,Perquimans County,North Carolina,2882,13,-526,3408
+NC-145,Person County,North Carolina,3232,1,-814,4046
+NC-147,Pitt County,North Carolina,2808,28,-393,3201
+NC-149,Polk County,North Carolina,3176,15,-480,3656
+NC-151,Randolph County,North Carolina,3125,18,-510,3635
+NC-153,Richmond County,North Carolina,2628,14,-552,3180
+NC-155,Robeson County,North Carolina,2481,20,-436,2917
+NC-157,Rockingham County,North Carolina,3391,12,-593,3984
+NC-159,Rowan County,North Carolina,3208,15,-550,3758
+NC-161,Rutherford County,North Carolina,3185,13,-511,3696
+NC-163,Sampson County,North Carolina,2734,30,-335,3069
+NC-165,Scotland County,North Carolina,2530,11,-560,3090
+NC-167,Stanly County,North Carolina,2823,13,-547,3370
+NC-169,Stokes County,North Carolina,3545,10,-638,4183
+NC-171,Surry County,North Carolina,3618,5,-772,4390
+NC-173,Swain County,North Carolina,4723,17,-525,5248
+NC-175,Transylvania County,North Carolina,4034,4,-725,4759
+NC-177,Tyrrell County,North Carolina,2705,23,-407,3112
+NC-179,Union County,North Carolina,2813,15,-492,3305
+NC-181,Vance County,North Carolina,3240,4,-702,3942
+NC-183,Wake County,North Carolina,2880,4,-650,3530
+NC-185,Warren County,North Carolina,3255,11,-634,3889
+NC-187,Washington County,North Carolina,2794,23,-458,3252
+NC-189,Watauga County,North Carolina,4957,7,-773,5730
+NC-191,Wayne County,North Carolina,2816,27,-376,3192
+NC-193,Wilkes County,North Carolina,3508,3,-791,4299
+NC-195,Wilson County,North Carolina,2821,12,-547,3368
+NC-197,Yadkin County,North Carolina,3490,11,-659,4149
+NC-199,Yancey County,North Carolina,4796,4,-801,5597
+ND-001,Adams County,North Dakota,7691,4,-1322,9013
+ND-003,Barnes County,North Dakota,8028,2,-1581,9609
+ND-005,Benson County,North Dakota,8685,4,-1493,10178
+ND-007,Billings County,North Dakota,7863,9,-1136,8999
+ND-009,Bottineau County,North Dakota,9038,7,-1165,10203
+ND-011,Bowman County,North Dakota,7627,5,-1188,8815
+ND-013,Burke County,North Dakota,9023,8,-1207,10230
+ND-015,Burleigh County,North Dakota,8420,12,-1048,9468
+ND-017,Cass County,North Dakota,7779,2,-1618,9397
+ND-019,Cavalier County,North Dakota,9120,2,-1640,10760
+ND-021,Dickey County,North Dakota,7914,5,-1257,9171
+ND-023,Divide County,North Dakota,8834,8,-1312,10146
+ND-025,Dunn County,North Dakota,8055,9,-1174,9229
+ND-027,Eddy County,North Dakota,8558,4,-1414,9972
+ND-029,Emmons County,North Dakota,7995,7,-1108,9103
+ND-031,Foster County,North Dakota,8513,5,-1340,9853
+ND-033,Golden Valley County,North Dakota,7763,7,-1098,8861
+ND-035,Grand Forks County,North Dakota,8197,2,-1683,9880
+ND-037,Grant County,North Dakota,7841,6,-1208,9049
+ND-039,Griggs County,North Dakota,8501,3,-1492,9993
+ND-041,Hettinger County,North Dakota,7978,10,-1142,9120
+ND-043,Kidder County,North Dakota,8683,12,-1019,9702
+ND-045,LaMoure County,North Dakota,7897,4,-1413,9310
+ND-047,Logan County,North Dakota,8303,7,-1222,9525
+ND-049,McHenry County,North Dakota,8681,9,-1126,9807
+ND-051,McIntosh County,North Dakota,8153,6,-1217,9370
+ND-053,McKenzie County,North Dakota,7938,6,-1340,9278
+ND-055,McLean County,North Dakota,8328,10,-1147,9475
+ND-057,Mercer County,North Dakota,8065,10,-1144,9209
+ND-059,Morton County,North Dakota,7994,7,-1181,9175
+ND-061,Mountrail County,North Dakota,8727,9,-1114,9841
+ND-063,Nelson County,North Dakota,8679,2,-1566,10245
+ND-065,Oliver County,North Dakota,8037,7,-1176,9213
+ND-067,Pembina County,North Dakota,8523,2,-1810,10333
+ND-069,Pierce County,North Dakota,8869,4,-1386,10255
+ND-071,Ramsey County,North Dakota,8782,3,-1515,10297
+ND-073,Ransom County,North Dakota,7739,3,-1477,9216
+ND-075,Renville County,North Dakota,8912,11,-1021,9933
+ND-077,Richland County,North Dakota,7523,3,-1562,9085
+ND-079,Rolette County,North Dakota,9161,4,-1577,10738
+ND-081,Sargent County,North Dakota,7771,5,-1319,9090
+ND-083,Sheridan County,North Dakota,8773,13,-996,9769
+ND-085,Sioux County,North Dakota,7740,6,-1157,8897
+ND-087,Slope County,North Dakota,7748,9,-1069,8817
+ND-089,Stark County,North Dakota,8056,11,-1045,9101
+ND-091,Steele County,North Dakota,8397,3,-1437,9834
+ND-093,Stutsman County,North Dakota,8225,4,-1388,9613
+ND-095,Towner County,North Dakota,9007,2,-1661,10668
+ND-097,Traill County,North Dakota,8090,3,-1478,9568
+ND-099,Walsh County,North Dakota,8473,2,-1729,10202
+ND-101,Ward County,North Dakota,8694,10,-1021,9715
+ND-103,Wells County,North Dakota,8742,8,-1198,9940
+ND-105,Williams County,North Dakota,8415,7,-1330,9745
+OH-001,Adams County,Ohio,4467,5,-838,5305
+OH-003,Allen County,Ohio,4930,1,-1281,6211
+OH-005,Ashland County,Ohio,5304,1,-1200,6504
+OH-007,Ashtabula County,Ohio,5416,1,-1389,6805
+OH-009,Athens County,Ohio,4547,2,-961,5508
+OH-011,Auglaize County,Ohio,5009,1,-1181,6190
+OH-013,Belmont County,Ohio,5065,6,-824,5889
+OH-015,Brown County,Ohio,4543,4,-893,5436
+OH-017,Butler County,Ohio,4517,1,-1051,5568
+OH-019,Carroll County,Ohio,5275,4,-1023,6298
+OH-021,Champaign County,Ohio,5015,1,-1089,6104
+OH-023,Clark County,Ohio,4729,1,-1207,5936
+OH-025,Clermont County,Ohio,4333,1,-1020,5353
+OH-027,Clinton County,Ohio,4608,1,-1140,5748
+OH-029,Columbiana County,Ohio,5437,6,-949,6386
+OH-031,Coshocton County,Ohio,5025,1,-1069,6094
+OH-033,Crawford County,Ohio,5171,1,-1264,6435
+OH-035,Cuyahoga County,Ohio,4966,1,-1378,6344
+OH-037,Darke County,Ohio,4945,2,-1171,6116
+OH-039,Defiance County,Ohio,5191,2,-1248,6439
+OH-041,Delaware County,Ohio,4872,1,-1087,5959
+OH-043,Erie County,Ohio,5056,2,-1096,6152
+OH-045,Fairfield County,Ohio,4824,2,-930,5754
+OH-047,Fayette County,Ohio,4720,1,-1091,5811
+OH-049,Franklin County,Ohio,4598,1,-1103,5701
+OH-051,Fulton County,Ohio,5192,1,-1384,6576
+OH-053,Gallia County,Ohio,4426,10,-670,5096
+OH-055,Geauga County,Ohio,5454,1,-1424,6878
+OH-057,Greene County,Ohio,4622,1,-1151,5773
+OH-059,Guernsey County,Ohio,4791,1,-1103,5894
+OH-061,Hamilton County,Ohio,4274,1,-1037,5311
+OH-063,Hancock County,Ohio,4885,1,-1389,6274
+OH-065,Hardin County,Ohio,4903,1,-1351,6254
+OH-067,Harrison County,Ohio,5123,4,-983,6106
+OH-069,Henry County,Ohio,5063,1,-1317,6380
+OH-071,Highland County,Ohio,4647,2,-992,5639
+OH-073,Hocking County,Ohio,4804,3,-893,5697
+OH-075,Holmes County,Ohio,5264,1,-1064,6328
+OH-077,Huron County,Ohio,5271,2,-1087,6358
+OH-079,Jackson County,Ohio,4510,4,-876,5386
+OH-081,Jefferson County,Ohio,5121,6,-858,5979
+OH-083,Knox County,Ohio,5217,1,-1089,6306
+OH-085,Lake County,Ohio,5058,1,-1482,6540
+OH-087,Lawrence County,Ohio,4106,2,-935,5041
+OH-089,Licking County,Ohio,4943,1,-1072,6015
+OH-091,Logan County,Ohio,5168,1,-1094,6262
+OH-093,Lorain County,Ohio,5130,1,-1091,6221
+OH-095,Lucas County,Ohio,4885,1,-1425,6310
+OH-097,Madison County,Ohio,4668,1,-1224,5892
+OH-099,Mahoning County,Ohio,5457,3,-1150,6607
+OH-101,Marion County,Ohio,4949,1,-1233,6182
+OH-103,Medina County,Ohio,5179,1,-1208,6387
+OH-105,Meigs County,Ohio,4548,10,-718,5266
+OH-107,Mercer County,Ohio,5088,1,-1142,6230
+OH-109,Miami County,Ohio,4691,1,-1238,5929
+OH-111,Monroe County,Ohio,4876,5,-833,5709
+OH-113,Montgomery County,Ohio,4557,1,-1183,5740
+OH-115,Morgan County,Ohio,4641,2,-1015,5656
+OH-117,Morrow County,Ohio,5193,1,-1180,6373
+OH-119,Muskingum County,Ohio,4687,1,-1172,5859
+OH-121,Noble County,Ohio,4712,1,-1022,5734
+OH-123,Ottawa County,Ohio,4948,1,-1228,6176
+OH-125,Paulding County,Ohio,5113,1,-1216,6329
+OH-127,Perry County,Ohio,4808,2,-1036,5844
+OH-129,Pickaway County,Ohio,4620,2,-939,5559
+OH-131,Pike County,Ohio,4445,2,-974,5419
+OH-133,Portage County,Ohio,5376,2,-1311,6687
+OH-135,Preble County,Ohio,4955,3,-1015,5970
+OH-137,Putnam County,Ohio,4970,1,-1296,6266
+OH-139,Richland County,Ohio,5336,1,-1259,6595
+OH-141,Ross County,Ohio,4556,2,-961,5517
+OH-143,Sandusky County,Ohio,5001,1,-1176,6177
+OH-145,Scioto County,Ohio,4314,3,-931,5245
+OH-147,Seneca County,Ohio,5086,1,-1194,6280
+OH-149,Shelby County,Ohio,5028,1,-1128,6156
+OH-151,Stark County,Ohio,5252,2,-1190,6442
+OH-153,Summit County,Ohio,5122,1,-1294,6416
+OH-155,Trumbull County,Ohio,5440,2,-1292,6732
+OH-157,Tuscarawas County,Ohio,5091,1,-1053,6144
+OH-159,Union County,Ohio,4992,1,-1048,6040
+OH-161,Van Wert County,Ohio,5053,1,-1211,6264
+OH-163,Vinton County,Ohio,4656,4,-883,5539
+OH-165,Warren County,Ohio,4437,1,-1114,5551
+OH-167,Washington County,Ohio,4433,2,-1007,5440
+OH-169,Wayne County,Ohio,5212,1,-1180,6392
+OH-171,Williams County,Ohio,5379,2,-1297,6676
+OH-173,Wood County,Ohio,4882,1,-1376,6258
+OH-175,Wyandot County,Ohio,4857,1,-1377,6234
+OK-001,Adair County,Oklahoma,3038,1,-854,3892
+OK-003,Alfalfa County,Oklahoma,3302,1,-1045,4347
+OK-005,Atoka County,Oklahoma,2418,2,-717,3135
+OK-007,Beaver County,Oklahoma,3716,2,-858,4574
+OK-009,Beckham County,Oklahoma,2894,1,-988,3882
+OK-011,Blaine County,Oklahoma,3101,1,-940,4041
+OK-013,Bryan County,Oklahoma,2264,2,-739,3003
+OK-015,Caddo County,Oklahoma,2868,1,-881,3749
+OK-017,Canadian County,Oklahoma,2957,1,-925,3882
+OK-019,Carter County,Oklahoma,2455,1,-649,3104
+OK-021,Cherokee County,Oklahoma,2976,2,-767,3743
+OK-023,Choctaw County,Oklahoma,2326,2,-711,3037
+OK-025,Cimarron County,Oklahoma,4432,11,-504,4936
+OK-027,Cleveland County,Oklahoma,2763,2,-813,3576
+OK-029,Coal County,Oklahoma,2466,2,-719,3185
+OK-031,Comanche County,Oklahoma,2642,1,-779,3421
+OK-033,Cotton County,Oklahoma,2435,1,-747,3182
+OK-035,Craig County,Oklahoma,3235,2,-824,4059
+OK-037,Creek County,Oklahoma,2895,1,-853,3748
+OK-039,Custer County,Oklahoma,3077,1,-963,4040
+OK-041,Delaware County,Oklahoma,3188,3,-800,3988
+OK-043,Dewey County,Oklahoma,3233,1,-978,4211
+OK-045,Ellis County,Oklahoma,3453,1,-957,4410
+OK-047,Garfield County,Oklahoma,3126,1,-1032,4158
+OK-049,Garvin County,Oklahoma,2642,2,-686,3328
+OK-051,Grady County,Oklahoma,2767,3,-844,3611
+OK-053,Grant County,Oklahoma,3305,1,-1039,4344
+OK-055,Greer County,Oklahoma,2716,1,-934,3650
+OK-057,Harmon County,Oklahoma,2676,1,-888,3564
+OK-059,Harper County,Oklahoma,3666,2,-799,4465
+OK-061,Haskell County,Oklahoma,2602,2,-764,3366
+OK-063,Hughes County,Oklahoma,2610,1,-759,3369
+OK-065,Jackson County,Oklahoma,2565,1,-877,3442
+OK-067,Jefferson County,Oklahoma,2367,1,-678,3045
+OK-069,Johnston County,Oklahoma,2429,1,-690,3119
+OK-071,Kay County,Oklahoma,3268,2,-992,4260
+OK-073,Kingfisher County,Oklahoma,3005,1,-898,3903
+OK-075,Kiowa County,Oklahoma,2736,1,-898,3634
+OK-077,Latimer County,Oklahoma,2615,3,-723,3338
+OK-079,Le Flore County,Oklahoma,2655,2,-786,3441
+OK-081,Lincoln County,Oklahoma,2788,1,-873,3661
+OK-083,Logan County,Oklahoma,2900,1,-950,3850
+OK-085,Love County,Oklahoma,2292,1,-673,2965
+OK-087,McClain County,Oklahoma,2731,3,-803,3534
+OK-089,McCurtain County,Oklahoma,2402,2,-815,3217
+OK-091,McIntosh County,Oklahoma,2618,2,-783,3401
+OK-093,Major County,Oklahoma,3207,1,-970,4177
+OK-095,Marshall County,Oklahoma,2293,1,-696,2989
+OK-097,Mayes County,Oklahoma,3097,4,-708,3805
+OK-099,Murray County,Oklahoma,2570,3,-639,3209
+OK-101,Muskogee County,Oklahoma,2716,1,-779,3495
+OK-103,Noble County,Oklahoma,3035,1,-994,4029
+OK-105,Nowata County,Oklahoma,3226,2,-866,4092
+OK-107,Okfuskee County,Oklahoma,2712,1,-796,3508
+OK-109,Oklahoma County,Oklahoma,2829,1,-883,3712
+OK-111,Okmulgee County,Oklahoma,2742,2,-773,3515
+OK-113,Osage County,Oklahoma,3214,1,-892,4106
+OK-115,Ottawa County,Oklahoma,3136,1,-988,4124
+OK-117,Pawnee County,Oklahoma,3021,1,-921,3942
+OK-119,Payne County,Oklahoma,2896,1,-972,3868
+OK-121,Pittsburg County,Oklahoma,2577,3,-718,3295
+OK-123,Pontotoc County,Oklahoma,2590,3,-705,3295
+OK-125,Pottawatomie County,Oklahoma,2703,1,-783,3486
+OK-127,Pushmataha County,Oklahoma,2492,2,-758,3250
+OK-129,Roger Mills County,Oklahoma,3105,1,-1019,4124
+OK-131,Rogers County,Oklahoma,3066,2,-809,3875
+OK-133,Seminole County,Oklahoma,2665,1,-774,3439
+OK-135,Sequoyah County,Oklahoma,2696,2,-808,3504
+OK-137,Stephens County,Oklahoma,2581,1,-699,3280
+OK-139,Texas County,Oklahoma,3836,1,-849,4685
+OK-141,Tillman County,Oklahoma,2482,1,-796,3278
+OK-143,Tulsa County,Oklahoma,2938,2,-833,3771
+OK-145,Wagoner County,Oklahoma,2880,3,-741,3621
+OK-147,Washington County,Oklahoma,3207,1,-895,4102
+OK-149,Washita County,Oklahoma,2926,1,-923,3849
+OK-151,Woods County,Oklahoma,3525,1,-927,4452
+OK-153,Woodward County,Oklahoma,3484,1,-907,4391
+OR-001,Baker County,Oregon,6823,4,-880,7703
+OR-003,Benton County,Oregon,4648,15,-417,5065
+OR-005,Clackamas County,Oregon,5853,13,-571,6424
+OR-007,Clatsop County,Oregon,5175,8,-688,5863
+OR-009,Columbia County,Oregon,5050,13,-614,5664
+OR-011,Coos County,Oregon,4348,14,-688,5036
+OR-013,Crook County,Oregon,6808,9,-705,7513
+OR-015,Curry County,Oregon,4289,8,-683,4972
+OR-017,Deschutes County,Oregon,7244,7,-697,7941
+OR-019,Douglas County,Oregon,5033,14,-618,5651
+OR-021,Gilliam County,Oregon,5516,11,-638,6154
+OR-023,Grant County,Oregon,7179,5,-813,7992
+OR-025,Harney County,Oregon,6706,7,-879,7585
+OR-027,Hood River County,Oregon,6826,10,-676,7502
+OR-029,Jackson County,Oregon,5349,13,-631,5980
+OR-031,Jefferson County,Oregon,6278,10,-639,6917
+OR-033,Josephine County,Oregon,5024,9,-698,5722
+OR-035,Klamath County,Oregon,7120,8,-873,7993
+OR-037,Lake County,Oregon,6954,8,-831,7785
+OR-039,Lane County,Oregon,5337,12,-544,5881
+OR-041,Lincoln County,Oregon,4742,16,-439,5181
+OR-043,Linn County,Oregon,5570,14,-541,6111
+OR-045,Malheur County,Oregon,6242,8,-681,6923
+OR-047,Marion County,Oregon,5396,14,-528,5924
+OR-049,Morrow County,Oregon,5512,5,-800,6312
+OR-051,Multnomah County,Oregon,4812,10,-636,5448
+OR-053,Polk County,Oregon,4752,13,-505,5257
+OR-055,Sherman County,Oregon,5586,11,-616,6202
+OR-057,Tillamook County,Oregon,5376,14,-576,5952
+OR-059,Umatilla County,Oregon,5775,5,-850,6625
+OR-061,Union County,Oregon,7232,10,-740,7972
+OR-063,Wallowa County,Oregon,7487,8,-739,8226
+OR-065,Wasco County,Oregon,6012,9,-623,6635
+OR-067,Washington County,Oregon,4992,13,-569,5561
+OR-069,Wheeler County,Oregon,6359,11,-639,6998
+OR-071,Yamhill County,Oregon,4821,16,-440,5261
+PA-001,Adams County,Pennsylvania,4848,6,-869,5717
+PA-003,Allegheny County,Pennsylvania,4768,1,-1108,5876
+PA-005,Armstrong County,Pennsylvania,5500,6,-912,6412
+PA-007,Beaver County,Pennsylvania,5181,5,-868,6049
+PA-009,Bedford County,Pennsylvania,5232,5,-887,6119
+PA-011,Berks County,Pennsylvania,5117,14,-775,5892
+PA-013,Blair County,Pennsylvania,5547,5,-902,6449
+PA-015,Bradford County,Pennsylvania,6302,6,-942,7244
+PA-017,Bucks County,Pennsylvania,4885,11,-914,5799
+PA-019,Butler County,Pennsylvania,5511,6,-926,6437
+PA-021,Cambria County,Pennsylvania,6019,5,-876,6895
+PA-023,Cameron County,Pennsylvania,6124,4,-887,7011
+PA-025,Carbon County,Pennsylvania,5971,6,-1035,7006
+PA-027,Centre County,Pennsylvania,5770,5,-804,6574
+PA-029,Chester County,Pennsylvania,4794,12,-824,5618
+PA-031,Clarion County,Pennsylvania,5844,5,-1039,6883
+PA-033,Clearfield County,Pennsylvania,5906,4,-1025,6931
+PA-035,Clinton County,Pennsylvania,5925,6,-784,6709
+PA-037,Columbia County,Pennsylvania,5770,6,-896,6666
+PA-039,Crawford County,Pennsylvania,5802,2,-1312,7114
+PA-041,Cumberland County,Pennsylvania,4874,5,-883,5757
+PA-043,Dauphin County,Pennsylvania,5033,4,-962,5995
+PA-045,Delaware County,Pennsylvania,4358,9,-870,5228
+PA-047,Elk County,Pennsylvania,6059,2,-1297,7356
+PA-049,Erie County,Pennsylvania,5748,1,-1294,7042
+PA-051,Fayette County,Pennsylvania,5258,6,-816,6074
+PA-053,Forest County,Pennsylvania,6094,4,-1133,7227
+PA-055,Franklin County,Pennsylvania,4904,8,-860,5764
+PA-057,Fulton County,Pennsylvania,4985,4,-890,5875
+PA-059,Greene County,Pennsylvania,4975,5,-832,5807
+PA-061,Huntingdon County,Pennsylvania,5207,5,-884,6091
+PA-063,Indiana County,Pennsylvania,5667,5,-863,6530
+PA-065,Jefferson County,Pennsylvania,5813,1,-1270,7083
+PA-067,Juniata County,Pennsylvania,5151,5,-776,5927
+PA-069,Lackawanna County,Pennsylvania,6213,5,-1085,7298
+PA-071,Lancaster County,Pennsylvania,4835,10,-871,5706
+PA-073,Lawrence County,Pennsylvania,5494,8,-895,6389
+PA-075,Lebanon County,Pennsylvania,5104,9,-901,6005
+PA-077,Lehigh County,Pennsylvania,5153,10,-950,6103
+PA-079,Luzerne County,Pennsylvania,6060,4,-1020,7080
+PA-081,Lycoming County,Pennsylvania,5943,6,-945,6888
+PA-083,McKean County,Pennsylvania,6260,1,-1385,7645
+PA-085,Mercer County,Pennsylvania,5646,2,-1197,6843
+PA-087,Mifflin County,Pennsylvania,5306,5,-775,6081
+PA-089,Monroe County,Pennsylvania,6160,7,-1018,7178
+PA-091,Montgomery County,Pennsylvania,4675,9,-907,5582
+PA-093,Montour County,Pennsylvania,5507,6,-883,6390
+PA-095,Northampton County,Pennsylvania,5329,9,-1033,6362
+PA-097,Northumberland County,Pennsylvania,5467,6,-870,6337
+PA-099,Perry County,Pennsylvania,5053,5,-854,5907
+PA-101,Philadelphia County,Pennsylvania,4265,9,-935,5200
+PA-103,Pike County,Pennsylvania,6222,8,-1009,7231
+PA-105,Potter County,Pennsylvania,6502,4,-981,7483
+PA-107,Schuylkill County,Pennsylvania,5697,8,-892,6589
+PA-109,Snyder County,Pennsylvania,5358,5,-794,6152
+PA-111,Somerset County,Pennsylvania,5886,4,-975,6861
+PA-113,Sullivan County,Pennsylvania,6714,6,-911,7625
+PA-115,Susquehanna County,Pennsylvania,6383,5,-988,7371
+PA-117,Tioga County,Pennsylvania,6483,5,-969,7452
+PA-119,Union County,Pennsylvania,5532,5,-845,6377
+PA-121,Venango County,Pennsylvania,5853,4,-1123,6976
+PA-123,Warren County,Pennsylvania,6236,2,-1153,7389
+PA-125,Washington County,Pennsylvania,4921,1,-991,5912
+PA-127,Wayne County,Pennsylvania,6443,7,-1003,7446
+PA-129,Westmoreland County,Pennsylvania,5111,1,-942,6053
+PA-131,Wyoming County,Pennsylvania,6125,5,-1031,7156
+PA-133,York County,Pennsylvania,4764,6,-965,5729
+RI-001,Bristol County,Rhode Island,5162,12,-834,5996
+RI-003,Kent County,Rhode Island,5430,10,-961,6391
+RI-005,Newport County,Rhode Island,5184,12,-840,6024
+RI-007,Providence County,Rhode Island,5524,7,-971,6495
+RI-009,Washington County,Rhode Island,5274,10,-998,6272
+SC-001,Abbeville County,South Carolina,2507,8,-579,3086
+SC-003,Aiken County,South Carolina,2205,23,-423,2628
+SC-005,Allendale County,South Carolina,2074,29,-333,2407
+SC-007,Anderson County,South Carolina,2616,7,-605,3221
+SC-009,Bamberg County,South Carolina,2033,17,-411,2444
+SC-011,Barnwell County,South Carolina,2105,23,-402,2507
+SC-013,Beaufort County,South Carolina,1770,36,-240,2010
+SC-015,Berkeley County,South Carolina,1969,22,-378,2347
+SC-017,Calhoun County,South Carolina,2097,18,-445,2542
+SC-019,Charleston County,South Carolina,1788,21,-399,2187
+SC-021,Cherokee County,South Carolina,3035,20,-437,3472
+SC-023,Chester County,South Carolina,2841,29,-343,3184
+SC-025,Chesterfield County,South Carolina,2661,22,-442,3103
+SC-027,Clarendon County,South Carolina,2173,26,-356,2529
+SC-029,Colleton County,South Carolina,1920,26,-388,2308
+SC-031,Darlington County,South Carolina,2405,17,-455,2860
+SC-033,Dillon County,South Carolina,2348,16,-478,2826
+SC-035,Dorchester County,South Carolina,1880,15,-471,2351
+SC-037,Edgefield County,South Carolina,2317,18,-443,2760
+SC-039,Fairfield County,South Carolina,2560,17,-430,2990
+SC-041,Florence County,South Carolina,2237,20,-427,2664
+SC-043,Georgetown County,South Carolina,2193,41,-230,2423
+SC-045,Greenville County,South Carolina,2888,11,-560,3448
+SC-047,Greenwood County,South Carolina,2517,14,-497,3014
+SC-049,Hampton County,South Carolina,2020,32,-285,2305
+SC-051,Horry County,South Carolina,2325,39,-290,2615
+SC-053,Jasper County,South Carolina,1875,37,-243,2118
+SC-055,Kershaw County,South Carolina,2565,22,-417,2982
+SC-057,Lancaster County,South Carolina,2778,17,-467,3245
+SC-059,Laurens County,South Carolina,2689,20,-450,3139
+SC-061,Lee County,South Carolina,2390,19,-425,2815
+SC-063,Lexington County,South Carolina,2268,11,-519,2787
+SC-065,McCormick County,South Carolina,2391,11,-501,2892
+SC-067,Marion County,South Carolina,2251,21,-406,2657
+SC-069,Marlboro County,South Carolina,2466,18,-469,2935
+SC-071,Newberry County,South Carolina,2529,15,-476,3005
+SC-073,Oconee County,South Carolina,2937,15,-442,3379
+SC-075,Orangeburg County,South Carolina,2021,13,-467,2488
+SC-077,Pickens County,South Carolina,2838,6,-618,3456
+SC-079,Richland County,South Carolina,2291,20,-409,2700
+SC-081,Saluda County,South Carolina,2434,14,-477,2911
+SC-083,Spartanburg County,South Carolina,2866,14,-494,3360
+SC-085,Sumter County,South Carolina,2215,19,-421,2636
+SC-087,Union County,South Carolina,2862,31,-354,3216
+SC-089,Williamsburg County,South Carolina,2213,34,-303,2516
+SC-091,York County,South Carolina,2978,26,-381,3359
+SD-003,Aurora County,South Dakota,6622,5,-1169,7791
+SD-005,Beadle County,South Dakota,6971,4,-1211,8182
+SD-007,Bennett County,South Dakota,6387,4,-1144,7531
+SD-009,Bon Homme County,South Dakota,6149,4,-1165,7314
+SD-011,Brookings County,South Dakota,7284,1,-1334,8618
+SD-013,Brown County,South Dakota,7506,4,-1395,8901
+SD-015,Brule County,South Dakota,6490,5,-1195,7685
+SD-017,Buffalo County,South Dakota,6870,6,-1091,7961
+SD-019,Butte County,South Dakota,6793,5,-1194,7987
+SD-021,Campbell County,South Dakota,7574,3,-1178,8752
+SD-023,Charles Mix County,South Dakota,6200,5,-1096,7296
+SD-025,Clark County,South Dakota,7445,4,-1368,8813
+SD-027,Clay County,South Dakota,6088,2,-1306,7394
+SD-029,Codington County,South Dakota,7678,2,-1413,9091
+SD-031,Corson County,South Dakota,7394,5,-1176,8570
+SD-033,Custer County,South Dakota,6681,4,-1124,7805
+SD-035,Davison County,South Dakota,6693,6,-980,7673
+SD-037,Day County,South Dakota,7805,4,-1334,9139
+SD-039,Deuel County,South Dakota,7482,1,-1421,8903
+SD-041,Dewey County,South Dakota,7058,3,-1205,8263
+SD-043,Douglas County,South Dakota,6437,4,-1090,7527
+SD-045,Edmunds County,South Dakota,7531,3,-1237,8768
+SD-047,Fall River County,South Dakota,6224,4,-1139,7363
+SD-049,Faulk County,South Dakota,7371,3,-1239,8610
+SD-051,Grant County,South Dakota,7397,2,-1438,8835
+SD-053,Gregory County,South Dakota,6258,5,-1093,7351
+SD-055,Haakon County,South Dakota,6645,6,-1066,7711
+SD-057,Hamlin County,South Dakota,7459,2,-1445,8904
+SD-059,Hand County,South Dakota,7202,5,-1096,8298
+SD-061,Hanson County,South Dakota,6740,5,-989,7729
+SD-063,Harding County,South Dakota,7241,4,-1332,8573
+SD-065,Hughes County,South Dakota,6795,4,-1123,7918
+SD-067,Hutchinson County,South Dakota,6395,4,-1190,7585
+SD-069,Hyde County,South Dakota,7243,5,-1157,8400
+SD-071,Jackson County,South Dakota,6241,4,-1127,7368
+SD-073,Jerauld County,South Dakota,6975,6,-1054,8029
+SD-075,Jones County,South Dakota,6435,4,-1085,7520
+SD-077,Kingsbury County,South Dakota,7208,5,-1310,8518
+SD-079,Lake County,South Dakota,6985,1,-1312,8297
+SD-081,Lawrence County,South Dakota,7518,8,-992,8510
+SD-083,Lincoln County,South Dakota,6415,2,-1351,7766
+SD-085,Lyman County,South Dakota,6476,5,-1112,7588
+SD-087,McCook County,South Dakota,6679,3,-1256,7935
+SD-089,McPherson County,South Dakota,7879,5,-1174,9053
+SD-091,Marshall County,South Dakota,7896,5,-1258,9154
+SD-093,Meade County,South Dakota,6692,5,-1107,7799
+SD-095,Mellette County,South Dakota,6201,4,-1133,7334
+SD-097,Miner County,South Dakota,6905,3,-1195,8100
+SD-099,Minnehaha County,South Dakota,6573,1,-1518,8091
+SD-101,Moody County,South Dakota,6965,1,-1383,8348
+SD-102,Oglala Lakota County,South Dakota,6176,4,-1161,7337
+SD-103,Pennington County,South Dakota,6658,4,-1173,7831
+SD-105,Perkins County,South Dakota,7299,4,-1278,8577
+SD-107,Potter County,South Dakota,7300,4,-1307,8607
+SD-109,Roberts County,South Dakota,7494,2,-1433,8927
+SD-111,Sanborn County,South Dakota,6879,7,-996,7875
+SD-115,Spink County,South Dakota,7161,3,-1314,8475
+SD-117,Stanley County,South Dakota,6727,6,-1047,7774
+SD-119,Sully County,South Dakota,7001,3,-1214,8215
+SD-121,Todd County,South Dakota,6316,5,-1102,7418
+SD-123,Tripp County,South Dakota,6278,5,-1101,7379
+SD-125,Turner County,South Dakota,6353,2,-1366,7719
+SD-127,Union County,South Dakota,6105,1,-1289,7394
+SD-129,Walworth County,South Dakota,7356,2,-1318,8674
+SD-135,Yankton County,South Dakota,6135,2,-1317,7452
+SD-137,Ziebach County,South Dakota,6967,5,-1198,8165
+TN-001,Anderson County,Tennessee,3609,13,-573,4182
+TN-003,Bedford County,Tennessee,3133,4,-672,3805
+TN-005,Benton County,Tennessee,3070,2,-804,3874
+TN-007,Bledsoe County,Tennessee,3554,7,-650,4204
+TN-009,Blount County,Tennessee,3398,13,-556,3954
+TN-011,Bradley County,Tennessee,3061,8,-593,3654
+TN-013,Campbell County,Tennessee,3975,13,-565,4540
+TN-015,Cannon County,Tennessee,3367,8,-637,4004
+TN-017,Carroll County,Tennessee,3039,1,-845,3884
+TN-019,Carter County,Tennessee,4310,9,-685,4995
+TN-021,Cheatham County,Tennessee,3123,2,-860,3983
+TN-023,Chester County,Tennessee,2895,1,-811,3706
+TN-025,Claiborne County,Tennessee,3882,11,-588,4470
+TN-027,Clay County,Tennessee,3419,6,-725,4144
+TN-029,Cocke County,Tennessee,3532,12,-587,4119
+TN-031,Coffee County,Tennessee,3288,5,-697,3985
+TN-033,Crockett County,Tennessee,2872,1,-924,3796
+TN-035,Cumberland County,Tennessee,3958,11,-636,4594
+TN-037,Davidson County,Tennessee,3043,2,-853,3896
+TN-039,Decatur County,Tennessee,2904,2,-795,3699
+TN-041,DeKalb County,Tennessee,3388,10,-624,4012
+TN-043,Dickson County,Tennessee,3200,2,-868,4068
+TN-045,Dyer County,Tennessee,2871,1,-967,3838
+TN-047,Fayette County,Tennessee,2773,2,-741,3514
+TN-049,Fentress County,Tennessee,3979,8,-699,4678
+TN-051,Franklin County,Tennessee,3182,6,-658,3840
+TN-053,Gibson County,Tennessee,2956,1,-922,3878
+TN-055,Giles County,Tennessee,3037,2,-754,3791
+TN-057,Grainger County,Tennessee,3603,11,-613,4216
+TN-059,Greene County,Tennessee,3600,14,-550,4150
+TN-061,Grundy County,Tennessee,3616,6,-705,4321
+TN-063,Hamblen County,Tennessee,3473,12,-605,4078
+TN-065,Hamilton County,Tennessee,3038,6,-656,3694
+TN-067,Hancock County,Tennessee,3772,9,-623,4395
+TN-069,Hardeman County,Tennessee,2867,2,-758,3625
+TN-071,Hardin County,Tennessee,2849,2,-748,3597
+TN-073,Hawkins County,Tennessee,3622,12,-593,4215
+TN-075,Haywood County,Tennessee,2855,2,-838,3693
+TN-077,Henderson County,Tennessee,2938,1,-840,3778
+TN-079,Henry County,Tennessee,3216,1,-762,3978
+TN-081,Hickman County,Tennessee,3121,2,-822,3943
+TN-083,Houston County,Tennessee,3184,2,-835,4019
+TN-085,Humphreys County,Tennessee,3123,2,-830,3953
+TN-087,Jackson County,Tennessee,3337,7,-703,4040
+TN-089,Jefferson County,Tennessee,3387,11,-614,4001
+TN-091,Johnson County,Tennessee,4708,9,-682,5390
+TN-093,Knox County,Tennessee,3366,13,-569,3935
+TN-095,Lake County,Tennessee,2991,1,-936,3927
+TN-097,Lauderdale County,Tennessee,2814,2,-850,3664
+TN-099,Lawrence County,Tennessee,3073,2,-791,3864
+TN-101,Lewis County,Tennessee,3134,2,-810,3944
+TN-103,Lincoln County,Tennessee,3070,5,-615,3685
+TN-105,Loudon County,Tennessee,3252,10,-562,3814
+TN-107,McMinn County,Tennessee,3182,8,-594,3776
+TN-109,McNairy County,Tennessee,2882,2,-722,3604
+TN-111,Macon County,Tennessee,3463,8,-709,4172
+TN-113,Madison County,Tennessee,2863,1,-890,3753
+TN-115,Marion County,Tennessee,3224,6,-654,3878
+TN-117,Marshall County,Tennessee,3099,2,-748,3847
+TN-119,Maury County,Tennessee,3071,2,-836,3907
+TN-121,Meigs County,Tennessee,3186,6,-609,3795
+TN-123,Monroe County,Tennessee,3394,11,-557,3951
+TN-125,Montgomery County,Tennessee,3121,1,-943,4064
+TN-127,Moore County,Tennessee,3132,5,-658,3790
+TN-129,Morgan County,Tennessee,3851,11,-627,4478
+TN-131,Obion County,Tennessee,3081,1,-916,3997
+TN-133,Overton County,Tennessee,3590,6,-737,4327
+TN-135,Perry County,Tennessee,2989,2,-816,3805
+TN-137,Pickett County,Tennessee,3657,6,-746,4403
+TN-139,Polk County,Tennessee,3285,13,-531,3816
+TN-141,Putnam County,Tennessee,3534,8,-700,4234
+TN-143,Rhea County,Tennessee,3370,8,-622,3992
+TN-145,Roane County,Tennessee,3340,10,-598,3938
+TN-147,Robertson County,Tennessee,3316,4,-804,4120
+TN-149,Rutherford County,Tennessee,3130,4,-714,3844
+TN-151,Scott County,Tennessee,4035,11,-652,4687
+TN-153,Sequatchie County,Tennessee,3468,6,-686,4154
+TN-155,Sevier County,Tennessee,3815,18,-501,4316
+TN-157,Shelby County,Tennessee,2600,2,-737,3337
+TN-159,Smith County,Tennessee,3295,8,-648,3943
+TN-161,Stewart County,Tennessee,3213,2,-814,4027
+TN-163,Sullivan County,Tennessee,3813,11,-617,4430
+TN-165,Sumner County,Tennessee,3321,5,-751,4072
+TN-167,Tipton County,Tennessee,2781,3,-739,3520
+TN-169,Trousdale County,Tennessee,3298,7,-686,3984
+TN-171,Unicoi County,Tennessee,4312,12,-626,4938
+TN-173,Union County,Tennessee,3694,15,-557,4251
+TN-175,Van Buren County,Tennessee,3662,10,-621,4283
+TN-177,Warren County,Tennessee,3418,9,-645,4063
+TN-179,Washington County,Tennessee,3688,12,-582,4270
+TN-181,Wayne County,Tennessee,2990,2,-813,3803
+TN-183,Weakley County,Tennessee,3088,1,-878,3966
+TN-185,White County,Tennessee,3601,12,-592,4193
+TN-187,Williamson County,Tennessee,3096,2,-849,3945
+TN-189,Wilson County,Tennessee,3214,5,-697,3911
+TX-001,Anderson County,Texas,1685,4,-570,2255
+TX-003,Andrews County,Texas,2237,1,-751,2988
+TX-005,Angelina County,Texas,1545,4,-491,2036
+TX-007,Aransas County,Texas,721,4,-467,1188
+TX-009,Archer County,Texas,2173,1,-789,2962
+TX-011,Armstrong County,Texas,3112,1,-957,4069
+TX-013,Atascosa County,Texas,955,4,-450,1405
+TX-015,Austin County,Texas,1019,2,-659,1678
+TX-017,Bailey County,Texas,3343,3,-782,4125
+TX-019,Bandera County,Texas,1412,2,-549,1961
+TX-021,Bastrop County,Texas,1202,2,-644,1846
+TX-023,Baylor County,Texas,2175,2,-826,3001
+TX-025,Bee County,Texas,857,5,-398,1255
+TX-027,Bell County,Texas,1470,2,-755,2225
+TX-029,Bexar County,Texas,1106,2,-499,1605
+TX-031,Blanco County,Texas,1417,2,-653,2070
+TX-033,Borden County,Texas,2252,3,-643,2895
+TX-035,Bosque County,Texas,1659,1,-712,2371
+TX-037,Bowie County,Texas,1925,1,-831,2756
+TX-039,Brazoria County,Texas,933,5,-456,1389
+TX-041,Brazos County,Texas,1283,2,-644,1927
+TX-043,Brewster County,Texas,1635,2,-610,2245
+TX-045,Briscoe County,Texas,2951,3,-786,3737
+TX-047,Brooks County,Texas,621,4,-365,986
+TX-049,Brown County,Texas,1754,1,-791,2545
+TX-051,Burleson County,Texas,1226,2,-693,1919
+TX-053,Burnet County,Texas,1483,2,-660,2143
+TX-055,Caldwell County,Texas,1116,2,-653,1769
+TX-057,Calhoun County,Texas,791,3,-487,1278
+TX-059,Callahan County,Texas,2015,1,-708,2723
+TX-061,Cameron County,Texas,421,5,-262,683
+TX-063,Camp County,Texas,1836,2,-784,2620
+TX-065,Carson County,Texas,3264,1,-1088,4352
+TX-067,Cass County,Texas,1876,2,-686,2562
+TX-069,Castro County,Texas,3371,1,-888,4259
+TX-071,Chambers County,Texas,1042,4,-466,1508
+TX-073,Cherokee County,Texas,1697,4,-525,2222
+TX-075,Childress County,Texas,2602,1,-843,3445
+TX-077,Clay County,Texas,2232,1,-744,2976
+TX-079,Cochran County,Texas,3157,4,-701,3858
+TX-081,Coke County,Texas,1883,1,-789,2672
+TX-083,Coleman County,Texas,1814,1,-763,2577
+TX-085,Collin County,Texas,1934,1,-801,2735
+TX-087,Collingsworth County,Texas,2910,1,-843,3753
+TX-089,Colorado County,Texas,982,2,-627,1609
+TX-091,Comal County,Texas,1236,2,-578,1814
+TX-093,Comanche County,Texas,1775,1,-799,2574
+TX-095,Concho County,Texas,1825,1,-719,2544
+TX-097,Cooke County,Texas,2165,1,-699,2864
+TX-099,Coryell County,Texas,1589,2,-719,2308
+TX-101,Cottle County,Texas,2500,2,-733,3233
+TX-103,Crane County,Texas,1729,1,-770,2499
+TX-105,Crockett County,Texas,1714,2,-714,2428
+TX-107,Crosby County,Texas,2761,4,-709,3470
+TX-109,Culberson County,Texas,2328,3,-696,3024
+TX-111,Dallam County,Texas,4228,5,-660,4888
+TX-113,Dallas County,Texas,1775,2,-676,2451
+TX-115,Dawson County,Texas,2465,3,-590,3055
+TX-117,Deaf Smith County,Texas,3539,1,-961,4500
+TX-119,Delta County,Texas,2084,2,-714,2798
+TX-121,Denton County,Texas,1937,1,-704,2641
+TX-123,DeWitt County,Texas,935,2,-536,1471
+TX-125,Dickens County,Texas,2549,3,-648,3197
+TX-127,Dimmit County,Texas,853,2,-494,1347
+TX-129,Donley County,Texas,3034,1,-902,3936
+TX-131,Duval County,Texas,726,4,-431,1157
+TX-133,Eastland County,Texas,1964,1,-762,2726
+TX-135,Ector County,Texas,1994,2,-791,2785
+TX-137,Edwards County,Texas,1478,1,-716,2194
+TX-139,Ellis County,Texas,1713,3,-626,2339
+TX-141,El Paso County,Texas,2143,3,-739,2882
+TX-143,Erath County,Texas,1748,1,-859,2607
+TX-145,Falls County,Texas,1519,2,-706,2225
+TX-147,Fannin County,Texas,2139,2,-757,2896
+TX-149,Fayette County,Texas,1057,2,-661,1718
+TX-151,Fisher County,Texas,2137,1,-755,2892
+TX-153,Floyd County,Texas,3029,3,-741,3770
+TX-155,Foard County,Texas,2358,1,-804,3162
+TX-157,Fort Bend County,Texas,963,3,-538,1501
+TX-159,Franklin County,Texas,1971,2,-733,2704
+TX-161,Freestone County,Texas,1582,3,-658,2240
+TX-163,Frio County,Texas,937,3,-511,1448
+TX-165,Gaines County,Texas,2578,1,-630,3208
+TX-167,Galveston County,Texas,937,5,-450,1387
+TX-169,Garza County,Texas,2355,2,-703,3058
+TX-171,Gillespie County,Texas,1638,2,-598,2236
+TX-173,Glasscock County,Texas,2077,1,-705,2782
+TX-175,Goliad County,Texas,868,4,-451,1319
+TX-177,Gonzales County,Texas,997,2,-593,1590
+TX-179,Gray County,Texas,3125,1,-1145,4270
+TX-181,Grayson County,Texas,2128,1,-735,2863
+TX-183,Gregg County,Texas,1781,3,-571,2352
+TX-185,Grimes County,Texas,1275,2,-619,1894
+TX-187,Guadalupe County,Texas,1081,2,-576,1657
+TX-189,Hale County,Texas,3129,1,-775,3904
+TX-191,Hall County,Texas,2714,3,-790,3504
+TX-193,Hamilton County,Texas,1701,1,-758,2459
+TX-195,Hansford County,Texas,3501,1,-969,4470
+TX-197,Hardeman County,Texas,2470,1,-853,3323
+TX-199,Hardin County,Texas,1299,4,-471,1770
+TX-201,Harris County,Texas,997,3,-538,1535
+TX-203,Harrison County,Texas,1789,3,-537,2326
+TX-205,Hartley County,Texas,3912,4,-746,4658
+TX-207,Haskell County,Texas,2149,2,-740,2889
+TX-209,Hays County,Texas,1293,2,-634,1927
+TX-211,Hemphill County,Texas,3197,1,-1059,4256
+TX-213,Henderson County,Texas,1755,3,-618,2373
+TX-215,Hidalgo County,Texas,489,7,-277,766
+TX-217,Hill County,Texas,1639,2,-672,2311
+TX-219,Hockley County,Texas,2999,4,-710,3709
+TX-221,Hood County,Texas,1730,1,-755,2485
+TX-223,Hopkins County,Texas,1995,2,-741,2736
+TX-225,Houston County,Texas,1592,5,-484,2076
+TX-227,Howard County,Texas,2086,1,-677,2763
+TX-229,Hudspeth County,Texas,2462,4,-692,3154
+TX-231,Hunt County,Texas,1950,2,-839,2789
+TX-233,Hutchinson County,Texas,3190,1,-1017,4207
+TX-235,Irion County,Texas,1911,1,-717,2628
+TX-237,Jack County,Texas,2140,3,-734,2874
+TX-239,Jackson County,Texas,886,2,-519,1405
+TX-241,Jasper County,Texas,1463,4,-467,1930
+TX-243,Jeff Davis County,Texas,2250,2,-797,3047
+TX-245,Jefferson County,Texas,1106,4,-465,1571
+TX-247,Jim Hogg County,Texas,641,4,-379,1020
+TX-249,Jim Wells County,Texas,712,4,-394,1106
+TX-251,Johnson County,Texas,1730,1,-693,2423
+TX-253,Jones County,Texas,2130,3,-659,2789
+TX-255,Karnes County,Texas,965,3,-454,1419
+TX-257,Kaufman County,Texas,1806,3,-666,2472
+TX-259,Kendall County,Texas,1436,2,-572,2008
+TX-261,Kenedy County,Texas,563,4,-350,913
+TX-263,Kent County,Texas,2273,2,-701,2974
+TX-265,Kerr County,Texas,1647,2,-604,2251
+TX-267,Kimble County,Texas,1722,1,-692,2414
+TX-269,King County,Texas,2349,2,-708,3057
+TX-271,Kinney County,Texas,1014,1,-641,1655
+TX-273,Kleberg County,Texas,632,5,-404,1036
+TX-275,Knox County,Texas,2230,2,-770,3000
+TX-277,Lamar County,Texas,2210,2,-663,2873
+TX-279,Lamb County,Texas,3278,3,-718,3996
+TX-281,Lampasas County,Texas,1608,1,-689,2297
+TX-283,La Salle County,Texas,778,2,-522,1300
+TX-285,Lavaca County,Texas,956,2,-614,1570
+TX-287,Lee County,Texas,1217,2,-691,1908
+TX-289,Leon County,Texas,1561,3,-562,2123
+TX-291,Liberty County,Texas,1155,3,-501,1656
+TX-293,Limestone County,Texas,1575,2,-677,2252
+TX-295,Lipscomb County,Texas,3485,1,-976,4461
+TX-297,Live Oak County,Texas,833,4,-422,1255
+TX-299,Llano County,Texas,1473,2,-709,2182
+TX-301,Loving County,Texas,2028,3,-656,2684
+TX-303,Lubbock County,Texas,2782,2,-852,3634
+TX-305,Lynn County,Texas,2607,2,-693,3300
+TX-307,McCulloch County,Texas,1691,1,-765,2456
+TX-309,McLennan County,Texas,1582,2,-689,2271
+TX-311,McMullen County,Texas,796,3,-481,1277
+TX-313,Madison County,Texas,1431,2,-571,2002
+TX-315,Marion County,Texas,1863,3,-549,2412
+TX-317,Martin County,Texas,2159,2,-692,2851
+TX-319,Mason County,Texas,1610,1,-700,2310
+TX-321,Matagorda County,Texas,899,3,-461,1360
+TX-323,Maverick County,Texas,888,1,-554,1442
+TX-325,Medina County,Texas,1131,4,-498,1629
+TX-327,Menard County,Texas,1832,1,-739,2571
+TX-329,Midland County,Texas,2004,3,-740,2744
+TX-331,Milam County,Texas,1383,2,-718,2101
+TX-333,Mills County,Texas,1695,1,-755,2450
+TX-335,Mitchell County,Texas,1997,1,-776,2773
+TX-337,Montague County,Texas,2212,2,-738,2950
+TX-339,Montgomery County,Texas,1155,2,-612,1767
+TX-341,Moore County,Texas,3513,1,-921,4434
+TX-343,Morris County,Texas,1823,1,-799,2622
+TX-345,Motley County,Texas,2672,4,-688,3360
+TX-347,Nacogdoches County,Texas,1674,4,-472,2146
+TX-349,Navarro County,Texas,1625,3,-680,2305
+TX-351,Newton County,Texas,1444,4,-500,1944
+TX-353,Nolan County,Texas,2051,1,-830,2881
+TX-355,Nueces County,Texas,659,4,-407,1066
+TX-357,Ochiltree County,Texas,3443,1,-1017,4460
+TX-359,Oldham County,Texas,3607,2,-753,4360
+TX-361,Orange County,Texas,1195,4,-482,1677
+TX-363,Palo Pinto County,Texas,1880,1,-804,2684
+TX-365,Panola County,Texas,1700,3,-535,2235
+TX-367,Parker County,Texas,1884,1,-744,2628
+TX-369,Parmer County,Texas,3421,1,-955,4376
+TX-371,Pecos County,Texas,1728,1,-790,2518
+TX-373,Polk County,Texas,1412,4,-488,1900
+TX-375,Potter County,Texas,3320,1,-978,4298
+TX-377,Presidio County,Texas,1741,3,-652,2393
+TX-379,Rains County,Texas,1894,2,-790,2684
+TX-381,Randall County,Texas,3348,1,-973,4321
+TX-383,Reagan County,Texas,1956,2,-718,2674
+TX-385,Real County,Texas,1459,1,-626,2085
+TX-387,Red River County,Texas,2111,2,-766,2877
+TX-389,Reeves County,Texas,1888,3,-709,2597
+TX-391,Refugio County,Texas,774,4,-434,1208
+TX-393,Roberts County,Texas,3140,1,-1119,4259
+TX-395,Robertson County,Texas,1443,2,-649,2092
+TX-397,Rockwall County,Texas,1859,1,-767,2626
+TX-399,Runnels County,Texas,1846,1,-785,2631
+TX-401,Rusk County,Texas,1746,3,-504,2250
+TX-403,Sabine County,Texas,1596,4,-530,2126
+TX-405,San Augustine County,Texas,1622,5,-487,2109
+TX-407,San Jacinto County,Texas,1312,3,-526,1838
+TX-409,San Patricio County,Texas,734,5,-390,1124
+TX-411,San Saba County,Texas,1574,1,-775,2349
+TX-413,Schleicher County,Texas,1878,1,-712,2590
+TX-415,Scurry County,Texas,2157,1,-775,2932
+TX-417,Shackelford County,Texas,2030,2,-743,2773
+TX-419,Shelby County,Texas,1683,3,-520,2203
+TX-421,Sherman County,Texas,3766,3,-845,4611
+TX-423,Smith County,Texas,1857,4,-554,2411
+TX-425,Somervell County,Texas,1689,1,-736,2425
+TX-427,Starr County,Texas,554,7,-308,862
+TX-429,Stephens County,Texas,1999,1,-778,2777
+TX-431,Sterling County,Texas,2000,1,-739,2739
+TX-433,Stonewall County,Texas,2237,3,-681,2918
+TX-435,Sutton County,Texas,1736,1,-714,2450
+TX-437,Swisher County,Texas,3266,1,-835,4101
+TX-439,Tarrant County,Texas,1775,2,-701,2476
+TX-441,Taylor County,Texas,2026,1,-735,2761
+TX-443,Terrell County,Texas,1507,1,-683,2190
+TX-445,Terry County,Texas,2758,2,-644,3402
+TX-447,Throckmorton County,Texas,2090,1,-796,2886
+TX-449,Titus County,Texas,1865,1,-855,2720
+TX-451,Tom Green County,Texas,1817,1,-730,2547
+TX-453,Travis County,Texas,1324,2,-616,1940
+TX-455,Trinity County,Texas,1510,4,-482,1992
+TX-457,Tyler County,Texas,1468,4,-455,1923
+TX-459,Upshur County,Texas,1832,2,-662,2494
+TX-461,Upton County,Texas,1780,2,-752,2532
+TX-463,Uvalde County,Texas,1124,1,-523,1647
+TX-465,Val Verde County,Texas,1282,1,-636,1918
+TX-467,Van Zandt County,Texas,1832,2,-710,2542
+TX-469,Victoria County,Texas,846,3,-511,1357
+TX-471,Walker County,Texas,1386,4,-529,1915
+TX-473,Waller County,Texas,1058,2,-645,1703
+TX-475,Ward County,Texas,1826,2,-747,2573
+TX-477,Washington County,Texas,1119,2,-695,1814
+TX-479,Webb County,Texas,724,3,-453,1177
+TX-481,Wharton County,Texas,950,2,-534,1484
+TX-483,Wheeler County,Texas,3022,1,-1033,4055
+TX-485,Wichita County,Texas,2294,1,-797,3091
+TX-487,Wilbarger County,Texas,2347,1,-811,3158
+TX-489,Willacy County,Texas,489,5,-291,780
+TX-491,Williamson County,Texas,1400,2,-671,2071
+TX-493,Wilson County,Texas,1028,3,-477,1505
+TX-495,Winkler County,Texas,1999,1,-755,2754
+TX-497,Wise County,Texas,2038,2,-730,2768
+TX-499,Wood County,Texas,1874,2,-730,2604
+TX-501,Yoakum County,Texas,2931,4,-663,3594
+TX-503,Young County,Texas,2106,3,-768,2874
+TX-505,Zapata County,Texas,608,4,-359,967
+TX-507,Zavala County,Texas,931,2,-500,1431
+UT-001,Beaver County,Utah,5826,4,-852,6678
+UT-003,Box Elder County,Utah,6171,4,-890,7061
+UT-005,Cache County,Utah,7327,5,-1014,8341
+UT-007,Carbon County,Utah,7222,8,-834,8056
+UT-009,Daggett County,Utah,8273,15,-722,8995
+UT-011,Davis County,Utah,5913,8,-807,6720
+UT-013,Duchesne County,Utah,7986,7,-1077,9063
+UT-015,Emery County,Utah,5735,10,-699,6434
+UT-017,Garfield County,Utah,5876,5,-889,6765
+UT-019,Grand County,Utah,5460,7,-935,6395
+UT-021,Iron County,Utah,5787,5,-900,6687
+UT-023,Juab County,Utah,5782,9,-634,6416
+UT-025,Kane County,Utah,4958,6,-730,5688
+UT-027,Millard County,Utah,5509,5,-709,6218
+UT-029,Morgan County,Utah,7466,9,-826,8292
+UT-031,Piute County,Utah,7076,2,-1173,8249
+UT-033,Rich County,Utah,8461,7,-914,9375
+UT-035,Salt Lake County,Utah,5974,7,-803,6777
+UT-037,San Juan County,Utah,4952,5,-724,5676
+UT-039,Sanpete County,Utah,7391,10,-696,8087
+UT-041,Sevier County,Utah,7132,11,-666,7798
+UT-043,Summit County,Utah,9179,14,-744,9923
+UT-045,Tooele County,Utah,5783,14,-514,6297
+UT-047,Uintah County,Utah,6701,5,-1127,7828
+UT-049,Utah County,Utah,6597,9,-709,7306
+UT-051,Wasatch County,Utah,8288,10,-837,9125
+UT-053,Washington County,Utah,4130,10,-582,4712
+UT-055,Wayne County,Utah,5366,5,-867,6233
+UT-057,Weber County,Utah,6762,8,-907,7669
+VT-001,Addison County,Vermont,7094,2,-1238,8332
+VT-003,Bennington County,Vermont,7184,3,-1444,8628
+VT-005,Caledonia County,Vermont,7771,1,-1383,9154
+VT-007,Chittenden County,Vermont,6811,3,-1560,8371
+VT-009,Essex County,Vermont,8139,2,-1368,9507
+VT-011,Franklin County,Vermont,7022,1,-1572,8594
+VT-013,Grand Isle County,Vermont,6589,1,-1470,8059
+VT-015,Lamoille County,Vermont,7596,2,-1584,9180
+VT-017,Orange County,Vermont,7393,3,-1389,8782
+VT-019,Orleans County,Vermont,7888,3,-1409,9297
+VT-021,Rutland County,Vermont,7195,2,-1302,8497
+VT-023,Washington County,Vermont,7575,2,-1438,9013
+VT-025,Windham County,Vermont,6935,3,-1331,8266
+VT-027,Windsor County,Vermont,7128,3,-1396,8524
+VA-001,Accomack County,Virginia,3542,14,-642,4184
+VA-003,Albemarle County,Virginia,3700,2,-984,4684
+VA-005,Alleghany County,Virginia,4497,6,-751,5248
+VA-007,Amelia County,Virginia,3641,17,-541,4182
+VA-009,Amherst County,Virginia,3822,1,-892,4714
+VA-011,Appomattox County,Virginia,3517,1,-986,4503
+VA-013,Arlington County,Virginia,3860,4,-821,4681
+VA-015,Augusta County,Virginia,4303,1,-1061,5364
+VA-017,Bath County,Virginia,4775,5,-762,5537
+VA-019,Bedford County,Virginia,3767,4,-730,4497
+VA-021,Bland County,Virginia,4905,11,-684,5589
+VA-023,Botetourt County,Virginia,4027,5,-686,4713
+VA-025,Brunswick County,Virginia,3370,11,-639,4009
+VA-027,Buchanan County,Virginia,4232,7,-701,4933
+VA-029,Buckingham County,Virginia,3500,1,-906,4406
+VA-031,Campbell County,Virginia,3635,1,-863,4498
+VA-033,Caroline County,Virginia,3766,14,-626,4392
+VA-035,Carroll County,Virginia,4459,5,-862,5321
+VA-036,Charles City County,Virginia,3345,22,-433,3778
+VA-037,Charlotte County,Virginia,3579,4,-768,4347
+VA-041,Chesterfield County,Virginia,3535,19,-486,4021
+VA-043,Clarke County,Virginia,4540,13,-750,5290
+VA-045,Craig County,Virginia,4444,2,-798,5242
+VA-047,Culpeper County,Virginia,3999,5,-839,4838
+VA-049,Cumberland County,Virginia,3596,7,-708,4304
+VA-051,Dickenson County,Virginia,4280,13,-632,4912
+VA-053,Dinwiddie County,Virginia,3474,17,-530,4004
+VA-057,Essex County,Virginia,3748,22,-461,4209
+VA-059,Fairfax County,Virginia,3909,4,-874,4783
+VA-061,Fauquier County,Virginia,4172,6,-881,5053
+VA-063,Floyd County,Virginia,4701,3,-811,5512
+VA-065,Fluvanna County,Virginia,3561,1,-892,4453
+VA-067,Franklin County,Virginia,3869,11,-636,4505
+VA-069,Frederick County,Virginia,4695,11,-752,5447
+VA-071,Giles County,Virginia,4630,4,-786,5416
+VA-073,Gloucester County,Virginia,3394,20,-462,3856
+VA-075,Goochland County,Virginia,3634,6,-711,4345
+VA-077,Grayson County,Virginia,4943,3,-903,5846
+VA-079,Greene County,Virginia,4110,2,-958,5068
+VA-081,Greensville County,Virginia,3266,13,-593,3859
+VA-083,Halifax County,Virginia,3483,4,-729,4212
+VA-085,Hanover County,Virginia,3617,11,-622,4239
+VA-087,Henrico County,Virginia,3490,15,-535,4025
+VA-089,Henry County,Virginia,3667,13,-575,4242
+VA-091,Highland County,Virginia,5416,3,-898,6314
+VA-093,Isle of Wight County,Virginia,3133,15,-522,3655
+VA-095,James City County,Virginia,3312,19,-472,3784
+VA-097,King and Queen County,Virginia,3636,22,-459,4095
+VA-099,King George County,Virginia,3720,13,-688,4408
+VA-101,King William County,Virginia,3571,16,-532,4103
+VA-103,Lancaster County,Virginia,3706,24,-391,4097
+VA-105,Lee County,Virginia,3960,7,-645,4605
+VA-107,Loudoun County,Virginia,4221,4,-926,5147
+VA-109,Louisa County,Virginia,3799,6,-758,4557
+VA-111,Lunenburg County,Virginia,3553,10,-650,4203
+VA-113,Madison County,Virginia,4224,3,-914,5138
+VA-115,Mathews County,Virginia,3423,20,-466,3889
+VA-117,Mecklenburg County,Virginia,3395,7,-676,4071
+VA-119,Middlesex County,Virginia,3610,24,-396,4006
+VA-121,Montgomery County,Virginia,4284,1,-845,5129
+VA-125,Nelson County,Virginia,3804,1,-1018,4822
+VA-127,New Kent County,Virginia,3498,21,-448,3946
+VA-131,Northampton County,Virginia,3334,15,-573,3907
+VA-133,Northumberland County,Virginia,3782,21,-449,4231
+VA-135,Nottoway County,Virginia,3594,13,-603,4197
+VA-137,Orange County,Virginia,3925,6,-782,4707
+VA-139,Page County,Virginia,4517,4,-959,5476
+VA-141,Patrick County,Virginia,3999,11,-637,4636
+VA-143,Pittsylvania County,Virginia,3678,14,-576,4254
+VA-145,Powhatan County,Virginia,3622,12,-615,4237
+VA-147,Prince Edward County,Virginia,3603,7,-730,4333
+VA-149,Prince George County,Virginia,3372,22,-416,3788
+VA-153,Prince William County,Virginia,3864,5,-929,4793
+VA-155,Pulaski County,Virginia,4363,4,-845,5208
+VA-157,Rappahannock County,Virginia,4407,5,-881,5288
+VA-159,Richmond County,Virginia,3825,25,-389,4214
+VA-161,Roanoke County,Virginia,3993,6,-736,4729
+VA-163,Rockbridge County,Virginia,4174,3,-771,4945
+VA-165,Rockingham County,Virginia,4481,3,-962,5443
+VA-167,Russell County,Virginia,4363,8,-689,5052
+VA-169,Scott County,Virginia,3982,13,-589,4571
+VA-171,Shenandoah County,Virginia,4546,6,-846,5392
+VA-173,Smyth County,Virginia,4747,6,-764,5511
+VA-175,Southampton County,Virginia,3175,12,-578,3753
+VA-177,Spotsylvania County,Virginia,3955,12,-693,4648
+VA-179,Stafford County,Virginia,3821,10,-824,4645
+VA-181,Surry County,Virginia,3260,21,-482,3742
+VA-183,Sussex County,Virginia,3302,15,-537,3839
+VA-185,Tazewell County,Virginia,4889,8,-723,5612
+VA-187,Warren County,Virginia,4576,12,-762,5338
+VA-191,Washington County,Virginia,4248,9,-664,4912
+VA-193,Westmoreland County,Virginia,3809,20,-493,4302
+VA-195,Wise County,Virginia,4512,15,-593,5105
+VA-197,Wythe County,Virginia,4615,6,-813,5428
+VA-199,York County,Virginia,3208,18,-517,3725
+VA-510,Alexandria City,Virginia,3737,4,-837,4574
+VA-520,Bristol City,Virginia,3904,10,-648,4552
+VA-530,Buena Vista City,Virginia,3902,2,-752,4654
+VA-540,Charlottesville City,Virginia,3618,2,-946,4564
+VA-550,Chesapeake City,Virginia,2986,11,-591,3577
+VA-570,Colonial Heights City,Virginia,3467,24,-387,3854
+VA-580,Covington City,Virginia,4127,8,-704,4831
+VA-590,Danville City,Virginia,3555,22,-442,3997
+VA-595,Emporia City,Virginia,3250,12,-592,3842
+VA-600,Fairfax City,Virginia,3996,7,-848,4844
+VA-610,Falls Church City,Virginia,4002,10,-803,4805
+VA-620,Franklin City,Virginia,3140,11,-561,3701
+VA-630,Fredericksburg City,Virginia,3879,12,-740,4619
+VA-640,Galax City,Virginia,4450,4,-895,5345
+VA-650,Hampton City,Virginia,3021,12,-558,3579
+VA-660,Harrisonburg City,Virginia,4194,2,-961,5155
+VA-670,Hopewell City,Virginia,3422,29,-343,3765
+VA-680,Lynchburg City,Virginia,3637,1,-884,4521
+VA-683,Manassas City,Virginia,3886,4,-933,4819
+VA-685,Manassas Park City,Virginia,3893,4,-926,4819
+VA-690,Martinsville City,Virginia,3663,10,-583,4246
+VA-700,Newport News City,Virginia,3076,12,-537,3613
+VA-710,Norfolk City,Virginia,2862,11,-629,3491
+VA-720,Norton City,Virginia,4516,15,-572,5088
+VA-730,Petersburg City,Virginia,3462,24,-400,3862
+VA-735,Poquoson City,Virginia,3077,12,-548,3625
+VA-740,Portsmouth City,Virginia,2869,11,-589,3458
+VA-750,Radford City,Virginia,4239,1,-854,5093
+VA-760,Richmond City,Virginia,3495,15,-551,4046
+VA-770,Roanoke City,Virginia,3712,6,-690,4402
+VA-775,Salem City,Virginia,3722,6,-718,4440
+VA-790,Staunton City,Virginia,3949,1,-1169,5118
+VA-800,Suffolk City,Virginia,3068,11,-546,3614
+VA-810,Virginia Beach City,Virginia,2902,11,-639,3541
+VA-820,Waynesboro City,Virginia,3932,1,-1113,5045
+VA-830,Williamsburg City,Virginia,3276,18,-522,3798
+VA-840,Winchester City,Virginia,4629,13,-733,5362
+WA-001,Adams County,Washington,5634,4,-821,6455
+WA-003,Asotin County,Washington,5891,3,-924,6815
+WA-005,Benton County,Washington,4849,7,-630,5479
+WA-007,Chelan County,Washington,7625,8,-741,8366
+WA-009,Clallam County,Washington,6125,17,-560,6685
+WA-011,Clark County,Washington,4707,9,-608,5315
+WA-013,Columbia County,Washington,6172,9,-706,6878
+WA-015,Cowlitz County,Washington,5320,8,-686,6006
+WA-017,Douglas County,Washington,6257,6,-692,6949
+WA-019,Ferry County,Washington,7622,6,-833,8455
+WA-021,Franklin County,Washington,5008,5,-735,5743
+WA-023,Garfield County,Washington,5944,5,-838,6782
+WA-025,Grant County,Washington,5430,5,-786,6216
+WA-027,Grays Harbor County,Washington,5338,22,-432,5770
+WA-029,Island County,Washington,4891,13,-627,5518
+WA-031,Jefferson County,Washington,6764,19,-552,7316
+WA-033,King County,Washington,6067,15,-554,6621
+WA-035,Kitsap County,Washington,4771,14,-573,5344
+WA-037,Kittitas County,Washington,7028,11,-665,7693
+WA-039,Klickitat County,Washington,5985,12,-665,6650
+WA-041,Lewis County,Washington,6116,12,-564,6680
+WA-043,Lincoln County,Washington,6479,8,-637,7116
+WA-045,Mason County,Washington,5623,17,-517,6140
+WA-047,Okanogan County,Washington,7767,9,-760,8527
+WA-049,Pacific County,Washington,5035,12,-647,5682
+WA-051,Pend Oreille County,Washington,7866,5,-789,8655
+WA-053,Pierce County,Washington,6337,16,-561,6898
+WA-055,San Juan County,Washington,4964,11,-613,5577
+WA-057,Skagit County,Washington,6567,11,-689,7256
+WA-059,Skamania County,Washington,6837,11,-662,7499
+WA-061,Snohomish County,Washington,6370,9,-677,7047
+WA-063,Spokane County,Washington,6317,4,-885,7202
+WA-065,Stevens County,Washington,7011,6,-782,7793
+WA-067,Thurston County,Washington,4958,15,-489,5447
+WA-069,Wahkiakum County,Washington,5074,9,-696,5770
+WA-071,Walla Walla County,Washington,4931,9,-609,5540
+WA-073,Whatcom County,Washington,7159,12,-699,7858
+WA-075,Whitman County,Washington,5634,3,-874,6508
+WA-077,Yakima County,Washington,6655,14,-599,7254
+WV-001,Barbour County,West Virginia,4793,3,-943,5736
+WV-003,Berkeley County,West Virginia,4694,12,-764,5458
+WV-005,Boone County,West Virginia,4115,7,-756,4871
+WV-007,Braxton County,West Virginia,4408,12,-719,5127
+WV-009,Brooke County,West Virginia,4927,3,-930,5857
+WV-011,Cabell County,West Virginia,3905,2,-896,4801
+WV-013,Calhoun County,West Virginia,4339,4,-883,5222
+WV-015,Clay County,West Virginia,4289,8,-723,5012
+WV-017,Doddridge County,West Virginia,4484,2,-965,5449
+WV-019,Fayette County,West Virginia,4726,14,-683,5409
+WV-021,Gilmer County,West Virginia,4350,4,-888,5238
+WV-023,Grant County,West Virginia,5052,3,-892,5944
+WV-025,Greenbrier County,West Virginia,5169,5,-844,6013
+WV-027,Hampshire County,West Virginia,4753,5,-788,5541
+WV-029,Hancock County,West Virginia,5156,6,-796,5952
+WV-031,Hardy County,West Virginia,4843,4,-829,5672
+WV-033,Harrison County,West Virginia,4563,4,-927,5490
+WV-035,Jackson County,West Virginia,4225,3,-841,5066
+WV-037,Jefferson County,West Virginia,4542,9,-782,5324
+WV-039,Kanawha County,West Virginia,4083,5,-746,4829
+WV-041,Lewis County,West Virginia,4458,4,-875,5333
+WV-043,Lincoln County,West Virginia,3877,3,-816,4693
+WV-045,Logan County,West Virginia,3918,3,-805,4723
+WV-047,McDowell County,West Virginia,4362,9,-690,5052
+WV-049,Marion County,West Virginia,4761,6,-823,5584
+WV-051,Marshall County,West Virginia,4985,6,-763,5748
+WV-053,Mason County,West Virginia,4322,9,-670,4992
+WV-055,Mercer County,West Virginia,4848,14,-596,5444
+WV-057,Mineral County,West Virginia,4671,2,-819,5490
+WV-059,Mingo County,West Virginia,3849,6,-743,4592
+WV-061,Monongalia County,West Virginia,4877,5,-841,5718
+WV-063,Monroe County,West Virginia,4624,3,-813,5437
+WV-065,Morgan County,West Virginia,4806,11,-744,5550
+WV-067,Nicholas County,West Virginia,4924,11,-696,5620
+WV-069,Ohio County,West Virginia,4958,4,-909,5867
+WV-071,Pendleton County,West Virginia,5207,3,-933,6140
+WV-073,Pleasants County,West Virginia,4443,2,-1000,5443
+WV-075,Pocahontas County,West Virginia,6005,6,-810,6815
+WV-077,Preston County,West Virginia,5276,1,-1006,6282
+WV-079,Putnam County,West Virginia,4032,2,-817,4849
+WV-081,Raleigh County,West Virginia,4766,12,-719,5485
+WV-083,Randolph County,West Virginia,5731,3,-991,6722
+WV-085,Ritchie County,West Virginia,4381,2,-1005,5386
+WV-087,Roane County,West Virginia,4252,2,-845,5097
+WV-089,Summers County,West Virginia,4583,8,-708,5291
+WV-091,Taylor County,West Virginia,4694,4,-874,5568
+WV-093,Tucker County,West Virginia,5738,3,-1032,6770
+WV-095,Tyler County,West Virginia,4562,2,-919,5481
+WV-097,Upshur County,West Virginia,4776,4,-909,5685
+WV-099,Wayne County,West Virginia,3822,2,-897,4719
+WV-101,Webster County,West Virginia,5302,13,-678,5980
+WV-103,Wetzel County,West Virginia,4805,5,-815,5620
+WV-105,Wirt County,West Virginia,4287,1,-978,5265
+WV-107,Wood County,West Virginia,4255,1,-1006,5261
+WV-109,Wyoming County,West Virginia,4329,4,-783,5112
+WI-001,Adams County,Wisconsin,6662,1,-1601,8263
+WI-003,Ashland County,Wisconsin,8058,3,-1567,9625
+WI-005,Barron County,Wisconsin,7415,1,-1628,9043
+WI-007,Bayfield County,Wisconsin,7875,1,-1733,9608
+WI-009,Brown County,Wisconsin,6490,1,-1846,8336
+WI-011,Buffalo County,Wisconsin,6693,2,-1474,8167
+WI-013,Burnett County,Wisconsin,7503,1,-1690,9193
+WI-015,Calumet County,Wisconsin,6516,1,-1680,8196
+WI-017,Chippewa County,Wisconsin,7193,1,-1589,8782
+WI-019,Clark County,Wisconsin,7187,1,-1690,8877
+WI-021,Columbia County,Wisconsin,6220,1,-1637,7857
+WI-023,Crawford County,Wisconsin,6364,3,-1273,7637
+WI-025,Dane County,Wisconsin,6044,1,-1580,7624
+WI-027,Dodge County,Wisconsin,6351,2,-1422,7773
+WI-029,Door County,Wisconsin,6802,1,-1598,8400
+WI-031,Douglas County,Wisconsin,7898,1,-1721,9619
+WI-033,Dunn County,Wisconsin,7033,1,-1521,8554
+WI-035,Eau Claire County,Wisconsin,6946,1,-1657,8603
+WI-037,Florence County,Wisconsin,7942,1,-1707,9649
+WI-039,Fond du Lac County,Wisconsin,6405,1,-1602,8007
+WI-041,Forest County,Wisconsin,8142,2,-1591,9733
+WI-043,Grant County,Wisconsin,6134,2,-1320,7454
+WI-045,Green County,Wisconsin,6006,1,-1427,7433
+WI-047,Green Lake County,Wisconsin,6368,1,-1607,7975
+WI-049,Iowa County,Wisconsin,6271,1,-1418,7689
+WI-051,Iron County,Wisconsin,8373,4,-1450,9823
+WI-053,Jackson County,Wisconsin,6769,1,-1741,8510
+WI-055,Jefferson County,Wisconsin,6066,2,-1384,7450
+WI-057,Juneau County,Wisconsin,6707,1,-1547,8254
+WI-059,Kenosha County,Wisconsin,5698,1,-1406,7104
+WI-061,Kewaunee County,Wisconsin,6617,1,-1736,8353
+WI-063,La Crosse County,Wisconsin,6510,2,-1469,7979
+WI-065,Lafayette County,Wisconsin,6191,1,-1315,7506
+WI-067,Langlade County,Wisconsin,7843,1,-1652,9495
+WI-069,Lincoln County,Wisconsin,7806,3,-1561,9367
+WI-071,Manitowoc County,Wisconsin,6507,1,-1664,8171
+WI-073,Marathon County,Wisconsin,7274,1,-1722,8996
+WI-075,Marinette County,Wisconsin,7244,1,-1622,8866
+WI-077,Marquette County,Wisconsin,6413,1,-1614,8027
+WI-078,Menominee County,Wisconsin,7181,1,-1765,8946
+WI-079,Milwaukee County,Wisconsin,5835,1,-1487,7322
+WI-081,Monroe County,Wisconsin,6774,1,-1535,8309
+WI-083,Oconto County,Wisconsin,7043,1,-1670,8713
+WI-085,Oneida County,Wisconsin,8205,3,-1425,9630
+WI-087,Outagamie County,Wisconsin,6448,1,-1850,8298
+WI-089,Ozaukee County,Wisconsin,6251,2,-1417,7668
+WI-091,Pepin County,Wisconsin,6782,3,-1422,8204
+WI-093,Pierce County,Wisconsin,6978,1,-1423,8401
+WI-095,Polk County,Wisconsin,7334,1,-1600,8934
+WI-097,Portage County,Wisconsin,6813,1,-1764,8577
+WI-099,Price County,Wisconsin,8085,3,-1535,9620
+WI-101,Racine County,Wisconsin,5809,1,-1415,7224
+WI-103,Richland County,Wisconsin,6403,2,-1385,7788
+WI-105,Rock County,Wisconsin,5875,1,-1414,7289
+WI-107,Rusk County,Wisconsin,7654,2,-1458,9112
+WI-109,St. Croix County,Wisconsin,7097,1,-1518,8615
+WI-111,Sauk County,Wisconsin,6390,1,-1508,7898
+WI-113,Sawyer County,Wisconsin,7964,1,-1663,9627
+WI-115,Shawano County,Wisconsin,6917,1,-1812,8729
+WI-117,Sheboygan County,Wisconsin,6495,2,-1473,7968
+WI-119,Taylor County,Wisconsin,7686,2,-1551,9237
+WI-121,Trempealeau County,Wisconsin,6694,1,-1579,8273
+WI-123,Vernon County,Wisconsin,6696,3,-1310,8006
+WI-125,Vilas County,Wisconsin,8473,5,-1404,9877
+WI-127,Walworth County,Wisconsin,6126,3,-1214,7340
+WI-129,Washburn County,Wisconsin,7766,1,-1637,9403
+WI-131,Washington County,Wisconsin,6492,1,-1391,7883
+WI-133,Waukesha County,Wisconsin,6097,1,-1469,7566
+WI-135,Waupaca County,Wisconsin,6535,1,-1842,8377
+WI-137,Waushara County,Wisconsin,6509,1,-1758,8267
+WI-139,Winnebago County,Wisconsin,6327,1,-1720,8047
+WI-141,Wood County,Wisconsin,6902,1,-1660,8562
+WY-001,Albany County,Wyoming,8243,5,-1117,9360
+WY-003,Big Horn County,Wyoming,7345,1,-1457,8802
+WY-005,Campbell County,Wyoming,6946,1,-1246,8192
+WY-007,Carbon County,Wyoming,8286,11,-813,9099
+WY-009,Converse County,Wyoming,7119,3,-978,8097
+WY-011,Crook County,Wyoming,7170,4,-1190,8360
+WY-013,Fremont County,Wyoming,8327,6,-960,9287
+WY-015,Goshen County,Wyoming,6056,1,-1300,7356
+WY-017,Hot Springs County,Wyoming,7520,4,-990,8510
+WY-019,Johnson County,Wyoming,7335,3,-1090,8425
+WY-021,Laramie County,Wyoming,6555,3,-1222,7777
+WY-023,Lincoln County,Wyoming,9220,8,-906,10126
+WY-025,Natrona County,Wyoming,7449,4,-955,8404
+WY-027,Niobrara County,Wyoming,6323,1,-1495,7818
+WY-029,Park County,Wyoming,8930,4,-1106,10036
+WY-031,Platte County,Wyoming,6340,2,-1162,7502
+WY-033,Sheridan County,Wyoming,7491,2,-1230,8721
+WY-035,Sublette County,Wyoming,10178,7,-837,11015
+WY-037,Sweetwater County,Wyoming,8129,8,-829,8958
+WY-039,Teton County,Wyoming,10454,10,-686,11140
+WY-041,Uinta County,Wyoming,8702,11,-737,9439
+WY-043,Washakie County,Wyoming,7042,2,-1165,8207
+WY-045,Weston County,Wyoming,6858,1,-1339,8197
