@@ -4,6 +4,7 @@ from pathlib import Path
 import requests
 import pandas as pd
 import os
+from shapely import wkt
 
 def convert_geoid_data_to_number(temp_df, id_str):
     temp_df[id_str] = temp_df[id_str].apply(convert_geoid)
@@ -34,7 +35,7 @@ def convert_geoid(geoid_str):
 
     if state_code:
         # Return state code + the 3-digit county code padded with zeros
-        return f"{state_code}{numbers.zfill(3)}"
+        return int(f"{state_code}{numbers.zfill(3)}")
     else:
         return None # Or return the original if no match found
 
@@ -44,53 +45,61 @@ def generate_map():
     print("PWD is " + pwd)
 
     # Get NOAA Data
-    fresh_data = False
-    if fresh_data:
-        temp_df = get_noaa_temp_data(2024)
-        # Saves the dataframe to your current folder
-        # 3. Merge Map with Temperature Data
-        # Census 'GEOID' matches the NOAA county ID
-        temp_df = convert_geoid_data_to_number(temp_df)
-        temp_df.to_csv("Downloads/temp_df.csv", index=False)
-        continental.to_csv("Downloads/continental.csv", index=False)
-        continental = continental.merge(temp_df, on='GEOID')
-        continental.to_csv("Downloads/us_county_temperatures.csv", index=False)
-    else:
-        parent_path = Path(pwd).parent
-        print("Parent path is " + str(parent_path))
-        hdd_path = parent_path / 'data/hdd_with_meta.csv'
-        hdd_data = pd.read_csv(hdd_path, skiprows=3)
-        cdd_path = parent_path / 'data/cdd_with_meta.csv'
-        cdd_data = pd.read_csv(cdd_path, skiprows=3)
+    parent_path = Path(pwd).parent
+    print("Parent path is " + str(parent_path))
+    hdd_path = parent_path / 'data/hdd_with_meta.csv'
+    hdd_data = pd.read_csv(hdd_path, skiprows=3)
+    cdd_path = parent_path / 'data/cdd_with_meta.csv'
+    cdd_data = pd.read_csv(cdd_path, skiprows=3)
+    continental_path = parent_path / 'data/continental.csv'
+    continental = pd.read_csv(continental_path)
 
     # Reformat data
     hdd_data = convert_geoid_data_to_number(hdd_data, "ID")
-    hdd_data.rename(columns= {"Value" : "HDD"})
+    hdd_data.rename(columns= {"Value" : "HDD"}, inplace=True)
+    hdd_data.rename(columns= {"ID" : "GEOID"}, inplace=True)
     cdd_data = convert_geoid_data_to_number(cdd_data, "ID")
-    cdd_data.rename(columns= {"Value" : "CDD"})
+    cdd_data.rename(columns= {"Value" : "CDD"}, inplace=True)
+    cdd_data.rename(columns= {"ID" : "GEOID"}, inplace=True)
+
+    # Check head
+    print("Printing Head of HDD")
+    print(hdd_data.head())
+    print("Printing Head of CDD")
+    print(cdd_data.head())
+    print("Printing Head of Continental")
+    print(continental.head())
 
     # Merge with other datasets
+    dd_data = hdd_data.merge(cdd_data, on='GEOID')
+    all_data = continental.merge(dd_data, on='GEOID')
 
+    # 1. Convert the 'geometry' string column back into actual geometric objects
+    all_data['geometry'] = all_data['geometry'].apply(wkt.loads)
 
-    # 4. Plot
+    # 2. Convert the pandas DataFrame to a GeoDataFrame
+    all_data = gpd.GeoDataFrame(all_data, geometry='geometry')
+
+    # 3. Set the Coordinate Reference System (CRS) if known (optional but recommended)
+    all_data.set_crs("EPSG:5070", inplace=True) 
+
+    # 4. Now the plot call will work correctly
     fig, ax = plt.subplots(figsize=(20, 12))
-    
-    # Using 'RdYlBu_r' cmap (Red for hot, Blue for cold)
-    plot = continental.plot(
-        column='temperature', 
+    all_data.plot(
+        column='HDD', 
         ax=ax, 
         cmap='RdYlBu_r', 
         legend=True,
-        legend_kwds={'label': "Average Yearly Temperature (°F)", 'orientation': "horizontal"},
+        legend_kwds={'label': "2025 HDD", 'orientation': "horizontal"},
         edgecolor='black', 
         linewidth=0.05
     )
 
     ax.set_axis_off()
-    plt.title("2024 Average Yearly Temperature by County", fontsize=20)
+    plt.title("2025 HDD by County", fontsize=20)
     
-    plt.savefig("Downloads/us_temp_map.png", dpi=300, bbox_inches='tight')
-    print("Map saved as us_temp_map.png")
+    plt.savefig(parent_path / 'image/hdd.png', dpi=300, bbox_inches='tight')
+    print("Map saved")
     plt.show()
 
 if __name__ == "__main__":
