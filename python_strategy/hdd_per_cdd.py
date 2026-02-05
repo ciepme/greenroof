@@ -8,6 +8,58 @@ import os
 import numpy as np
 from shapely import wkt
 
+def plot_threshold_regions(all_data, parent_path):
+    # discrete mapping
+    #regime_names = {1: 'Cool Roof', 2: 'Green Roof'}
+    #unique_regimes = sorted(all_data['roof_regime'].unique())
+    
+    # distinct colors
+    colors_list = ["#cfcfcf", '#2ecc71']
+    cmap = colors.ListedColormap(colors_list)
+
+    fig, ax = plt.subplots(figsize=(20, 12))
+    all_data.plot(
+        column='roof_regime', 
+        ax=ax, 
+        cmap=cmap, 
+        categorical=True, # Tells GeoPandas to treat values as categories
+        legend=True,
+        # legend_kwds for categorical data handles the labels automatically
+        legend_kwds={'loc': 'lower right', 'title': "Roof Strategies"},
+        edgecolor='black', 
+        linewidth=0.05
+    )
+
+    ax.set_axis_off()
+    plt.title("Recommended Roof Regime by US County", fontsize=20)
+    
+    # Save the map
+    plt.savefig(parent_path / 'image/roof_regime_map.png', dpi=300, bbox_inches='tight')
+    plt.show()
+
+def plot_hdd_per_cdd(all_data, parent_path):
+    # This makes 1.0 (equal heating/cooling) the center of your color map
+    divnorm = colors.TwoSlopeNorm(vmin=0., vcenter=1., vmax=15.)
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+    all_data.plot(
+        column='HDD_per_CDD', 
+        ax=ax, 
+        cmap='RdYlBu_r', 
+        norm=divnorm,
+        legend=True,
+        legend_kwds={'label': "2025 HDD per CDD", 'orientation': "horizontal"},
+        edgecolor='black', 
+        linewidth=0.05
+    )
+
+    ax.set_axis_off()
+    plt.title("2025 HDD/CDD by County", fontsize=20)
+    
+    plt.savefig(parent_path / 'image/hdd_per_cdd.png', dpi=300, bbox_inches='tight')
+    print("Map saved")
+    plt.show()
+
 def convert_geoid_data_to_number(temp_df, id_str):
     temp_df[id_str] = temp_df[id_str].apply(convert_geoid)
     return temp_df # MUST return the dataframe
@@ -85,10 +137,14 @@ def generate_map():
     # 3. Set the Coordinate Reference System (CRS) if known (optional but recommended)
     all_data.set_crs("EPSG:5070", inplace=True)
 
-    # Do analysis
+    # DO ANALYSIS
     all_data['HDD_per_CDD'] = all_data['HDD'] / all_data['CDD']
 
     all_data['CDD'].replace(0, np.nan)
+
+    #create regimes
+    #fake numbers
+    all_data['roof_regime'] = all_data['HDD_per_CDD'] > 7
 
     # save data
     all_data.to_csv(parent_path / 'data/all_data.csv', index=False)
@@ -102,27 +158,10 @@ def generate_map():
     print(all_data['CDD'].head())
 
     # Plot
-    # This makes 1.0 (equal heating/cooling) the center of your color map
-    divnorm = colors.TwoSlopeNorm(vmin=0., vcenter=1., vmax=15.)
-
-    fig, ax = plt.subplots(figsize=(10, 6))
-    all_data.plot(
-        column='HDD_per_CDD', 
-        ax=ax, 
-        cmap='RdYlBu_r', 
-        norm=divnorm,
-        legend=True,
-        legend_kwds={'label': "2025 HDD per CDD", 'orientation': "horizontal"},
-        edgecolor='black', 
-        linewidth=0.05
-    )
-
-    ax.set_axis_off()
-    plt.title("2025 HDD by County", fontsize=20)
-    
-    plt.savefig(parent_path / 'image/hdd_per_cdd.png', dpi=300, bbox_inches='tight')
-    print("Map saved")
-    plt.show()
+    print('Plot HDD per CDD')
+    plot_hdd_per_cdd(all_data, parent_path)
+    print("Plot Regimes")
+    plot_threshold_regions(all_data, parent_path)
 
 if __name__ == "__main__":
     generate_map()
