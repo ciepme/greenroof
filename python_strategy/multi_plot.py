@@ -128,8 +128,13 @@ def generate_map():
     all_data['MAX TEMP'] = all_data[['MAX TEMP JUN', 'MAX TEMP JUL', 'MAX TEMP AUG']].max(axis=1)
 
     #create regimes
-    #fake numbers
-    all_data['roof_regime'] = all_data['HDD_per_CDD'] > 7
+    #green roof
+    all_data['GREEN ROOF'] = 0 # default value
+    all_data.loc[all_data['MIN TEMP'] > 20, 'GREEN ROOF'] = 1
+    all_data.loc[all_data['MIN TEMP'] > 31.3, 'GREEN ROOF'] = 2
+
+    #cool roof
+    all_data['COOL ROOF'] = (all_data['CDD'] > 2700) & (all_data['HDD'] < 3600) # based on >4 data
 
     # save data
     all_data.to_csv(parent_path / 'data/all_data.csv', index=False)
@@ -146,19 +151,20 @@ def generate_map():
 
     # plot HDD per CDD
     print('Plot HDD per CDD')
-    gplot.plot_hdd_per_cdd(all_data, parent_path)
+    #gplot.plot_hdd_per_cdd(all_data, parent_path)
 
     # plot thresholds
     print("Plot Regimes")
-    gplot.plot_threshold_regions(all_data, parent_path)
+    gplot.plot_green_roof_regime(all_data, parent_path)
+    gplot.plot_cool_roof_regime(all_data, parent_path)
 
     # plot min temperatures
     print('Plot MIN TEMP')
-    gplot.plot_min_temp(all_data, parent_path)
+    #gplot.plot_min_temp(all_data, parent_path)
 
     # plot max temperatures
     print('Plot MAX TEMP')
-    gplot.plot_max_temp(all_data, parent_path)
+    #gplot.plot_max_temp(all_data, parent_path)
 
 if __name__ == "__main__":
     generate_map()
