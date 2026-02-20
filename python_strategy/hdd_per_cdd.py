@@ -92,6 +92,11 @@ def convert_geoid(geoid_str):
         return int(f"{state_code}{numbers.zfill(3)}")
     else:
         return None # Or return the original if no match found
+def reformat_geodata(og_data, val_name):
+    og_data = convert_geoid_data_to_number(og_data, "ID")
+    og_data.rename(columns= {"Value" : val_name}, inplace=True)
+    og_data.rename(columns= {"ID" : "GEOID"}, inplace=True)
+    return og_data
 
 def generate_map():
     os.chdir('C:/Users/ciepm/OneDrive/Documents/Github/greenroof/python_strategy')
@@ -101,20 +106,33 @@ def generate_map():
     # Get NOAA Data
     parent_path = Path(pwd).parent
     print("Parent path is " + str(parent_path))
+
     hdd_path = parent_path / 'data/hdd_with_meta.csv'
     hdd_data = pd.read_csv(hdd_path, skiprows=3)
     cdd_path = parent_path / 'data/cdd_with_meta.csv'
     cdd_data = pd.read_csv(cdd_path, skiprows=3)
+    drought_path = parent_path / 'data/palmer_mod_drought_index_august.csv'
+    drought_data = pd.read_csv(drought_path, skiprows=2)
+    max_temp_august_path = parent_path / 'data/max_temp_august.csv'
+    max_temp_august_data = pd.read_csv(max_temp_august_path, skiprows=3)
+    min_temp_january_path = parent_path / 'data/min_temp_january.csv'
+    min_temp_january_data = pd.read_csv(min_temp_january_path, skiprows=3)
+    min_temp_february_path = parent_path / 'data/min_temp_february.csv'
+    min_temp_february_data = pd.read_csv(min_temp_february_path, skiprows=3)
+    min_temp_december_path = parent_path / 'data/min_temp_december.csv'
+    min_temp_december_data = pd.read_csv(min_temp_december_path, skiprows=3)
+
     continental_path = parent_path / 'data/continental.csv'
     continental = pd.read_csv(continental_path)
 
     # Reformat data
-    hdd_data = convert_geoid_data_to_number(hdd_data, "ID")
-    hdd_data.rename(columns= {"Value" : "HDD"}, inplace=True)
-    hdd_data.rename(columns= {"ID" : "GEOID"}, inplace=True)
-    cdd_data = convert_geoid_data_to_number(cdd_data, "ID")
-    cdd_data.rename(columns= {"Value" : "CDD"}, inplace=True)
-    cdd_data.rename(columns= {"ID" : "GEOID"}, inplace=True)
+    hdd_data = reformat_geodata(hdd_data, "HDD")
+    cdd_data = reformat_geodata(cdd_data, "CDD")
+    drought_data = reformat_geodata(drought_data, "PALMER MOD INDEX")
+    max_temp_august_data = reformat_geodata(max_temp_august_data, "MAX TEMP")
+    min_temp_january_data = reformat_geodata(min_temp_january_data, "MIN TEMP")
+    min_temp_february_data = reformat_geodata(min_temp_february_data, "MIN TEMP")
+    min_temp_december_data = reformat_geodata(min_temp_december_data, "MIN TEMP")
 
     # Check head
     print("Printing Head of HDD")
